@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  26 FEB 2018 18:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  26 FEB 2018 18:26
 entering extended mode
 **main4.tex
 (main4.tex
@@ -142,7 +142,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 14.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (main4.toc
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [1] (main4.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -187,7 +187,7 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
  [25] [26] [27]
-<rb/filtering.jpg, id=93, 333.8874pt x 219.7008pt>
+<rb/filtering.jpg, id=96, 333.8874pt x 219.7008pt>
 File: rb/filtering.jpg Graphic file (type jpg)
  <use rb/filtering.jpg>
 Package pdftex.def Info: rb/filtering.jpg used on input line 63.
@@ -201,19 +201,19 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ” in font cmr12!
  [30] [31]
-<rb/ROI_methods.jpg, id=108, 3081.5125pt x 2360.82pt>
+<rb/ROI_methods.jpg, id=111, 3081.5125pt x 2360.82pt>
 File: rb/ROI_methods.jpg Graphic file (type jpg)
  <use rb/ROI_methods.jpg>
 Package pdftex.def Info: rb/ROI_methods.jpg used on input line 89.
 (pdftex.def)             Requested size: 390.0pt x 298.77614pt.
 
 [32 <./rb/ROI_methods.jpg>] [33]
-<rb/scms.jpg, id=115, 2779.38374pt x 1341.01pt>
+<rb/scms.jpg, id=118, 2779.38374pt x 1341.01pt>
 File: rb/scms.jpg Graphic file (type jpg)
  <use rb/scms.jpg>
 Package pdftex.def Info: rb/scms.jpg used on input line 107.
 (pdftex.def)             Requested size: 390.0pt x 188.14935pt.
- [34 <./rb/scms.jpg>] <rb/rep_image.jpg, id=119, 1047.915pt x 954.56625pt>
+ [34 <./rb/scms.jpg>] <rb/rep_image.jpg, id=122, 1047.915pt x 954.56625pt>
 File: rb/rep_image.jpg Graphic file (type jpg)
 
 <use rb/rep_image.jpg>
@@ -229,33 +229,33 @@ Missing character: There is no ™ in font cmr12!
 
 LaTeX Warning: Float too large for page by 80.0856pt on input line 119.
 
-<rb/figure2.jpg, id=120, 798.8244pt x 352.1958pt>
+<rb/figure2.jpg, id=123, 798.8244pt x 352.1958pt>
 File: rb/figure2.jpg Graphic file (type jpg)
  <use rb/figure2.jpg>
 Package pdftex.def Info: rb/figure2.jpg used on input line 124.
 (pdftex.def)             Requested size: 390.0pt x 171.94868pt.
  [35]
-[36 <./rb/rep_image.jpg>] <rb/roi_hist.jpg, id=128, 597.23125pt x 406.51875pt>
+[36 <./rb/rep_image.jpg>] <rb/roi_hist.jpg, id=131, 597.23125pt x 406.51875pt>
 File: rb/roi_hist.jpg Graphic file (type jpg)
 
 <use rb/roi_hist.jpg>
 Package pdftex.def Info: rb/roi_hist.jpg used on input line 135.
 (pdftex.def)             Requested size: 390.0pt x 265.46223pt.
  [37 <./rb/figure2.jpg>] [38 <./rb/roi_hist.jpg>]
-<rb/singlepx_hist.jpg, id=135, 359.9046pt x 212.2329pt>
+<rb/singlepx_hist.jpg, id=138, 359.9046pt x 212.2329pt>
 File: rb/singlepx_hist.jpg Graphic file (type jpg)
 
 <use rb/singlepx_hist.jpg>
 Package pdftex.def Info: rb/singlepx_hist.jpg used on input line 149.
 (pdftex.def)             Requested size: 390.0pt x 229.99503pt.
  [39] [40 <./rb/singlepx_hist.jpg>]
-<rb/S3.jpg, id=142, 969.6225pt x 958.58125pt>
+<rb/S3.jpg, id=145, 969.6225pt x 958.58125pt>
 File: rb/S3.jpg Graphic file (type jpg)
  <use rb/S3.jpg>
 Package pdftex.def Info: rb/S3.jpg used on input line 158.
 (pdftex.def)             Requested size: 390.0pt x 385.56122pt.
 
-<rb/S4.jpg, id=143, 977.6525pt x 1013.7875pt>
+<rb/S4.jpg, id=146, 977.6525pt x 1013.7875pt>
 File: rb/S4.jpg Graphic file (type jpg)
  <use rb/S4.jpg>
 Package pdftex.def Info: rb/S4.jpg used on input line 165.
@@ -267,7 +267,7 @@ Chapter 6.
 [50
 
 ] [51] [52] [53] [54] [55] [56] [57] [58]
-<superiorcolliculus/anatpos.jpg, id=204, 1132.23pt x 623.32875pt>
+<superiorcolliculus/anatpos.jpg, id=207, 1132.23pt x 623.32875pt>
 File: superiorcolliculus/anatpos.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/anatpos.jpg>
@@ -278,7 +278,7 @@ Missing character: There is no ¼ in font cmr12!
 Missing character: There is no Î in font cmr12!
 Missing character: There is no ¼ in font cmr12!
  [59 <./superiorcolliculus/anatpos.jpg>]
-<superiorcolliculus/SCOriResp.jpg, id=208, 1154.3125pt x 1346.02875pt>
+<superiorcolliculus/SCOriResp.jpg, id=212, 1154.3125pt x 1346.02875pt>
 File: superiorcolliculus/SCOriResp.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/SCOriResp.jpg>
@@ -289,7 +289,7 @@ Package pdftex.def Info: superiorcolliculus/SCOriResp.jpg used on input line 86
 
 LaTeX Warning: Float too large for page by 17.7683pt on input line 89.
 
-<superiorcolliculus/rangeoritun.jpg, id=209, 2234.3475pt x 738.76pt>
+<superiorcolliculus/rangeoritun.jpg, id=213, 2234.3475pt x 738.76pt>
 File: superiorcolliculus/rangeoritun.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/rangeoritun.jpg>
@@ -297,7 +297,7 @@ Package pdftex.def Info: superiorcolliculus/rangeoritun.jpg used on input line
 93.
 (pdftex.def)             Requested size: 390.0pt x 128.94675pt.
 
-<superiorcolliculus/cvlampos.jpg, id=210, 915.42pt x 361.35pt>
+<superiorcolliculus/cvlampos.jpg, id=214, 915.42pt x 361.35pt>
 File: superiorcolliculus/cvlampos.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/cvlampos.jpg>
@@ -306,7 +306,7 @@ Package pdftex.def Info: superiorcolliculus/cvlampos.jpg used on input line 105
 (pdftex.def)             Requested size: 390.0pt x 153.9439pt.
  [60] [61 <./superiorcolliculus/SCOriResp.jpg>] [62 <./superiorcolliculus/range
 oritun.jpg> <./superiorcolliculus/cvlampos.jpg>] <superiorcolliculus/SCOptOrth.
-jpg, id=222, 920.43875pt x 457.71pt>
+jpg, id=225, 920.43875pt x 457.71pt>
 File: superiorcolliculus/SCOptOrth.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/SCOptOrth.jpg>
@@ -314,7 +314,7 @@ Package pdftex.def Info: superiorcolliculus/SCOptOrth.jpg used on input line 12
 1.
 (pdftex.def)             Requested size: 390.0pt x 193.94101pt.
 
-<superiorcolliculus/SCSFTuning.jpg, id=223, 756.8275pt x 440.64626pt>
+<superiorcolliculus/SCSFTuning.jpg, id=226, 756.8275pt x 440.64626pt>
 File: superiorcolliculus/SCSFTuning.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/SCSFTuning.jpg>
@@ -322,7 +322,7 @@ Package pdftex.def Info: superiorcolliculus/SCSFTuning.jpg used on input line 1
 30.
 (pdftex.def)             Requested size: 390.0pt x 227.06647pt.
 
-<SCvgeniculostriate.jpg, id=224, 1069.9975pt x 660.4675pt>
+<SCvgeniculostriate.jpg, id=227, 1069.9975pt x 660.4675pt>
 File: SCvgeniculostriate.jpg Graphic file (type jpg)
 
 <use SCvgeniculostriate.jpg>
@@ -392,21 +392,21 @@ Missing character: There is no ¼ in font cmr12!
 Missing character: There is no Ï in font cmr12!
 Missing character: There is no ƒ in font cmr12!
  [80] [81] [82]
-<LinearV1/simplecomplex.jpg, id=289, 460.8417pt x 166.4619pt>
+<LinearV1/simplecomplex.jpg, id=292, 460.8417pt x 166.4619pt>
 File: LinearV1/simplecomplex.jpg Graphic file (type jpg)
 
 <use LinearV1/simplecomplex.jpg>
 Package pdftex.def Info: LinearV1/simplecomplex.jpg used on input line 69.
 (pdftex.def)             Requested size: 390.0pt x 140.88112pt.
  [83]
-<LinearV1/segregationindex_colouradj.jpg, id=293, 936.49875pt x 624.3325pt>
+<LinearV1/segregationindex_colouradj.jpg, id=297, 936.49875pt x 624.3325pt>
 File: LinearV1/segregationindex_colouradj.jpg Graphic file (type jpg)
 
 <use LinearV1/segregationindex_colouradj.jpg>
 Package pdftex.def Info: LinearV1/segregationindex_colouradj.jpg used on input 
 line 77.
 (pdftex.def)             Requested size: 390.0pt x 259.99818pt.
- [84 <./LinearV1/simplecomplex.jpg>] <LinearV1/modind_layer_colour.jpg, id=298,
+ [84 <./LinearV1/simplecomplex.jpg>] <LinearV1/modind_layer_colour.jpg, id=301,
  744.7825pt x 494.84875pt>
 File: LinearV1/modind_layer_colour.jpg Graphic file (type jpg)
 
@@ -415,7 +415,7 @@ Package pdftex.def Info: LinearV1/modind_layer_colour.jpg used on input line 87
 .
 (pdftex.def)             Requested size: 390.0pt x 259.12747pt.
  [85 <./LinearV1/segregationindex_colouradj.jpg>] <LinearV1/Segindvsmodind.jpg,
- id=302, 695.59875pt x 504.88625pt>
+ id=305, 695.59875pt x 504.88625pt>
 File: LinearV1/Segindvsmodind.jpg Graphic file (type jpg)
 
 <use LinearV1/Segindvsmodind.jpg>
@@ -427,7 +427,7 @@ Package pdftex.def Info: LinearV1/Segindvsmodind.jpg used on input line 96.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 105.
 
-<LinearV1/hwpksf.jpg, id=309, 829.6596pt x 695.4783pt>
+<LinearV1/hwpksf.jpg, id=312, 829.6596pt x 695.4783pt>
 File: LinearV1/hwpksf.jpg Graphic file (type jpg)
 
 <use LinearV1/hwpksf.jpg>
@@ -482,9 +482,9 @@ es/LaTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/LaTex/font
 s/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/LaTex/fonts/type1/public
 /amsfonts/cm/cmti12.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/
 cmtt12.pfb>
-Output written on main4.pdf (91 pages, 12359129 bytes).
+Output written on main4.pdf (92 pages, 12359601 bytes).
 PDF statistics:
- 360 PDF objects out of 1000 (max. 8388607)
+ 363 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
