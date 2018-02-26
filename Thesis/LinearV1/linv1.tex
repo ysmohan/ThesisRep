@@ -13,6 +13,14 @@
 	It was proposed by Robson and Campbell that neurons in the primary visual cortex function do not all function as a single detector. Rather, they suggest that there are a number of “independent detector mechanism” each of which is tuned to a narrow range of frequencies (Campbell and Robson, 1968).  They also report that there are individual “channels” for most of the spatial frequencies that the neurons see. as patch by patch Fourier transformers. What this essentially meant was that neurons analysed each patch of the visual field individually and extracted the spatial frequency information and then used this information to create a composite whole. Campbell and Robson reframed this hypothesis to say that this implied that neurons that analysed the same patch of visual field had the same receptive field sizes but different peak spatial frequencies. This is supported by studies that have shown that in the primary visual cortex, while there are orientation columns where the orientation remains constant, there are no such spatial frequency columns. Within an area of the cortex, spatial frequency can vary by a lot.
 	For neurons to have the same receptive field size but different peak spatial frequencies, they should have different number of receptive field sub-regions. Blah blah blah showed that the size of the receptive subregions affect the peak spatial frequencies whereas the number of receptive field sub-regions affects the bandwidth of the tuning (see figure 1a an). This implies that if the receptive field size remains constant, the only way we could achieve different peak spatial frequencies will be by changing the size of the sub-regions. This would mean that as the peak spatial frequency increases, the size of subregions decrease and the number of sub-regions increase which also means that the spatial frequency tuning bandwidth gets narrower (rows 1 and 2 of figure 1). Alternately, we could achieve the same results by keeping the same number of sub-regions but by changing receptive field sizes as shown in figure 1b and c. In this case, the relative bandwidth of the spatial frequency tuning would remain constant even as the peak spatial frequency increases. In the cats and macaques, this second model of constant relative sub-regions has been shown to be true (Vidyasgar and Kulikowski, 1986; Kulikowski and Bishop, 1981).
 	In the tree shrews, while orientation selectivity has been widely studied, very few studies have been conducted on the spatial frequency selectivity of the tree shrew V1. One study looked at the distribution of spatial frequency between layers 2/3 and layer 4 and found that most neurons in layer 2/3 showed band-pass spatial frequency tuning with neurons predominantly showing a tuning bandwidth of 2 octaves. Apart from this one study, no other reports of spatial frequency tuning has been shown. Our own results are similar to previously reported results on the layer 2/3 neurons (see Previous chapter). We also found that compared to layer 4, more neurons were likely to be band-pass tuned for spatial frequency. Here we aimed to examine the relationship between the orientation tuning bandwidth and the peak spatial frequency.
+	
+	\begin{figure}[H]
+		
+		\includegraphics[width=\linewidth]{LinearV1/scheme.jpg}
+		\caption{Distribution of segregation indices of neurons.}
+		\label{fig:fig1}
+	\end{figure}
+
 	As mentioned earlier, neurons in the primary visual cortex can be classified as simple or complex cells. The criteria mentioned by Hubel and Wiesel (1962) are all subjective methods of classifying cells into simple cells. Since then, more objective methods of classifying receptive fields into simple and complex have been established. The first method is by calculating the modulation index (MI). The MI is the ratio between the DC and first harmonic component of the temporal modulation neurons exhibit when shown drifting gratings. This method quantifies the “linearity” of a neurons response based on the assumption that simple cells show linear summation within their receptive field sub-regions. Skottun et al (1991) showed that this method successfully divided neurons into two groups which were roughly the same as simple and complex cells divided using the criteria specified by Hubel and Wiesel (1962).
 	While the modulation index measured the linearity of the neurons in cats, in macaques and tree shrews, it tended to overestimate the number of simple cells found. In tree shrews, while over 40\% of neurons could be classified as simple using the modulation index, these neurons did not show the segregation of receptive field sub-regions requisite of simple cells (Van Hooser et al., 2013; Veit et al., 2014). This has also been shown to be the case in macaques (References). 
 	Further, it has also been suggested that linearity is not a requisite feature of simple cells. Neurons in the LGN maybe classified as X, Y and W cells. While X cells show linear sustained responses, Y cells exhibit transient, non-linear responses. While originally thought that X and Y cells projected to simple and complex cells respectively, this connection has since been disproved. As a result, significant non-linearities may be introduced in simple cells depending on the type of input that they receive. Further, if simple cells do function as edge detectors rather than linear filters, they are unlikely to be linear neurons (DeValois and Webster, 1978). Hence, alternate methods of classifying simple cells are also examined below. 
@@ -68,7 +76,7 @@
 		
 		\includegraphics[width=\linewidth]{LinearV1/simplecomplex.jpg}
 		\caption{Response of a simple (a) and complex cell (b) to the dark and light bar stimuli. The spatially segregated RF of the simple cells is translated into the temporally segregated response of the neuron. Whereas, in the complex cell, the overlapping sub-regions are reflected in the temporally overlapping response of the neuron. Accordingly, the simple cell has a high SI (0.92) and the complex cell has a lower SI (0.39).}
-		\label{fig:fig1}
+		\label{fig:fig2}
 	\end{figure}
 	
 	The distribution of segregation index for 47 neurons is presented below. Of the 49 neurons, 19 were from layer 2/3, 12 were from layer 3c and 18 were from layer 4. There was no significant difference in SI between the layers (Kruskal-Wallis test, p=0.34).
@@ -76,7 +84,7 @@
 		
 		\includegraphics[width=\linewidth]{LinearV1/segregationindex_colouradj.jpg}
 		\caption{Distribution of segregation indices of neurons.}
-		\label{fig:fig2}
+		\label{fig:fig3}
 	\end{figure}
 
 	\paragraph{Modulation Index}
@@ -86,7 +94,7 @@
 		
 		\includegraphics[width=\linewidth]{LinearV1/modind_layer_colour.jpg}
 		\caption{Distribution of modulation indices of neurons.}
-		\label{fig:fig3}
+		\label{fig:fig4}
 	\end{figure}
 	In neurons where both the segregation index and modulation index were recorded, they were plotted against each other. There was no significant correlation between the two indices (rho=0.02, p=0.89). 
 	
@@ -95,7 +103,7 @@
 		
 		\includegraphics[width=\linewidth]{LinearV1/Segindvsmodind.jpg}
 		\caption{Relationship between the modulation and segregation indices.}
-		\label{fig:fig4}
+		\label{fig:fig5}
 	\end{figure}
 
 	\paragraph{Relationship between bandwidth and spatial frequency}
@@ -106,7 +114,7 @@
 		
 		\includegraphics[width=\linewidth]{LinearV1/hwpksf.jpg}
 		\caption{This figure shows the relationship between bandwidth and spatial frequency in simple cells when using the modulation index to classify units (a,b), when using the segregation index (c,d); using both the modulation and segregation index (e,f) and for all neurons in the sample (g,h). The plots on the left hand side show the relationship between absolute bandwidth and the peak spatial frequency while the plots on the right hand side show the relationship between the relative bandwidth and peak spatial frequency. Number of units used for generating each plot is specified in the right hand corner and statistically significant results are shown by *. *= p$<$0.05. **=p$<$0.0001.}
-		\label{fig:fig5}
+		\label{fig:fig6}
 	\end{figure}
 	
 	

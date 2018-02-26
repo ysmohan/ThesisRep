@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  26 FEB 2018 18:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  27 FEB 2018 10:46
 entering extended mode
 **main4.tex
 (main4.tex
@@ -102,6 +102,9 @@ LaTeX Warning: Label `fig:fig4' multiply defined.
 
 
 LaTeX Warning: Label `fig:fig5' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig6' multiply defined.
 
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -371,13 +374,19 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
+ [74] [75] <LinearV1/scheme.jpg, id=269, 810.77907pt x 581.92406pt>
+File: LinearV1/scheme.jpg Graphic file (type jpg)
+
+<use LinearV1/scheme.jpg>
+Package pdftex.def Info: LinearV1/scheme.jpg used on input line 19.
+(pdftex.def)             Requested size: 390.0pt x 279.92418pt.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
- [74] [75] [76] [77]
+ [76 <./LinearV1/scheme.jpg>] [77] [78]
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no ‚ in font cmr12!
@@ -388,50 +397,50 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no º in font cmr12!
- [78] [79]
+ [79] [80]
 Missing character: There is no œ in font cmr12!
 Missing character: There is no É in font cmr12!
- [80] [81] [82]
-<LinearV1/simplecomplex.jpg, id=292, 460.8417pt x 166.4619pt>
+
+[81] [82] [83] <LinearV1/simplecomplex.jpg, id=297, 460.8417pt x 166.4619pt>
 File: LinearV1/simplecomplex.jpg Graphic file (type jpg)
 
 <use LinearV1/simplecomplex.jpg>
-Package pdftex.def Info: LinearV1/simplecomplex.jpg used on input line 69.
+Package pdftex.def Info: LinearV1/simplecomplex.jpg used on input line 77.
 (pdftex.def)             Requested size: 390.0pt x 140.88112pt.
- [83]
-<LinearV1/segregationindex_colouradj.jpg, id=297, 936.49875pt x 624.3325pt>
+ [84 <./LinearV1/simplecomplex.jpg>]
+<LinearV1/segregationindex_colouradj.jpg, id=301, 936.49875pt x 624.3325pt>
 File: LinearV1/segregationindex_colouradj.jpg Graphic file (type jpg)
 
 <use LinearV1/segregationindex_colouradj.jpg>
 Package pdftex.def Info: LinearV1/segregationindex_colouradj.jpg used on input 
-line 77.
+line 85.
 (pdftex.def)             Requested size: 390.0pt x 259.99818pt.
- [84 <./LinearV1/simplecomplex.jpg>] <LinearV1/modind_layer_colour.jpg, id=301,
- 744.7825pt x 494.84875pt>
+
+<LinearV1/modind_layer_colour.jpg, id=302, 744.7825pt x 494.84875pt>
 File: LinearV1/modind_layer_colour.jpg Graphic file (type jpg)
 
 <use LinearV1/modind_layer_colour.jpg>
-Package pdftex.def Info: LinearV1/modind_layer_colour.jpg used on input line 87
+Package pdftex.def Info: LinearV1/modind_layer_colour.jpg used on input line 95
 .
 (pdftex.def)             Requested size: 390.0pt x 259.12747pt.
  [85 <./LinearV1/segregationindex_colouradj.jpg>] <LinearV1/Segindvsmodind.jpg,
- id=305, 695.59875pt x 504.88625pt>
+ id=306, 695.59875pt x 504.88625pt>
 File: LinearV1/Segindvsmodind.jpg Graphic file (type jpg)
 
 <use LinearV1/Segindvsmodind.jpg>
-Package pdftex.def Info: LinearV1/Segindvsmodind.jpg used on input line 96.
+Package pdftex.def Info: LinearV1/Segindvsmodind.jpg used on input line 104.
 (pdftex.def)             Requested size: 390.0pt x 283.07333pt.
  [86 <./LinearV1/modind_layer_colour.jpg>]
 [87 <./LinearV1/Segindvsmodind.jpg>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 105.
+               Default added (so using `tbp') on input line 113.
 
-<LinearV1/hwpksf.jpg, id=312, 829.6596pt x 695.4783pt>
+<LinearV1/hwpksf.jpg, id=313, 829.6596pt x 695.4783pt>
 File: LinearV1/hwpksf.jpg Graphic file (type jpg)
 
 <use LinearV1/hwpksf.jpg>
-Package pdftex.def Info: LinearV1/hwpksf.jpg used on input line 107.
+Package pdftex.def Info: LinearV1/hwpksf.jpg used on input line 115.
 (pdftex.def)             Requested size: 390.0pt x 326.91728pt.
 ) (main4.bbl [88] [89 <./LinearV1/hwpksf.jpg>]
 Underfull \hbox (badness 3701) in paragraph at lines 14--39
@@ -465,10 +474,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1792 strings out of 493698
- 24272 string characters out of 3146415
- 91898 words of memory out of 3000000
- 5093 multiletter control sequences out of 15000+200000
+ 1797 strings out of 493698
+ 24377 string characters out of 3146415
+ 85898 words of memory out of 3000000
+ 5097 multiletter control sequences out of 15000+200000
  9930 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  27i,6n,19p,1702b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -482,9 +491,9 @@ es/LaTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/LaTex/font
 s/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/LaTex/fonts/type1/public
 /amsfonts/cm/cmti12.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/
 cmtt12.pfb>
-Output written on main4.pdf (92 pages, 12359601 bytes).
+Output written on main4.pdf (92 pages, 12466407 bytes).
 PDF statistics:
- 363 PDF objects out of 1000 (max. 8388607)
+ 364 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 
