@@ -1,0 +1,78 @@
+\chapter{Is the tree shrew primary visual cortex a linear filter?}
+	\section{Introduction}
+	\section{Methods}
+		Data from xxx neurons in xxx animals are presented here. Briefly, the animals were anaesthetised and surgery was performed in the manner described in section -link methods chapter here-. An electrode was inserted into the primary visual cortex of the anaesthetised tree shrew and electrophysiological recordings were performed in the manner described in section- link methods chapter here-. The stimuli presented and the data analysis performed are described below.
+		
+			\subsection{Stimuli}
+				All stimuli were presented on a Barco monitor and stimuli were generated using the SDL (Visage system). The responses of each neuron to the following stimuli were measured. First, the orientation tuning of the neurons was measured by presenting thin moving bars of different orientations. Each orientation was presented 10 times and bars of 9 different orientation moving in two directions were presented. The orientation for which the neuron gave the maximum response was taken as the optimum orientation. Following this, drifting gratings of increasing spatial frequencies were presented in the optimum orientation. The responses of the neurons were recorded. In some cases (number), light and dark bars of the optimum orientation were also presented\cite{Chisum2003a}.
+				
+			\subsection{Data Analysis}
+				All neuronal responses were first carefully templated to only include the data from one neuron. A spike density function was calculated as described in the --methods--. This was used for further analysis.
+				
+				\subsubsection{Classifying neurons using grating responses}
+					
+					
+					The spike density function of the moving grating response was analysed using a fourier transform. The first fundametal response (F1) was calculated as the peak in the frequency domain corresponding to the temporal frequency at which the grating drifted. The F0 component of the response was taken as the response at 0Hz. The F0 and F1 response for all neurons were calculated. 
+					
+					\paragraph{The F1/F0 ratio}
+					
+					Simple cells have a modulated response to the light and the dark regions of a drifting grating. For example, in an on simple cell, the leaving of the dark region of the grating and the presentation of a light region to the neuron evokes a strong response while the opposite suppresses response. The F1 component of the response capitulates this modulated response. Complex cells on the other hand respond uniformly to both the dark and light regions of the grating and as a result, a simple average of the response accurately reflects the response fo the neuron. The F1/F0 ratio (proposed by Skottun et al., 1987) accurately distinguishes between simple and complex cells. A simple cell will have a significantly higher modulated response compared to the unmodulated response. Therefore, a cell is classified as simple if the F1:F0 ratio is greater than 1.5. A cell is classified as complex if the F1:F0 ratio is less than 1. Neurons with F1/F0 ratio between 1 and 1.5 may be A cells described by Henry et al.,1977.
+					 
+				\subsubsection{Classifying neurons using bar responses}
+					According to Hubel and Wiesel (1962), neurons in the primarv visual cortex could be either simple, complex or hypercomplex cells. Simple cells received mostly first order inputs from the LGN and consisted of separate on and off subregions. Complex and hypercomplex cells were higher order cells and had overlapping on and off regions. The responses obtained with moving dark and light bars were used to test if neurons had segregated on and off regions. This was done by overlaying the spike density functions of the on and off responses. A segregation index was also calculated as described below.
+					
+					\paragraph{Segregation Index (SI)}
+					
+					The spontaneous activity, calculated as the response to a 'blank' screen, was measured. This response was then subtracted from the response of the neuron to both light and dark bars to accurately determine the response to the stimulus at each time point. The segregation index was then calculated using the following formula.
+					\[SI= \frac{\sum(Off Response_t- On Response_t)}{\sum(Off Response_t+ On Response_t)}\]
+					
+					
+					The value of SI thus calculated will range from 0 to 1. A neuron that has an SI of 1 will be a simple cell and a neuron with SI closer to 0 will be a complex cell. Where both grating and bar data were available for a neuron, the F1/F0 modulation ratio was used to classify the neuron and the SI was calculated to verify the classification.
+					
+				\subsubsection{Spatial Frequency Tuning of a neuron}
+					
+					The response of a neuron to drifting gratings of different spatial frequencies at the optimum orientation was used to calculate the spatial frequency tuning curve for the neuron. For \textbf{all} neurons, the F1 component of the grating response was used to calculate the spatial frequency tuning curve. Where the F1 component is not greater than 5 spks/s, the neuron was excluded from further analysis.
+					
+					\paragraph{Peak Spatial Frequency}
+					
+					The spatial frequency for which the neuron gave the highest modulated response was taken as the peak spatial frequency.
+					
+					\paragraph{Spatial Frequency Bandwidth}
+					
+					The bandwidth of the Spatial Frequency tuning curve was calculated as follows. First, a cut off response was identified as half the maximum response. Then the spatial frequencies where the spatial frequency tuning curve first reached the cut-off response before and after the response reached maximum response were identified. The difference of the two spatially frequencies were taken. The log of this difference was also taken to get the spatial frequency bandwidth in octaves.
+					
+					The peak spatial frequency and the spatial frequency bandwidth of each neuron were then compared.
+					
+					
+
+	\section{Results}
+	
+		Spatial frequency tuning data was collected from 68 neurons. Of these units, the maximum modulated response did not exceed 5 spks/s in 6 units. These were excluded from further analysis. The distribution of the F1/F0 ratio are presented below. As expected, there was bimodal distribution, with a peak less than 1 indicating complex cells and one greater than one for simple cells. 
+		
+			\begin{figure}
+				
+				\includegraphics[width=\linewidth]{LinearV1/ModulationRatio.jpg}
+				\caption{Distribution of modulation ratio}
+				\label{fig:fig1}
+			\end{figure}
+		
+		The below table shows the number of cells in the following modulation ratio categories. The majority of the cells we encountered were complex like with the second highest being A cells. Using the modulation ratio, only 14 cells were classified as simple cells.
+		
+		\begin{table}
+			\begin{center}
+			\begin{tabular}{ c c c } 
+				\hline
+				Modulation Ratio & Cell Type & Number of cells \\
+				\hline
+				Less than 1 & Complex & 28 \\ 
+				Between 1 and 1.5 & A & 20 \\ 
+				Greater than 1 & Simple & 14 \\ 
+				\hline
+			\end{tabular}
+			\caption{Types of cells in V1}
+			\label{table:1}
+			\end{center}
+		\end{table}
+		
+		Of the 62 neurons whose data we will be using, 45 also had responses to the moving dark and light bars. A distribution of the segregation indices is shown below.
+	\section{Discussion}

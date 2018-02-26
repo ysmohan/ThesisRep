@@ -1,0 +1,269 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  16 MAR 2017 16:11
+entering extended mode
+**main3.tex
+(main3.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\LaTex\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\LaTex\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\LaTex\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\LaTex\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\LaTex\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\LaTex\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\LaTex\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\LaTex\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\LaTex\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\LaTex\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\LaTex\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (main3.aux
+
+LaTeX Warning: Label `fig:fig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig3' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+ ("C:\Program Files\LaTex\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (main3.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+ [1
+
+]
+[2] [3])
+\tf@toc=\write3
+ (acknowledgements.tex [4]
+Chapter 1.
+) (abstract.tex [5
+
+]
+Chapter 2.
+) (introduction.tex [6
+
+]
+Chapter 3.
+) (litrev.tex [7
+
+]
+Chapter 4.
+[8
+
+] [9] [10] [11] [12] [13] [14] [15] [16] [17]
+Missing character: There is no Œ in font cmr12!
+Missing character: There is no ± in font cmr12!
+Missing character: There is no Œ in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+ [18] [19] [20] [21] [22]
+[23] [24] [25]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [26]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+ [27] [28]) (methods.tex [29]
+Chapter 5.
+[30
+
+] [31] [32] [33] [34] [35] [36] [37]) (sc.tex [38]
+Chapter 6.
+[39
+
+] [40] [41] [42] [43] [44] [45] [46]
+<SCLaminarPosition.jpg, id=157, 761.09344pt x 338.01282pt>
+File: SCLaminarPosition.jpg Graphic file (type jpg)
+
+<use SCLaminarPosition.jpg>
+Package pdftex.def Info: SCLaminarPosition.jpg used on input line 68.
+(pdftex.def)             Requested size: 390.0pt x 173.20947pt.
+Missing character: There is no Œ in font cmr12!
+Missing character: There is no º in font cmr12!
+Missing character: There is no Œ in font cmr12!
+Missing character: There is no º in font cmr12!
+ [47] [48 <./SCLaminarPosition.jpg>]
+<SCOriResp.jpg, id=166, 727.21687pt x 499.11469pt>
+File: SCOriResp.jpg Graphic file (type jpg)
+ <use SCOriResp.jpg>
+Package pdftex.def Info: SCOriResp.jpg used on input line 84.
+(pdftex.def)             Requested size: 390.0pt x 267.67487pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+<SCOriTuning.jpg, id=167, 726.46407pt x 255.95625pt>
+File: SCOriTuning.jpg Graphic file (type jpg)
+ <use SCOriTuning.jpg>
+Package pdftex.def Info: SCOriTuning.jpg used on input line 94.
+(pdftex.def)             Requested size: 390.0pt x 137.41367pt.
+
+<SCCircVar.jpg, id=168, 485.56406pt x 382.42876pt>
+File: SCCircVar.jpg Graphic file (type jpg)
+ <use SCCircVar.jpg>
+Package pdftex.def Info: SCCircVar.jpg used on input line 106.
+(pdftex.def)             Requested size: 390.0pt x 307.16301pt.
+ [49 <./SCOriResp.jpg>] <SCOptOrth.jpg, id=172, 405.76593pt x 232.61906pt>
+File: SCOptOrth.jpg Graphic file (type jpg)
+
+<use SCOptOrth.jpg>
+Package pdftex.def Info: SCOptOrth.jpg used on input line 121.
+(pdftex.def)             Requested size: 390.0pt x 223.58861pt.
+ [50 <./SCOriTuning.jpg>] [51 <./SCCircVar.jpg>]
+<SCSFTuning.jpg, id=179, 405.76593pt x 232.61906pt>
+File: SCSFTuning.jpg Graphic file (type jpg)
+ <use SCSFTuning.jpg>
+Package pdftex.def Info: SCSFTuning.jpg used on input line 130.
+(pdftex.def)             Requested size: 390.0pt x 223.58861pt.
+
+<SCvgeniculostriate.jpg, id=180, 1069.9975pt x 660.4675pt>
+File: SCvgeniculostriate.jpg Graphic file (type jpg)
+
+<use SCvgeniculostriate.jpg>
+Package pdftex.def Info: SCvgeniculostriate.jpg used on input line 137.
+(pdftex.def)             Requested size: 390.0pt x 240.73102pt.
+ [52 <./SCOptOrth.jpg>] [53 <./SCSFTuning.jpg>]
+[54 <./SCvgeniculostriate.jpg>] [55] [56]) (RadialBias.tex [57]
+Chapter 7.
+[58
+
+] [59] [60] [61] [62] <method.jpg, id=216, 3001.2125pt x 2029.5825pt>
+File: method.jpg Graphic file (type jpg)
+
+<use method.jpg>
+Package pdftex.def Info: method.jpg used on input line 48.
+(pdftex.def)             Requested size: 390.0pt x 263.73111pt.
+ [63] [64 <./method.jpg>] [65]
+<method_ROI.jpg, id=226, 326.6604pt x 179.2296pt>
+File: method_ROI.jpg Graphic file (type jpg)
+ <use method_ROI.jpg>
+Package pdftex.def Info: method_ROI.jpg used on input line 65.
+(pdftex.def)             Requested size: 390.0pt x 213.98322pt.
+ [66 <./method_ROI.jpg>] <figure1.jpg, id=231, 519.3804pt x 348.8232pt>
+File: figure1.jpg Graphic file (type jpg)
+
+<use figure1.jpg>
+Package pdftex.def Info: figure1.jpg used on input line 87.
+(pdftex.def)             Requested size: 390.0pt x 261.93079pt.
+ <figure2.jpg, id=232, 798.8244pt x 352.1958pt>
+File: figure2.jpg Graphic file (type jpg)
+
+<use figure2.jpg>
+Package pdftex.def Info: figure2.jpg used on input line 94.
+(pdftex.def)             Requested size: 390.0pt x 171.94868pt.
+ <figure3.jpg, id=233, 601.7682pt x 269.808pt>
+File: figure3.jpg Graphic file (type jpg)
+
+<use figure3.jpg>
+Package pdftex.def Info: figure3.jpg used on input line 101.
+(pdftex.def)             Requested size: 390.0pt x 174.86263pt.
+) [67] [68 <./figure1.jpg> <./figure2.jpg>] [69 <./figure3.jpg>] (main3.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1277 strings out of 493698
+ 16671 string characters out of 3146415
+ 85865 words of memory out of 3000000
+ 4608 multiletter control sequences out of 15000+200000
+ 9414 words of font info for 33 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,6n,19p,1981b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program
+ Files/LaTex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/LaTex/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/LaTex/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts/
+cm/cmr17.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
+:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
+es/LaTex/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on main3.pdf (70 pages, 4980782 bytes).
+PDF statistics:
+ 271 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+

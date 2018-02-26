@@ -1,0 +1,76 @@
+\contentsline {chapter}{\numberline {1}Acknowledgements}{5}
+\contentsline {chapter}{\numberline {2}Abstract}{6}
+\contentsline {chapter}{\numberline {3}Introduction}{7}
+\contentsline {subsubsection}{Chapter 6}{8}
+\contentsline {chapter}{\numberline {4}Methods}{9}
+\contentsline {section}{\numberline {4.1}Experimental Animals}{9}
+\contentsline {section}{\numberline {4.2}Surgery and Anaesthesia}{9}
+\contentsline {section}{\numberline {4.3}Optics}{11}
+\contentsline {section}{\numberline {4.4}Monitoring Protocol}{11}
+\contentsline {section}{\numberline {4.5}Electrophysiological Recordings}{11}
+\contentsline {subsection}{\numberline {4.5.1}Single Electrode Recordings- Primary Visual Cortex}{11}
+\contentsline {subsection}{\numberline {4.5.2}Single Electrode Recordings- Superior Colliculus}{12}
+\contentsline {subsection}{\numberline {4.5.3}Multielectrode Electrode Recordings- Primary Visual Cortex}{12}
+\contentsline {section}{\numberline {4.6}Stimulus Presentation}{12}
+\contentsline {subsection}{\numberline {4.6.1}Stimulus used for experiment one}{12}
+\contentsline {subsection}{\numberline {4.6.2}Bar stimuli}{13}
+\contentsline {subsection}{\numberline {4.6.3}Grating stimuli}{13}
+\contentsline {subsection}{\numberline {4.6.4}Stimuli for multielectrode recording}{14}
+\contentsline {section}{\numberline {4.7}Histology}{14}
+\contentsline {subsection}{\numberline {4.7.1}Cresyl Violet Staining}{14}
+\contentsline {subsection}{\numberline {4.7.2}Track Reconstruction}{14}
+\contentsline {section}{\numberline {4.8}Data Analysis}{15}
+\contentsline {subsection}{\numberline {4.8.1}Post- stimulus time histograms}{15}
+\contentsline {subsection}{\numberline {4.8.2}Defining response}{15}
+\contentsline {subsection}{\numberline {4.8.3}Measures of orientation tuning}{16}
+\contentsline {subsection}{\numberline {4.8.4}Spatial Frequency Tuning}{17}
+\contentsline {section}{\numberline {4.9}Optical Imaging of Intrinsic Signals}{17}
+\contentsline {subsection}{\numberline {4.9.1}The apparatus}{17}
+\contentsline {subsubsection}{Macroscope and camera}{17}
+\contentsline {subsubsection}{The chamber}{17}
+\contentsline {subsubsection}{The Illumination system}{17}
+\contentsline {subsection}{\numberline {4.9.2}Stimulus generation and presentation}{18}
+\contentsline {subsection}{\numberline {4.9.3}Analysis of Intrinsic Signals}{18}
+\contentsline {subsubsection}{Obtaining single condition maps}{18}
+\contentsline {subsubsection}{Obtaining orientation maps}{18}
+\contentsline {part}{I\hspace {1em}Subcortical orientation biases}{19}
+\contentsline {chapter}{\numberline {5}Orientation anisotropies in the inputs to the primary visual cortex of macaques}{20}
+\contentsline {section}{\numberline {5.1}Abstract}{21}
+\contentsline {section}{\numberline {5.2}Introduction}{22}
+\contentsline {section}{\numberline {5.3}Methods}{26}
+\contentsline {subsection}{\numberline {5.3.1}Data Collection}{26}
+\contentsline {subsubsection}{Stimulus}{26}
+\contentsline {subsubsection}{Optical Imaging of intrinsic signals}{26}
+\contentsline {subsubsection}{Topographical recordings}{27}
+\contentsline {subsection}{\numberline {5.3.2}Data Analysis}{28}
+\contentsline {subsubsection}{Image Analysis}{28}
+\contentsline {subsubsection}{Analysis of electrophysiological recordings}{29}
+\contentsline {subsubsection}{Defining Region of Interest}{31}
+\contentsline {subsubsection}{Single pixel analysis}{32}
+\contentsline {subsubsection}{Adjusting for sample size in single pixel analysis}{32}
+\contentsline {section}{\numberline {5.4}Results}{34}
+\contentsline {subsubsection}{Examining Single Condition Maps}{34}
+\contentsline {subsubsection}{Orientation Tuning Maps}{35}
+\contentsline {subsubsection}{Comparing the radial orientation and optimum orientation of ROIs}{36}
+\contentsline {subsubsection}{Comparing the radial orientation and optimum orientation of single pixels}{40}
+\contentsline {section}{\numberline {5.5}Discussion}{45}
+\contentsline {section}{\numberline {5.6}Conclusions}{50}
+\contentsline {chapter}{\numberline {6}Orientation tuning in the Tree Shrew superior colliculus}{51}
+\contentsline {section}{\numberline {6.1}Abstract}{52}
+\contentsline {section}{\numberline {6.2}Introduction}{53}
+\contentsline {section}{\numberline {6.3}Methods}{55}
+\contentsline {subsection}{\numberline {6.3.1}Electrophysiology}{55}
+\contentsline {subsection}{\numberline {6.3.2}Stimuli}{56}
+\contentsline {subsection}{\numberline {6.3.3}Data Analysis}{58}
+\contentsline {section}{\numberline {6.4}Results}{59}
+\contentsline {subsubsection}{Anatomical location of units}{59}
+\contentsline {subsubsection}{Orientation Selectivity}{61}
+\contentsline {subsubsection}{Spatial Frequency Tuning}{61}
+\contentsline {section}{\numberline {6.5}Discussion}{64}
+\contentsline {subsection}{\numberline {6.5.1}Anatomical Relevance}{66}
+\contentsline {subsection}{\numberline {6.5.2}Comparison with previous tree shrew studies}{68}
+\contentsline {subsection}{\numberline {6.5.3}Comparison with previous superior colliculus studies}{70}
+\contentsline {subsection}{\numberline {6.5.4}Comparison with the geniculostriate system of cats and macaques}{71}
+\contentsline {subsection}{\numberline {6.5.5}Conclusion}{72}
+\contentsline {part}{II\hspace {1em}Insights from the Tree Shrew Primary Visual Cortex}{73}
+\contentsline {chapter}{References}{74}

@@ -1,0 +1,80 @@
+\chapter{Methods}
+
+\section{Experimental Animals}
+\section{Surgery and Anaesthesia}
+
+	All experiments have ethics approval. This study looked at cortical responses to visual stimuli in three different species, cats, macaques and tree shrews. This chapter outlines the methodology that was common in all three animals. Experiment specific methodology is incorporated in the individual chapters.
+
+	In all animals, initial anaesthesia was induced using a mixture of ketamine and xylazine (Varied dosage). Once the animals were anaesthetised, tracheostomy and venous cannulation (cephalic in cats and macaques; femoral in tree shrews) was completed. During the experiment, anaesthesia was maintained using a gaseous mixture containing nitrogen, oxygen and carbon-di-oxide (See table for dosage). Paralysis was established using an intravenous bolus of norcuron and was maintained using vecuronium administered intravenously. The animal's body temperature was maintained between 36-37 degrees using a servo controlled heating blanket. ECG and EEG were monitored throughout the experiment and the level of anaesthesia was adjusted accordingly. Following initial surgery, a craniotomy and durotomy were conduted over the location of the primary visual cortex (V1, see table for horsley-clarke co-ordinates.). Once recordings were completed, the experiment was terminated by administering the animal an overdose of pentabarbitone (dosage) intravenously. The animal was then perfused intracardially using phosphate buffer, a paraformaldehyde solution; the brain was removed and stored in a solution of 25 percent sucrose for cryoprotection. The brain was later processed for histology.
+
+\section{Optics}
+
+\section{Monitoring Protocol}
+
+\section{Electrophysiological Recordings}
+	\subsection{Single Electrode Recordings- Primary Visual Cortex}
+
+Electrophysiological measurements were done using high impedence tungsten micro-electrodes (betn 4 and 18 megaohms.). The electrodes were inserted into the cortex and were plugged into a pre-amp. The signal from the pre-amp was passed through a antialiasing filter (high cut-off= 5000 Hz), a humbug was used to reduce 50 Hz line noise, and the resulting signal was passed through a band-pass filter (between 300 and 3000 kHz). The signal was digitised at 22.5 kHz using a analog to digital converter. The data was recorded using the spike 2 software. In order to ensure that our recordings were actually spiking outputs of neurons, we also made sure that we had a reasonable signal to noise ratio. A template of the spikes was built using spike 2 software and used for online analysis. The original signal was stored for later analysis.
+	\subsection{Single Electrode Recordings- Superior Colliculus}
+	
+	\subsection{Multielectrode Electrode Recordings- Primary Visual Cortex}
+	
+\section{Stimulus Presentation}
+
+Stimulus was presented on a barco monitor (Frame rate= 80 Hz). All stimulus was generated in SDL and presented using ViSaGe stimulus generator. For the first experimental chapter, we used full field square wave gratings. For the rest of the experimental chapters, we used bars and smaller, sinusoidal gratings.
+
+\subsection{Stimulus used for experiment one}
+
+For the first experimental chapter, 'Radial bias in the inputs to the cortex', the anaesthetised animal was presented full-field, square wave gratings with SF= between 1 and 4 cpd. The temporal frequency was 2.2 Hz and contrast was set at 100 percent. The stimulus was presented for 7.3s followed by an interstimulus interval of 10s. The gratings that were presented were of different orientations between 0 and 157.5 degrees in 22.5 degree steps. 
+\subsection{Bar stimuli}
+
+For all other experimental chapters, initially, a bar was presented to determine the orientation of a unit. As layer 2/3 neurons (in shrews; layer 4 in cats) were sharply tuned to orientation, they only responded to bars of certain orientations. For layer 4 neurons in shrews, thinner bars were used to determine orientation preference. The bars were also varied in length to account for length response functions, contrast and speed in order to optimise the stimuli and only study the effect of the dimension that was changed. During the experiment, optimum orientation was determined by looking at the peak responses of the orientation response obtained using a PSTHs.
+
+\subsection{Grating stimuli}
+
+Once the orientation of the stimulus was gauged, the animal was presented with grating stimuli to determine spatial frequency tuning of the neuron. To get spatial frequency tuning of the neurons, orientation, contrast, size of the grating were optimised and the spatial frequency was varied in 0.1 cpd steps (for tree shrews). This was repeated at four different orientations 45 degrees apart. The differences in the spatial frequency tuning between different orientations was examined.
+
+\subsection{Stimuli for multielectrode recording}
+
+
+\section{Histology}
+
+After the experiment, the tissue was processed for histology as follows. The brain was stored in a 25 percent sucrose solution until it sank. This was to ensure that the tissue was cryoprotected. After this, the brain was blocked so that only the areas of interest was processed. The brain was frozen in a cryostat and 50 micron sections were made. The sections were mounted on gelatinised slides. Once the sections were dry, they stained.
+
+\subsection{Cresyl Violet Staining}
+
+First the sections were dehydrated using increasing concentrations of ethanol. Then, chloroform was used to defatten the sections. This was followed by rehydrating sections in decreasing concentrations of ethanol. THe sections were then stained using Cresyl Violet Acetate solution (0.1 perc, Sigma) and differentiated using a solution of 5 percent acetic acid in 95 percent ethanol. It was then dehydrated using increasing concentrations of ethanol and fixed in histolene. The slides were then coverslipped.
+
+\subsection{Track Reconstruction}
+
+In order to reconstruct electrode tracks, we located the electrolytic lesions/ pontamine lesions that we made under the microscope and digitised those sections. The shrinkage was calculated by comparing the recorded and observed distances between lesions. This shrinkage calculation was used to calculate the actual depth of the units recorded. Based on the location of the unit, it was classified as layer 4 or layer 2/3 unit and this classification was used for further analysis.
+
+\section{Data Analysis}
+	\subsection{Post- stimulus time histograms}
+
+		We have spikes based on a template. The response to a particular stimulus is arranged in a PSTH. The X-axis of a PSTH is time after stimulus has been presented and the Y-axis is the response (usually measured as spike counts or spike rates). The spikes that occur during stimulus presentation are binned in 20 ms bins and presented as a histogram and this is used for further analysis.
+
+	\subsection{Defining response}
+
+		When presented with a bar, response is the spike rate. Getting a maximum response just means getting maximum spike rate while a given stimulus crosses the receptive field. Whereas, this is not the same for gratings. A unit based on whether it demonstrates linear summation over its receptive field or not responds differently to a grating. For example, a simple cell gives a modulated response to a grating whereas a complex gives an unmodulated response. These response properties are so distinct that this is one of the key criterias used to distinguish between the two types of neurons (see Skottun et al., 1991). 
+
+		Therefore, the response of units to gratings are plotted in a PSTH and a discrete fourier transform using a fast fourier transform is run on the resulting trace (using custom code in MATLAB; see appendix). The F0 component thus obtained will equal the mathematical mean of the trace. The F1 component would be related to the temporal frequency of the stimulus. Since simple cells show half-wave rectification, the F1 component of the FFT is doubled and this is taken as the F1 component of the response. The modulation ratio will be calculated as calculated by Van Hooser et al., 2013 (for better comparability) and if it is greater than 1, then the unit is considered complex. If it is less than 1, then it is considered simple. The response magnitude will be used accordingly.
+
+	\subsection{Measures of orientation tuning}
+
+		Two separate measures of orientation tuning will be calculated; the orientation selectivity ratio, which gives information on the optimum and orthogonal orientations and the circular variance which gives an indication of the circularity of the responses of the neuron. The formulas for these are as shown below. 
+
+	\subsection{Spatial Frequency Tuning}
+
+		Spatial frequency tuning curves were fit to the spatial frequency responses of a neuron. The SF tuning curve is ideally defined by a difference of Gaussian curve as specified in REFERENCE. 
+		
+\section{Optical Imaging of Intrinsic Signals}
+	\subsection{The apparatus}
+		\subsubsection{Macroscope and camera}
+		\subsubsection{The chamber}
+		\subsubsection{The Illumination system}
+			Optical imaging of intrinsic signals was a technique established in the 1990s to look at the organisation of the cortex on a scale greater than the individual neuron level. It consists of fast-scanning ccd camera which has two lenses attached face to face to it. This setup allows the user to specify a narrow depth of focus. The camera essentially looks at the changes in reflectance of the blood signal in response to a visual stimulus. It is based on the principle that the amount of oxygen present in the blood affects its reflectance. In response to neuronal activity, the amount of oxygenated haemoglobin in the blood decreases and the amount of deoxygenated haemoglobin in the blood increases. At certain wavelengths of light, this difference can be distinguished. At the isosbestic wavelength (570 microns), the reflectance of oxy and deoxy haemoglobin remains the same. At higher wavelengths, however, the differece in reflectance varies causing there to be change in signal. The reflectance of a region of cortex decreases in response to neural activity and this signal is captured in optical imaging. Accordingly, in response maps, activity is represented by dark patches.
+	\subsection{Stimulus generation and presentation}
+	\subsection{Analysis of Intrinsic Signals}
+		\subsubsection{Obtaining single condition maps}
+		\subsubsection{Obtaining orientation maps}
