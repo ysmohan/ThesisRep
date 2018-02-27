@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  27 FEB 2018 11:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  27 FEB 2018 22:18
 entering extended mode
 **main4.tex
 (main4.tex
@@ -432,23 +432,23 @@ Package pdftex.def Info: LinearV1/Segindvsmodind.jpg used on input line 104.
 (pdftex.def)             Requested size: 390.0pt x 283.07333pt.
  [86 <./LinearV1/modind_layer_colour.jpg>]
 [87 <./LinearV1/Segindvsmodind.jpg>]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 113.
-
 <LinearV1/hwpksf.jpg, id=313, 829.6596pt x 695.4783pt>
 File: LinearV1/hwpksf.jpg Graphic file (type jpg)
 
 <use LinearV1/hwpksf.jpg>
 Package pdftex.def Info: LinearV1/hwpksf.jpg used on input line 115.
 (pdftex.def)             Requested size: 390.0pt x 326.91728pt.
- [88] [89 <./LinearV1/hwpksf.jpg>]
-Overfull \hbox (3.81258pt too wide) in paragraph at lines 136--137
+ [88]
+Overfull \vbox (6.72794pt too high) has occurred while \output is active []
+
+
+[89 <./LinearV1/hwpksf.jpg>] [90] [91] [92] [93]
+Overfull \hbox (3.81258pt too wide) in paragraph at lines 150--151
 []\OT1/cmr/m/n/12 What does the rel-a-tive band-wdth and spa-tial fre-quency re
 -la-tion-ship mean? 
  []
 
-) (main4.bbl [90]
+) (main4.bbl [94]
 Underfull \hbox (badness 3701) in paragraph at lines 14--39
 \OT1/cmr/m/n/12 anal-y-sis of orientation-selective ac-tiv-ity in the pri-mary 
 vi-sual
@@ -472,7 +472,7 @@ Overfull \hbox (256.875pt too wide) in paragraph at lines 14--39
 298&tool=pmcentrez&rendertype=abstract
  []
 
-) [91
+) [95
 
 ] (main4.aux)
 
@@ -497,9 +497,9 @@ es/LaTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/LaTex/font
 s/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/LaTex/fonts/type1/public
 /amsfonts/cm/cmti12.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/
 cmtt12.pfb>
-Output written on main4.pdf (93 pages, 12469062 bytes).
+Output written on main4.pdf (97 pages, 12475473 bytes).
 PDF statistics:
- 367 PDF objects out of 1000 (max. 8388607)
+ 380 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  111 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -89,5 +89,5 @@
 \contentsline {paragraph}{Segregation Index}{84}
 \contentsline {paragraph}{Modulation Index}{85}
 \contentsline {paragraph}{Relationship between bandwidth and spatial frequency}{87}
-\contentsline {section}{\numberline {7.5}Discussion}{88}
-\contentsline {chapter}{References}{91}
+\contentsline {section}{\numberline {7.5}Discussion}{90}
+\contentsline {chapter}{References}{95}
