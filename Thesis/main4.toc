@@ -80,27 +80,29 @@
 \contentsline {paragraph}{Grating Stimuli}{98}
 \contentsline {subsubsection}{Data Analysis}{99}
 \contentsline {paragraph}{Orientation Selectivity of bars}{99}
-\contentsline {subsubsection}{Histology and Track Reconstruction}{99}
-\contentsline {section}{\numberline {5.4}Results}{99}
-\contentsline {section}{\numberline {5.5}Discussion}{99}
-\contentsline {section}{\numberline {5.6}Conclusion}{99}
-\contentsline {chapter}{\numberline {6}Is the tree shrew primary visual cortex a linear filter?}{100}
-\contentsline {section}{\numberline {6.1}Summary}{101}
-\contentsline {section}{\numberline {6.2}Introduction}{102}
-\contentsline {section}{\numberline {6.3}Methods}{106}
-\contentsline {subsection}{\numberline {6.3.1}Surgery and Anaesthesia}{106}
-\contentsline {subsection}{\numberline {6.3.2}Electrophysiology}{107}
-\contentsline {subsection}{\numberline {6.3.3}Stimuli}{108}
-\contentsline {subsubsection}{Bar Stimuli}{108}
-\contentsline {subsubsection}{Grating Stimuli}{109}
-\contentsline {subsection}{\numberline {6.3.4}Data Analysis}{109}
-\contentsline {subsubsection}{Analysis of Bar Stimuli Responses}{109}
-\contentsline {paragraph}{Calculating Segregation Index (SI)}{110}
-\contentsline {subsubsection}{Analysis if Grating Stimuli Responses}{110}
-\contentsline {subsection}{\numberline {6.3.5}Histology}{111}
-\contentsline {section}{\numberline {6.4}Results}{112}
-\contentsline {paragraph}{Segregation Index}{112}
-\contentsline {paragraph}{Modulation Index}{113}
-\contentsline {paragraph}{Relationship between bandwidth and spatial frequency}{115}
-\contentsline {section}{\numberline {6.5}Discussion}{118}
-\contentsline {chapter}{References}{124}
+\contentsline {subsubsection}{Histology and Track Reconstruction}{100}
+\contentsline {section}{\numberline {5.4}Results}{100}
+\contentsline {subsubsection}{Laminar Position of neurons}{100}
+\contentsline {section}{\numberline {5.5}Discussion}{100}
+\contentsline {section}{\numberline {5.6}Conclusion}{100}
+\contentsline {chapter}{\numberline {6}Is the tree shrew primary visual cortex a linear filter?}{101}
+\contentsline {section}{\numberline {6.1}Summary}{102}
+\contentsline {section}{\numberline {6.2}Introduction}{103}
+\contentsline {section}{\numberline {6.3}Methods}{107}
+\contentsline {subsection}{\numberline {6.3.1}Surgery and Anaesthesia}{107}
+\contentsline {subsection}{\numberline {6.3.2}Electrophysiology}{108}
+\contentsline {subsection}{\numberline {6.3.3}Stimuli}{109}
+\contentsline {subsubsection}{Bar Stimuli}{109}
+\contentsline {subsubsection}{Grating Stimuli}{110}
+\contentsline {subsection}{\numberline {6.3.4}Data Analysis}{110}
+\contentsline {subsubsection}{Analysis of Bar Stimuli Responses}{110}
+\contentsline {paragraph}{Calculating Segregation Index (SI)}{111}
+\contentsline {subsubsection}{Analysis if Grating Stimuli Responses}{112}
+\contentsline {subsection}{\numberline {6.3.5}Histology}{113}
+\contentsline {section}{\numberline {6.4}Results}{113}
+\contentsline {paragraph}{Segregation Index}{113}
+\contentsline {paragraph}{Bimodality Index}{115}
+\contentsline {paragraph}{Modulation Index}{116}
+\contentsline {paragraph}{Relationship between bandwidth and spatial frequency}{120}
+\contentsline {section}{\numberline {6.5}Discussion}{123}
+\contentsline {chapter}{References}{129}

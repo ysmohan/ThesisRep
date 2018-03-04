@@ -50,6 +50,12 @@
 					For neurons where dark and light bar data was available, the segregation index (SI) was calculated using the following formula: 
 					\[SI=\frac{\sum|R_ton-R_toff|}{\sum|R_ton+R_toff|}\]
 					Where, R\_ton is the response of the neuron to a light bar and R\_toff is the response of the neuron to a dark bar (see figure 1). The resulting value was a number between 0 and 1. Neurons with high segregation index (>0.5) were more likely to have segregated dark and light sub-regions and were hence categorised as simple cells. Likewise, neurons with low segregation indices were classified as complex cells as they were less likely to have segregated dark and light sub-regions.
+					
+					For the neurons where dark and light bar responses were present, the bimodality index was also calculated. The bimodality index was calculated for each direction of motion of the bar and the average of the two directions was taken. The BI for each direction was calculated as follows.
+					
+					\[BI=\frac{maxON-maxOFF}{maxON+maxOFF}\]
+					
+					where maxON was the maximum firing rate of the neuron to light bars and maxOFF was the maximum firing rate of the neuron to dark bars for each direction. Using this measure, where a neuron had a more dominant on sub-region, the BI was more positive and a more dominant off sub-region was represented by a negative number. The closer the number was to zero, the more likely the neuron showed equal responses to light and dark bars.
 				
 				\subsubsection{Analysis if Grating Stimuli Responses}
 				
@@ -69,6 +75,8 @@
 	\section{Results}
 	
 		Results from a total of 64 neurons are presented below. Where possible, the layerwise distribution is also presented. 
+	
+
 		
 	\paragraph {Segregation Index}	
 	In 49 of the 64 neurons, we recorded the response of the neuron to dark and light bars. Simple cells have segregated receptive fields which appear as separate peaks in the PSTHs (Fig 1a) and complex cells have overlapping subregions which appear as overlapping peaks in the PSTH (Fig 1b). Accordingly, the segregation index is higher for simple cells compared to complex cells.
@@ -88,6 +96,17 @@
 		\label{fig:fig3}
 	\end{figure}
 
+	\paragraph{Bimodality Index}
+	
+	The distribution of the bimodality index for the neurons in each of the layers are shown below. As with the segregation index, there was no significant difference in the distribution of the bimodality index between the three layers (Kruskal-Wallis test, p=0.49).
+	
+	\begin{figure}[H]
+		
+		\includegraphics[width=\linewidth]{LinearV1/Biindex.jpg}
+		\caption{Distribution of bimodality indices of neurons.}
+		\label{fig:bi}
+	\end{figure}
+
 	\paragraph{Modulation Index}
 	The modulation indices of all the 69 neurons [Layer 2/3= 27; Layer 4= 27; Layer 3c= 15] are shown in figure 3. There was no significant difference in the modulation index between the layers (Kruskal-Wallis test, p= 0.74).
 	
@@ -103,8 +122,19 @@
 	\begin{figure}[H]
 		
 		\includegraphics[width=\linewidth]{LinearV1/Segindvsmodind.jpg}
-		\caption{Relationship between the modulation and segregation indices.}
+		\caption{Relationship between the modulation and segregation indices. The horizontal line is the threshold for the SI, where neurons above the threshold are classified as simple. The vertical line is the threshold between the simple and complex cells using the Modulation Index. If the segregation index and modulation index both classified the same neurons as simple and complex, we will only expect neurons to fall into the bottom left and the top right quadrants, unlike the distribution seen here.}
 		\label{fig:fig5}
+	\end{figure}
+
+	It might be useful to discuss neurons in the two quadrants where one method classifies them as simple while the other doesn't. In the top left quadrant, when using the segregation index, the neurons will be classified as simple but when using the MI, the neurons will be labelled complex (A total of 11 neurons). Most of these neurons were in layers 4 and layer 3c but apart from this, there were no clear patterns visible in the data.
+	
+	The neurons in the bottom right corner will be classified as simple using the modulation index but not using the segregation index (11 neurons). The majority of these neurons were from layer 4(7/11) and most neurons had a negative bimodality index, indicating that they were off dominated neurons (8/11). These neurons also tended to have receptive fields dominated by one polarity as shown in fig\ref{fig:conc}.
+	
+		\begin{figure}[H]
+		
+		\includegraphics[width=\linewidth]{LinearV1/concneurons.jpg}
+		\caption{A neuron that responds preferably to a dark bar. This neuron has a segregation index less than 0.5 but still shows modulated responses to stimuli, potentially due to the imbalance in the two sub-regions. The dashed line shows the spontaneous activity of the neuron.}
+		\label{fig:conc}
 	\end{figure}
 
 	\paragraph{Relationship between bandwidth and spatial frequency}
@@ -137,6 +167,9 @@
 	
 	Our results are consistent with those published by Van Hooser et al., 2013.
 	
+
+
+	Hubel and Wiesel showed that t
 	Read Daugman.
 	
 	Eccentricity of the recording sites: we have a range= $<$10$^o$ azimuth but this may not be accurate enough? Perhaps look at just one track? Show results in results section? 

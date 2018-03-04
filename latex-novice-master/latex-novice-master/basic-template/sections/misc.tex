@@ -1,0 +1,157 @@
+\section{Other odds and ends}
+
+\subsection{More on floats}
+
+Recall in Section~\ref{sec:cats} that there are other types of floats,
+such as for tables; furthermore, Section~\ref{sec:formatting}
+mentioned that ampersands and double-backslashes are used when
+describing tables.
+Table~\ref{tab:example-table-1} provides an example.
+
+\begin{table}
+    \begin{center}
+        \begin{tabular}{l|r@{.}l|r}
+            Animals & \multicolumn{2}{|c|}{Numbers} & Names \\
+            \hline\hline
+            Cat     &    1&2                        & Jane  \\
+            Dog     &   12&34                       & John  \\
+            Rabbit  &  123&456                      & Jessica
+        \end{tabular}
+        \caption{Some silly table.}
+        \label{tab:example-table-1}
+    \end{center}
+\end{table}
+
+When using floating environments such as figures and tables,
+you'll often want to make sure LaTeX doesn't float them into the next section.
+When finishing a section, you can force LaTeX to flush out any remaining
+floats before starting the next section using the following command:
+
+\begin{verbatim}
+\FloatBarrier
+\end{verbatim}
+
+\FloatBarrier
+
+
+\subsection{Defining your own commands}
+
+\LaTeX\ is very customisable.
+One thing you can do is create ``macros'',
+shortcuts for longer commands if you get tired of
+typing out the same thing over and over.
+
+In your preamble, try putting:
+
+\begin{verbatim}
+\newcommand{\incgr}[1]{\includegraphics{#1}}
+\end{verbatim}
+
+You can now include images by writing:
+
+\begin{verbatim}
+\incgr{figures/cat.jpg}
+\end{verbatim}
+
+To redefine an existing command, use ``\\renewcommand''.
+
+Since \LaTeX handles many aspects of typesetting by creating hidden commands,
+\\renewcommand is often used to customise page styling.
+For example, to reduce the margin width put the following in your preamble:
+
+\begin{verbatim}
+\addtolength{\hoffset}{-1cm}
+\addtolength{\textwidth}{2\hoffset}
+\end{verbatim}
+
+
+\subsection{\LaTeX\ and version control}
+
+Since \LaTeX\ source files are written in plain text,
+they are very amenable to version control using systems such
+as Subversion, Mercurial, and Git.
+
+This has many benefits.
+At a minimum, version control will keep a history of changes in your document,
+and allow you to easily collaborate with others.
+
+Depending on which type of version control you use, there could be other benefits.
+In particular, if you use Git,
+you'll usually have copies of your \LaTeX\ project
+synchronised between all your machines.
+In this case, if one computer has a malfunction,
+you've automatically got multiple backups available.
+
+Secondly, Git makes it fast and easy to create branches within your project.
+One possible benefit of this is that you could create a new branch for
+each journal you submit an article to.
+Another possibility is to have a ``supervisor'' branch
+where you can experiment with suggestions made by your supervisor.
+Assuming you disagree with your supervisor
+(pfft, what would they know, righ?),
+you can quickly revert back to the master branch.
+
+If you want to version control your \LaTeX\ documents,
+a good practice is to put line breaks after each major use of punctuation,
+especially at each new sentence.
+The reason for doing it this way is that Git uses 
+line breaks to help it find differences between documents.
+
+If you have each entire paragraph all on one line,
+changes to any word in the paragraph will show up as changes
+in the entire paragraph.
+When looking at the difference between two versions,
+seeing that a whole paragraph has changed is less useful
+than seeing that a particular sentence or phrase has changed.
+
+More information on this topic is available at
+\citet{stackoverflow-git+latex-workflow},
+\citet{tex-stackexchange-git-latex-and-branches-workflow},
+and \citet{allen-collaborating-with-latex-and-git}.
+
+For more information on how to use Git, see
+\citet{gonzalez-huang-swc-git-novice} for introductory
+material used by \href{http://www.software-carpentry.org}{Software Carpentry},
+or \citet{chacon-pro-git-2014} for a more comprehensive reference.
+
+
+\subsection{Guides and extra help}
+
+Since \LaTeX\ is free and open source, there is a great deal
+of online material available in the form of guides, tutorials,
+technical package documentation,
+and question-answer sites where people discuss problems they're having.
+
+Almost always, anything you're having trouble with or want to know
+more about has already been discussed a thousand times elsewhere.
+So, whenever you are having trouble, your first port of call should usually
+be your preferred search engine in your chosen web browser.
+
+\citet{oetiker-lshort-2015} (usually referred to as ``lshort'')
+gives a comprehensive and readable introduction to \LaTeX.
+Everyone who uses \LaTeX, whether novice or advanced,
+will usually keep a copy of lshort handy.
+There is another extensive introductory survey of \LaTeX\ on
+\href{https://en.wikibooks.org/wiki/LaTeX}{Wikibooks}.
+
+When using \textsc{Bib}\TeX, it's a good idea to keep \citet{patashnik-bibtex-1988}
+close by, as it lists all the available citation types and their
+required vs optional fields.
+Other useful references are in \citet{markey-ttb-2009}
+and \citet{daly-natbib-2010}.
+
+If you're going to use \LaTeX\ a lot, \citet{mittelbach-goossens-2004}
+is a very comprehensive text with just about everything you can think of,
+including discussions of a wide variety of packages,
+and instructions on how to customise all aspects of the document,
+as well as how to roll your own classes and packages.
+
+If you want to know more about how \LaTeX\ works under the hood,
+a complete introduction to plain \TeX\ appears in \citet{knuth-texbook-1986}.
+
+If you'd like more in-person help,
+\href{http://melbourne.resbaz.edu.au/}{Research Bazaar}
+runs a free weekly drop-in session for postgrads and early career researchers
+called ``Hacky Hour''.
+This happens 3pm every Thursday at \href{http://tsububar.com.au/}{Tsubu Bar}.
+

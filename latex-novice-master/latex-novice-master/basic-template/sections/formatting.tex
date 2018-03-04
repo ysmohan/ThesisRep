@@ -1,0 +1,85 @@
+\section{Formatting text and mathematics}\label{sec:formatting}
+
+The following will explore some of the text formatting commands often used in
+\LaTeX.
+
+\emph{This text is emphasised.}
+
+\textit{This text also looks emphasised because it's in italics,
+    but if we now use the emph command inside italics,
+\emph{it will switch italics off}.}
+
+\textbf{This text is bolded.}
+
+\textsc{Small-caps is useful if you want to sound like Death
+from a Terry Pratchett book.}
+
+To enter mathematics, we already saw one method in
+Equation~\ref{eq:einstein-field-equations}.
+You can also write equations in-line (i.e. as part of surrounding text)
+using dollar signs like so: $e^{i\pi} - 1 = 0$.
+Another option more concise than the equation environment
+is to use double dollar signs:
+
+$$R_{\mu \nu} - {1 \over 2}g_{\mu \nu}\,R + g_{\mu \nu} \Lambda = {8 \pi G \over c^4} T_{\mu \nu}$$
+
+Notice how using double dollar signs suppresses the equation numbering.
+
+Often we want multiple lines of working aligned on equals signs.
+There are two ways to do this.
+Built in to \LaTeX\ is the eqnarray environment.
+For example, to specify a Kermack-McKendrick SIR epidemic model, you can write:
+
+\begin{verbatim}
+\begin{eqnarray}
+    \dot{S}	&=&	-\beta{S}I\\
+    \dot{I}	&=&	\beta{S}I-\gamma{I}\\
+    \dot{R}	&=&	\gamma{I}
+\end{eqnarray}
+\end{verbatim}
+
+Each double-backslash starts a new line; ampersands delimit ``columns''.
+This turns into:
+
+\begin{eqnarray}
+    \dot{S}	&=&	-\beta{S}I\\
+    \dot{I}	&=&	\beta{S}I-\gamma{I}\\
+    \dot{R}	&=&	\gamma{I}
+\end{eqnarray}
+
+Note that this notation of columns delimited by ampersands,
+and lines separated by double-backslashes,
+is used in other contexts in LaTeX, such as when entering tables.
+
+There is also a starred version of eqnarray, which suppresses numbering:
+
+\begin{verbatim}
+\begin{eqnarray*}
+    \dot{S}	&=& -\beta{S}I\\
+    \dot{I}	&=& \beta{S}I-\gamma{I}\\
+    \dot{R}	&=& \gamma{I}
+\end{eqnarray*}
+\end{verbatim}
+
+\begin{eqnarray*}
+    \dot{S}	&=& -\beta{S}I\\
+    \dot{I}	&=& \beta{S}I-\gamma{I}\\
+    \dot{R}	&=& \gamma{I}
+\end{eqnarray*}
+
+Many people prefer to use the align environment provided by the amsmath package,
+which only requires one equals sign:
+
+\begin{verbatim}
+\begin{align*}
+    \dot{S}	&= -\beta{S}I\\
+    \dot{I}	&= \beta{S}I-\gamma{I}\\
+    \dot{R}	&= \gamma{I}
+\end{align*}
+\end{verbatim}
+
+\begin{align*}
+    \dot{S}	&= -\beta{S}I\\
+    \dot{I}	&= \beta{S}I-\gamma{I}\\
+    \dot{R}	&= \gamma{I}
+\end{align*}

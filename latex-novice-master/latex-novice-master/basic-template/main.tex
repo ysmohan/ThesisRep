@@ -1,0 +1,104 @@
+% Notice how this line starts with a percent sign (%). Starting a line with a
+% percent sign turns it into something called a "comment".
+%
+% Comments are places to put notes for people editing the LaTeX source text,
+% rather than people reading the final PDF.
+%
+% When compiling your document into a PDF, LaTeX will ignore all comments;
+% it is like they are invisible to the computer.
+%
+% They can also be useful if you get errors while compiling.
+% If you suspect a specific line is causing problems, try turning it into a
+% comment while you figure out what the problem is.
+%
+% Then after you fix the problem, you can "uncomment" the troublesome line:
+% just removing the percent sign.
+
+% Everything between here and \begin{document} is called the preamble.
+%
+% The preamble is used to set up the overall style of the document,
+% perform any types of customisation you feel like, and include packages.
+%
+% (Packages are external collections of non-default settings. They make it
+% easy to customise or extend LaTeX in specific ways.)
+
+% Tell LaTeX what kind of document we're going to be making.
+% This affects many aspects of appearance and can also limit available commands.
+% For example, it isn't possible to use chapters within an article.
+% Inside square brackets we provide options which switch from
+% the default of letter-sized paper with 10pt font to A4 paper with 12pt font.
+\documentclass[a4paper,12pt]{article}
+
+% LaTeX doesn't know about graphics by default.
+% The following extends LaTeX so that we'll be able to include images in our document.
+\usepackage{graphicx}
+
+% By default, bibliographies in LaTeX are a little unwieldy. To make
+% bibliographies easier to work with, you'll usually use a package
+% such as natbib:
+\usepackage{natbib}
+
+% The following package provides useful extensions such as
+% an environment for aligning multiple equations on equal signs.
+\usepackage{amsmath}
+
+% A package for advanced diagram management.
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
+% This package is required for \FloatBarrier (see document body).
+\usepackage{placeins}
+
+% Put hyperlinks into the document and change their default colouring.
+% This will also place hyperlinks from the table of contents to the
+% section headings, and between cross-references.
+\usepackage[bookmarks=false, pdfstartview=FitH]{hyperref}
+\hypersetup{
+    colorlinks=true,
+    urlcolor=blue,
+    linkcolor=black,
+    citecolor=black
+}
+
+
+% It's possible to customise LaTeX using commands in the preamble.
+% Uncomment the following lines to experiment:
+%\renewcommand{\theenumi}{\roman{enumi}}
+%\renewcommand{\labelitemi}{***}
+%
+%\addtolength{\hoffset}{-1cm}
+%\addtolength{\textwidth}{2\hoffset}
+
+% Set up information for use by \maketitle.
+\title{Hello world}
+\author{J. Smith}
+\date{} % Stop the current date from appearing in the title.
+
+
+% End of preamble. Now add content.
+\begin{document}
+
+% Use information already specified in the preamble to create a title.
+\maketitle
+
+% Use information from section headings to build a TOC.
+\tableofcontents
+
+
+% Input LaTeX source code from other files.
+\input{sections/intro}
+\input{sections/cats}
+\input{sections/lists}
+\input{sections/formatting}
+\input{sections/sectioning}
+\input{sections/misc}
+
+
+% Specify what style the bibliography should follow.
+\bibliographystyle{plainnat}
+
+% Specify which file contains the bibliography data.
+% This is a file with a ".bib" extension, in this case "main.bib".
+% Notice how it's not necessary to specify the extension in the following command:
+\bibliography{main}
+\end{document}

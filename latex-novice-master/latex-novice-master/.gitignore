@@ -1,0 +1,13 @@
+*.html
+*.toc
+*.aux
+*.thm
+*.bbl
+*.blg
+*.log
+*.lof
+*.lot
+*.out
+*.pdf
+*.swp
+wiki
