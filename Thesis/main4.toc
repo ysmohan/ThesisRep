@@ -98,11 +98,13 @@
 \contentsline {subsubsection}{Analysis of Bar Stimuli Responses}{110}
 \contentsline {paragraph}{Calculating Segregation Index (SI)}{111}
 \contentsline {subsubsection}{Analysis if Grating Stimuli Responses}{112}
-\contentsline {subsection}{\numberline {6.3.5}Histology}{113}
-\contentsline {section}{\numberline {6.4}Results}{113}
-\contentsline {paragraph}{Segregation Index}{113}
-\contentsline {paragraph}{Bimodality Index}{115}
-\contentsline {paragraph}{Modulation Index}{116}
-\contentsline {paragraph}{Relationship between bandwidth and spatial frequency}{120}
-\contentsline {section}{\numberline {6.5}Discussion}{123}
-\contentsline {chapter}{References}{129}
+\contentsline {subsubsection}{Bandwidth of Spatial Frequency Tuning}{112}
+\contentsline {subsection}{\numberline {6.3.5}Histology}{114}
+\contentsline {section}{\numberline {6.4}Results}{114}
+\contentsline {paragraph}{Segregation Index}{114}
+\contentsline {paragraph}{Bimodality Index}{116}
+\contentsline {paragraph}{Modulation Index}{117}
+\contentsline {paragraph}{Distribution of bandwidth in octaves}{121}
+\contentsline {paragraph}{Relationship between bandwidth and spatial frequency}{122}
+\contentsline {section}{\numberline {6.5}Discussion}{125}
+\contentsline {chapter}{References}{131}

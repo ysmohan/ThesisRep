@@ -4,13 +4,15 @@
 	It has been contentious whether simple cells in the primary visual cortex (V1) perform patch by patch Fourier Analysis on the visual scene. It has been suggested that if V1 neurons perform patch-by-patch Fourier Analysis, then the receptive field sizes will remain constant. If this is the case, then to obtain the range of peak spatial frequencies reported for the same visual field, the neurons will have different number of sub-regions. Alternately, different peak spatial frequencies can also be obtained by keeping the number of sub-regions the same and changing the receptive field sizes. In this chapter, we will examine which of the above models best explain the receptive field properties of tree shrews. We measured the spatial frequency tuning curves of the neurons and calculated absolute and relative bandwidths. We found that the relative bandwidth was negatively correlated with the peak spatial frequency, suggesting that the shrew V1 neurons, while not ideal, are far better Fourier Analysers than the macaque V1.
 	\pagebreak
 	\section{Introduction}
-	In their seminal paper, Hubel and Wiesel divided cortical neurons into simple and complex cells. While both these types of neurons were orientation selective, they were different in some key ways. Specifically, Hubel and Wiesel described simple cells as neurons that have
-	a) spatially segregated on and off regions, 
-	b) summation within each region, 
-	c) had ON and OFF subregions that were antagonistic 
-	d) it was possible to predict the neuron’s response to any stimulus
-	Complex cells were neurons that did not have the above properties. In recent years, this has been interpreted as simple cells being linear, X-like neurons while complex cells exhibit non-linear, Y-like responses. 
-	It was proposed by Robson and Campbell that neurons in the primary visual cortex function do not all function as a single detector. Rather, they suggest that there are a number of “independent detector mechanism” each of which is tuned to a narrow range of frequencies (Campbell and Robson, 1968).  They also report that there are individual “channels” for most of the spatial frequencies that the neurons see. as patch by patch Fourier transformers. What this essentially meant was that neurons analysed each patch of the visual field individually and extracted the spatial frequency information and then used this information to create a composite whole. Campbell and Robson reframed this hypothesis to say that this implied that neurons that analysed the same patch of visual field had the same receptive field sizes but different peak spatial frequencies. This is supported by studies that have shown that in the primary visual cortex, while there are orientation columns where the orientation remains constant, there are no such spatial frequency columns. Within an area of the cortex, spatial frequency can vary by a lot.
+	
+		Hubel and Wiesel divided cortical neurons into simple and complex cells. While both these types of neurons were orientation selective, they were 	different in some key ways. Specifically, Hubel and Wiesel described simple cells as neurons that have
+		a) spatially segregated on and off regions, 
+		b) summation within each region, 
+		c) had ON and OFF subregions that were antagonistic 
+		d) it was possible to predict the neuron’s response to any stimulus
+		Complex cells were neurons that did not have the above properties. 
+	
+		It was proposed by Robson and Campbell that neurons in the primary visual cortex function do not all function as a single detector. Rather, they suggest that there are a number of “independent detector mechanism” each of which is tuned to a narrow range of frequencies (Campbell and Robson, 1968).  They also report that there are individual “channels” for most of the spatial frequencies that the neurons see. as patch by patch Fourier transformers. What this essentially meant was that neurons analysed each patch of the visual field individually and extracted the spatial frequency information and then used this information to create a composite whole. Campbell and Robson reframed this hypothesis to say that this implied that neurons that analysed the same patch of visual field had the same receptive field sizes but different peak spatial frequencies. This is supported by studies that have shown that in the primary visual cortex, while there are orientation columns where the orientation remains constant, there are no such spatial frequency columns. Within an area of the cortex, spatial frequency can vary by a lot.
 	For neurons to have the same receptive field size but different peak spatial frequencies, they should have different number of receptive field sub-regions. Blah blah blah showed that the size of the receptive subregions affect the peak spatial frequencies whereas the number of receptive field sub-regions affects the bandwidth of the tuning (see figure 1a ). This implies that if the receptive field size remains constant, the only way we could achieve different peak spatial frequencies will be by changing the size of the sub-regions. This would mean that as the peak spatial frequency increases, the size of subregions decrease and the number of sub-regions increase which also means that the spatial frequency tuning bandwidth gets narrower (rows 1 and 2 of figure 1). Alternately, we could achieve the same results by keeping the same number of sub-regions but by changing receptive field sizes as shown in figure 1b and c. In this case, the relative bandwidth of the spatial frequency tuning would remain constant even as the peak spatial frequency increases. In the cats and macaques, this second model of constant relative sub-regions has been shown to be true (Vidyasgar and Kulikowski, 1986; Kulikowski and Bishop, 1981).
 	In the tree shrews, while orientation selectivity has been widely studied, very few studies have been conducted on the spatial frequency selectivity of the tree shrew V1. One study looked at the distribution of spatial frequency between layers 2/3 and layer 4 and found that most neurons in layer 2/3 showed band-pass spatial frequency tuning with neurons predominantly showing a tuning bandwidth of 2 octaves. Apart from this one study, no other reports of spatial frequency tuning has been shown. Our own results are similar to previously reported results on the layer 2/3 neurons (see Previous chapter). We also found that compared to layer 4, more neurons were likely to be band-pass tuned for spatial frequency. Here we aimed to examine the relationship between the orientation tuning bandwidth and the peak spatial frequency.
 	
@@ -65,8 +67,24 @@
 				
 				Where Rf1 and Rf0 are the responses of the F0 and F1 components at the peak spatial frequency.
 				The modulation ratio returned a number between 0 and 2. If the neuron had a modulation index greater than 1, it was classified as simple and it was classified as complex otherwise (Van Hooser et al., 2013). Only neurons classified as simple cells were used for further analysis and only the F1 component of the responses were further analysed.
-				For each neuron, two spatial frequency tuning bandwidths were calculated. One was the absolute bandwidth which was the difference between the upper and lower cutoff spatial frequencies. The upper cut off was calculated as the spatial frequency greater than the peak spatial frequency where the response first reaches half the maximum response. The lower cutoff was calculated similarly for spatial frequencies lower than peak spatial frequency where response first reached half the maximum response. If the response never reached half the maximum response, the neuron was classified as low pass or high pass tuned. The relative bandwidth was then calculated as the absolute bandwidth/ peak spatial frequency.
 				
+				\subsubsection{Bandwidth of Spatial Frequency Tuning}
+				In the previous chapter, the distribution of peak spatial frequencies was presented. Here the spatial frequency bandwidth is discussed. For each neuron, three different measures of spatial frequency tuning bandwidths were calculated. First the upper and lower cut off spatial frequencies were calculated as follows. upper cut off was calculated as the spatial frequency greater than the peak spatial frequency where the response first reaches half the maximum response. The lower cutoff was calculated similarly for spatial frequencies lower than peak spatial frequency where response first reached half the maximum response. If the response never reached half the maximum response, the neuron was classified as low pass or high pass tuned. The first was the bandwidth of spatial frequency tuning in octaves (boct). It was calculated using the following formula.
+				
+				\[Boct=log_2\frac{f_u}{f_l}\]
+				
+				where, f$_u$ and f$_l$ are the upper and lower cut-off spatial frequencies.
+				
+				The second was the absolute bandwidth which was calculated as follows:
+				
+				\[B_{abs}=f_u-f_l\]
+				
+				Finally, the relative bandwidth was calculated using the following formula:
+				
+				\[Brel=\frac{B_{abs}}{f_{peak}}\]
+				
+				where f$_{peak}$ is the optimum spatial frequency of the neurons
+								
 		\subsection{Histology}
 				The brains were stained for Nissl substances using cresyl violet acetate and lesions were located. The number of neurons found in each layer have been presented in V1 chapter and are not presented here. However, for all the results presented here, layer specific results are also presented.
 							
@@ -137,16 +155,29 @@
 		\label{fig:conc}
 	\end{figure}
 
+	\paragraph{Distribution of bandwidth in octaves}
+	
+	In most species studied so far, the bandwidth of SF tuning in octaves has been constant (~1.5 octave) with a large range of tuning widths. Therefore, the distribution of the bandwidth of the neurons in octaves is presented in figure \ref{fig:boct}. The data is also presented individually for neurons determined as simple and complex using the Modulation Index and the segregation Index separately (figure \ref{fig:boct}a and b).
+
+		\begin{figure}[H]
+		
+		\includegraphics[width=\linewidth]{LinearV1/boct.jpg}
+		\caption{The distribution of B$_{oct}$ in simple and complex cells classified using the modulation index (a) and the segregation index (b). a) }
+		\label{fig:boct}
+		
+		\end{figure}
+	
+	The median b$_{oct}$ for both simple and complex cells was 2.3 octaves with neurons responding between 0 and 4.5 octaves. 
 	\paragraph{Relationship between bandwidth and spatial frequency}
 	
-	Neurons were classified as simple cells using the modulation index (MI$>$1), the segregation index (SI$>$0.5), both the modulation and segregation index together (MI $>$ 1 and SI $>$0.5). The relationship between the absolute bandwidth and the peak spatial frequency for simple cells classifies as described as above as well as for all the neurons in the sample are shown in figure 5(a,c,e \& g). Statistically significant relationships are indicated using $*$. For the other two measure used for classification, the correlation was not significant. There was a significant correlation between the when all neurons were used for the analysis. The relationship between relative bandwidth and the peak spatial frequency are shown in the right hand panel. In all cases except for the one in (f) the results were statistically significant.
+	Neurons were classified as simple cells using the modulation index (MI$>$1), the segregation index (SI$>$0.5), both the modulation and segregation index together (MI $>$ 1 and SI $>$0.5). The relationship between the absolute bandwidth and the peak spatial frequency for simple cells classifies as described as above as well as for all the neurons in the sample are shown in figure \ref{fig:hwpksf}(a,c\&e). Statistically significant relationships are indicated using $*$. There was a significant correlation between the when all neurons were used for the analysis. The relationship between relative bandwidth and the peak spatial frequency are shown in the right hand panel. In all cases except for the one in (f) the results were statistically significant.
 	
 		\begin{figure}[H]
 		
-		\includegraphics[width=\linewidth]{LinearV1/hwpksf.jpg}
-		\caption{This figure shows the relationship between bandwidth and spatial frequency in simple cells when using the modulation index to classify units (a,b), when using the segregation index (c,d); using both the modulation and segregation index (e,f) and for all neurons in the sample (g,h). The plots on the left hand side show the relationship between absolute bandwidth and the peak spatial frequency while the plots on the right hand side show the relationship between the relative bandwidth and peak spatial frequency. Number of units used for generating each plot is specified in the right hand corner and statistically significant results are shown by *. *= p$<$0.05. **=p$<$0.0001.}
-		\label{fig:fig6}
-	\end{figure}
+		\includegraphics[width=\linewidth]{LinearV1/hwpksf2.jpg}
+		\caption{This figure shows the relationship between bandwidth and spatial frequency in simple cells when using the modulation index to classify units (a,b), when using the segregation index (c,d); using both the modulation and segregation index (e,f). The plots on the left hand side show the relationship between absolute bandwidth and the peak spatial frequency while the plots on the right hand side show the relationship between the relative bandwidth and peak spatial frequency. Number of units used for generating each plot is specified in the right hand corner and statistically significant results are shown by *. *= p$<$0.05. **=p$<$0.0001.}
+		\label{fig:hwpksf}
+		\end{figure}
 	
 	
 	\section{Discussion}
