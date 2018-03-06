@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  5 MAR 2018 16:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  6 MAR 2018 19:42
 entering extended mode
 **main4.tex
 (main4.tex
@@ -554,28 +554,16 @@ Missing character: There is no º in font cmr12!
 Chapter 6.
 [101
 
-] [102]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
- [103] [104]
-<LinearV1/scheme.jpg, id=365, 810.77907pt x 581.92406pt>
+] [102] [103] [104] [105]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 20.
+
+<LinearV1/scheme.jpg, id=368, 810.77907pt x 581.92406pt>
 File: LinearV1/scheme.jpg Graphic file (type jpg)
 
 <use LinearV1/scheme.jpg>
-Package pdftex.def Info: LinearV1/scheme.jpg used on input line 21.
+Package pdftex.def Info: LinearV1/scheme.jpg used on input line 22.
 (pdftex.def)             Requested size: 390.0pt x 279.92418pt.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -583,7 +571,7 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
- [105 <./LinearV1/scheme.jpg>] [106] [107]
+ [106] [107 <./LinearV1/scheme.jpg>] [108]
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no ‚ in font cmr12!
@@ -594,80 +582,80 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no º in font cmr12!
- [108]
-[109]
+ [109]
+[110]
 Missing character: There is no œ in font cmr12!
 Missing character: There is no É in font cmr12!
- [110] [111] [112] [113]
-<LinearV1/simplecomplex.jpg, id=396, 460.8417pt x 166.4619pt>
+ [111] [112] [113] [114] [115]
+<LinearV1/simplecomplex.jpg, id=403, 460.8417pt x 166.4619pt>
 File: LinearV1/simplecomplex.jpg Graphic file (type jpg)
 
 <use LinearV1/simplecomplex.jpg>
-Package pdftex.def Info: LinearV1/simplecomplex.jpg used on input line 104.
+Package pdftex.def Info: LinearV1/simplecomplex.jpg used on input line 107.
 (pdftex.def)             Requested size: 390.0pt x 140.88112pt.
- [114]
-<LinearV1/segregationindex_colouradj.jpg, id=401, 936.49875pt x 624.3325pt>
+ [116 <./LinearV1/simplecomplex.jpg>]
+<LinearV1/segregationindex_colouradj.jpg, id=407, 936.49875pt x 624.3325pt>
 File: LinearV1/segregationindex_colouradj.jpg Graphic file (type jpg)
 
 <use LinearV1/segregationindex_colouradj.jpg>
 Package pdftex.def Info: LinearV1/segregationindex_colouradj.jpg used on input 
-line 112.
+line 115.
 (pdftex.def)             Requested size: 390.0pt x 259.99818pt.
- [115 <./LinearV1/simplecomplex.jpg>] <LinearV1/Biindex.jpg, id=405, 858.20625p
-t x 548.0475pt>
+
+<LinearV1/Biindex.jpg, id=408, 858.20625pt x 548.0475pt>
 File: LinearV1/Biindex.jpg Graphic file (type jpg)
 
 <use LinearV1/Biindex.jpg>
-Package pdftex.def Info: LinearV1/Biindex.jpg used on input line 123.
+Package pdftex.def Info: LinearV1/Biindex.jpg used on input line 126.
 (pdftex.def)             Requested size: 390.0pt x 249.05258pt.
- [116 <./LinearV1/segregationindex_colouradj.jpg>]
-<LinearV1/modind_layer_colour.jpg, id=409, 744.7825pt x 494.84875pt>
+ [117 <./LinearV1/segregationindex_colouradj.jpg>]
+<LinearV1/modind_layer_colour.jpg, id=412, 744.7825pt x 494.84875pt>
 File: LinearV1/modind_layer_colour.jpg Graphic file (type jpg)
 
 <use LinearV1/modind_layer_colour.jpg>
 Package pdftex.def Info: LinearV1/modind_layer_colour.jpg used on input line 13
-3.
+6.
 (pdftex.def)             Requested size: 390.0pt x 259.12747pt.
- [117 <./LinearV1/Biindex.jpg>]
-<LinearV1/Segindvsmodind.jpg, id=413, 702.625pt x 488.82625pt>
+ [118 <./LinearV1/Biindex.jpg>]
+<LinearV1/Segindvsmodind.jpg, id=416, 702.625pt x 488.82625pt>
 File: LinearV1/Segindvsmodind.jpg Graphic file (type jpg)
 
 <use LinearV1/Segindvsmodind.jpg>
-Package pdftex.def Info: LinearV1/Segindvsmodind.jpg used on input line 142.
+Package pdftex.def Info: LinearV1/Segindvsmodind.jpg used on input line 145.
 (pdftex.def)             Requested size: 390.0pt x 271.33907pt.
- [118 <./LinearV1/modind_layer_colour.jpg>]
-[119 <./LinearV1/Segindvsmodind.jpg>]
-<LinearV1/concneurons.jpg, id=420, 1983.41pt x 1413.28pt>
+ [119 <./LinearV1/modind_layer_colour.jpg>]
+[120 <./LinearV1/Segindvsmodind.jpg>]
+<LinearV1/concneurons.jpg, id=424, 1983.41pt x 1413.28pt>
 File: LinearV1/concneurons.jpg Graphic file (type jpg)
 
 <use LinearV1/concneurons.jpg>
-Package pdftex.def Info: LinearV1/concneurons.jpg used on input line 153.
+Package pdftex.def Info: LinearV1/concneurons.jpg used on input line 156.
 (pdftex.def)             Requested size: 390.0pt x 277.88515pt.
- [120]
-<LinearV1/boct.jpg, id=425, 1032.85875pt x 548.0475pt>
+ [121]
+<LinearV1/boct.jpg, id=428, 1032.85875pt x 548.0475pt>
 File: LinearV1/boct.jpg Graphic file (type jpg)
  <use LinearV1/boct.jpg>
-Package pdftex.def Info: LinearV1/boct.jpg used on input line 164.
+Package pdftex.def Info: LinearV1/boct.jpg used on input line 167.
 (pdftex.def)             Requested size: 390.0pt x 206.93893pt.
 
-[121 <./LinearV1/concneurons.jpg>] [122 <./LinearV1/boct.jpg>]
-<LinearV1/hwpksf2.jpg, id=432, 608.2725pt x 385.44pt>
+[122 <./LinearV1/concneurons.jpg>] [123 <./LinearV1/boct.jpg>]
+<LinearV1/hwpksf2.jpg, id=435, 608.2725pt x 385.44pt>
 File: LinearV1/hwpksf2.jpg Graphic file (type jpg)
 
 <use LinearV1/hwpksf2.jpg>
-Package pdftex.def Info: LinearV1/hwpksf2.jpg used on input line 177.
+Package pdftex.def Info: LinearV1/hwpksf2.jpg used on input line 180.
 (pdftex.def)             Requested size: 390.0pt x 247.13362pt.
- [123] [124 <./LinearV1/hwpksf2.jpg>] [125] [126]
-[127] [128]
-Overfull \hbox (3.81258pt too wide) in paragraph at lines 228--229
+ [124] [125 <./LinearV1/hwpksf2.jpg>] [126] [127]
+[128] [129]
+Overfull \hbox (3.81258pt too wide) in paragraph at lines 231--232
 []\OT1/cmr/m/n/12 What does the rel-a-tive band-wdth and spa-tial fre-quency re
 -la-tion-ship mean? 
  []
 
 
-LaTeX Warning: Reference `fig:fig1' on page 129 undefined on input line 230.
+LaTeX Warning: Reference `fig:fig1' on page 130 undefined on input line 233.
 
-[129]) (main4.bbl [130]
+[130]) (main4.bbl [131]
 Underfull \hbox (badness 3701) in paragraph at lines 14--39
 \OT1/cmr/m/n/12 anal-y-sis of orientation-selective ac-tiv-ity in the pri-mary 
 vi-sual
@@ -691,7 +679,7 @@ Overfull \hbox (256.875pt too wide) in paragraph at lines 14--39
 298&tool=pmcentrez&rendertype=abstract
  []
 
-) [131
+) [132
 
 ] (main4.aux)
 
@@ -701,7 +689,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  1883 strings out of 493698
  26929 string characters out of 3146415
- 84898 words of memory out of 3000000
+ 81898 words of memory out of 3000000
  5169 multiletter control sequences out of 15000+200000
  9930 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -715,9 +703,9 @@ ublic/amsfonts/cm/cmmi8.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts
 es/LaTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/LaTex/font
 s/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/LaTex/fonts/type1/publi
 c/amsfonts/cm/cmtt12.pfb>
-Output written on main4.pdf (132 pages, 11634594 bytes).
+Output written on main4.pdf (133 pages, 11637441 bytes).
 PDF statistics:
- 499 PDF objects out of 1000 (max. 8388607)
+ 503 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  171 words of extra memory for PDF output out of 10000 (max. 10000000)
 

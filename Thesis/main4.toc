@@ -88,23 +88,23 @@
 \contentsline {chapter}{\numberline {6}Is the tree shrew primary visual cortex a linear filter?}{101}
 \contentsline {section}{\numberline {6.1}Summary}{102}
 \contentsline {section}{\numberline {6.2}Introduction}{103}
-\contentsline {section}{\numberline {6.3}Methods}{107}
-\contentsline {subsection}{\numberline {6.3.1}Surgery and Anaesthesia}{107}
-\contentsline {subsection}{\numberline {6.3.2}Electrophysiology}{108}
-\contentsline {subsection}{\numberline {6.3.3}Stimuli}{109}
-\contentsline {subsubsection}{Bar Stimuli}{109}
-\contentsline {subsubsection}{Grating Stimuli}{110}
-\contentsline {subsection}{\numberline {6.3.4}Data Analysis}{110}
-\contentsline {subsubsection}{Analysis of Bar Stimuli Responses}{110}
-\contentsline {paragraph}{Calculating Segregation Index (SI)}{111}
-\contentsline {subsubsection}{Analysis if Grating Stimuli Responses}{112}
-\contentsline {subsubsection}{Bandwidth of Spatial Frequency Tuning}{112}
-\contentsline {subsection}{\numberline {6.3.5}Histology}{114}
-\contentsline {section}{\numberline {6.4}Results}{114}
-\contentsline {paragraph}{Segregation Index}{114}
-\contentsline {paragraph}{Bimodality Index}{116}
-\contentsline {paragraph}{Modulation Index}{117}
-\contentsline {paragraph}{Distribution of bandwidth in octaves}{121}
-\contentsline {paragraph}{Relationship between bandwidth and spatial frequency}{122}
-\contentsline {section}{\numberline {6.5}Discussion}{125}
-\contentsline {chapter}{References}{131}
+\contentsline {section}{\numberline {6.3}Methods}{109}
+\contentsline {subsection}{\numberline {6.3.1}Surgery and Anaesthesia}{109}
+\contentsline {subsection}{\numberline {6.3.2}Electrophysiology}{109}
+\contentsline {subsection}{\numberline {6.3.3}Stimuli}{110}
+\contentsline {subsubsection}{Bar Stimuli}{111}
+\contentsline {subsubsection}{Grating Stimuli}{111}
+\contentsline {subsection}{\numberline {6.3.4}Data Analysis}{112}
+\contentsline {subsubsection}{Analysis of Bar Stimuli Responses}{112}
+\contentsline {paragraph}{Calculating Segregation Index (SI)}{112}
+\contentsline {subsubsection}{Analysis if Grating Stimuli Responses}{113}
+\contentsline {subsubsection}{Bandwidth of Spatial Frequency Tuning}{114}
+\contentsline {subsection}{\numberline {6.3.5}Histology}{115}
+\contentsline {section}{\numberline {6.4}Results}{116}
+\contentsline {paragraph}{Segregation Index}{116}
+\contentsline {paragraph}{Bimodality Index}{117}
+\contentsline {paragraph}{Modulation Index}{118}
+\contentsline {paragraph}{Distribution of bandwidth in octaves}{122}
+\contentsline {paragraph}{Relationship between bandwidth and spatial frequency}{123}
+\contentsline {section}{\numberline {6.5}Discussion}{126}
+\contentsline {chapter}{References}{132}
