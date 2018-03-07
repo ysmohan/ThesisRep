@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  6 MAR 2018 19:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  7 MAR 2018 15:48
 entering extended mode
 **main4.tex
 (main4.tex
@@ -540,6 +540,10 @@ Chapter 5.
 [94
 
 ] [95]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [96] [97]
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no ‚ in font cmr12!
@@ -550,16 +554,16 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no º in font cmr12!
- [96] [97] [98] [99]) (LinearV1/linv1.tex [100]
+ [98] [99] [100]) (LinearV1/linv1.tex [101]
 Chapter 6.
-[101
+[102
 
-] [102] [103] [104] [105]
+] [103] [104] [105] [106]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 20.
 
-<LinearV1/scheme.jpg, id=368, 810.77907pt x 581.92406pt>
+<LinearV1/scheme.jpg, id=371, 810.77907pt x 581.92406pt>
 File: LinearV1/scheme.jpg Graphic file (type jpg)
 
 <use LinearV1/scheme.jpg>
@@ -571,7 +575,7 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
- [106] [107 <./LinearV1/scheme.jpg>] [108]
+ [107] [108 <./LinearV1/scheme.jpg>] [109]
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no ‚ in font cmr12!
@@ -582,19 +586,19 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no º in font cmr12!
- [109]
-[110]
+ [110]
+[111]
 Missing character: There is no œ in font cmr12!
 Missing character: There is no É in font cmr12!
- [111] [112] [113] [114] [115]
-<LinearV1/simplecomplex.jpg, id=403, 460.8417pt x 166.4619pt>
+ [112] [113] [114] [115] [116]
+<LinearV1/simplecomplex.jpg, id=406, 460.8417pt x 166.4619pt>
 File: LinearV1/simplecomplex.jpg Graphic file (type jpg)
 
 <use LinearV1/simplecomplex.jpg>
 Package pdftex.def Info: LinearV1/simplecomplex.jpg used on input line 107.
 (pdftex.def)             Requested size: 390.0pt x 140.88112pt.
- [116 <./LinearV1/simplecomplex.jpg>]
-<LinearV1/segregationindex_colouradj.jpg, id=407, 936.49875pt x 624.3325pt>
+ [117 <./LinearV1/simplecomplex.jpg>]
+<LinearV1/segregationindex_colouradj.jpg, id=410, 936.49875pt x 624.3325pt>
 File: LinearV1/segregationindex_colouradj.jpg Graphic file (type jpg)
 
 <use LinearV1/segregationindex_colouradj.jpg>
@@ -602,110 +606,75 @@ Package pdftex.def Info: LinearV1/segregationindex_colouradj.jpg used on input
 line 115.
 (pdftex.def)             Requested size: 390.0pt x 259.99818pt.
 
-<LinearV1/Biindex.jpg, id=408, 858.20625pt x 548.0475pt>
+<LinearV1/Biindex.jpg, id=411, 858.20625pt x 548.0475pt>
 File: LinearV1/Biindex.jpg Graphic file (type jpg)
 
 <use LinearV1/Biindex.jpg>
 Package pdftex.def Info: LinearV1/Biindex.jpg used on input line 126.
 (pdftex.def)             Requested size: 390.0pt x 249.05258pt.
- [117 <./LinearV1/segregationindex_colouradj.jpg>]
-<LinearV1/modind_layer_colour.jpg, id=412, 744.7825pt x 494.84875pt>
+ [118 <./LinearV1/segregationindex_colouradj.jpg>]
+<LinearV1/modind_layer_colour.jpg, id=415, 744.7825pt x 494.84875pt>
 File: LinearV1/modind_layer_colour.jpg Graphic file (type jpg)
 
 <use LinearV1/modind_layer_colour.jpg>
 Package pdftex.def Info: LinearV1/modind_layer_colour.jpg used on input line 13
 6.
 (pdftex.def)             Requested size: 390.0pt x 259.12747pt.
- [118 <./LinearV1/Biindex.jpg>]
-<LinearV1/Segindvsmodind.jpg, id=416, 702.625pt x 488.82625pt>
+ [119 <./LinearV1/Biindex.jpg>]
+<LinearV1/Segindvsmodind.jpg, id=419, 702.625pt x 488.82625pt>
 File: LinearV1/Segindvsmodind.jpg Graphic file (type jpg)
 
 <use LinearV1/Segindvsmodind.jpg>
 Package pdftex.def Info: LinearV1/Segindvsmodind.jpg used on input line 145.
 (pdftex.def)             Requested size: 390.0pt x 271.33907pt.
- [119 <./LinearV1/modind_layer_colour.jpg>]
-[120 <./LinearV1/Segindvsmodind.jpg>]
-<LinearV1/concneurons.jpg, id=424, 1983.41pt x 1413.28pt>
+ [120 <./LinearV1/modind_layer_colour.jpg>]
+[121 <./LinearV1/Segindvsmodind.jpg>]
+<LinearV1/concneurons.jpg, id=427, 1983.41pt x 1413.28pt>
 File: LinearV1/concneurons.jpg Graphic file (type jpg)
 
 <use LinearV1/concneurons.jpg>
 Package pdftex.def Info: LinearV1/concneurons.jpg used on input line 156.
 (pdftex.def)             Requested size: 390.0pt x 277.88515pt.
- [121]
-<LinearV1/boct.jpg, id=428, 1032.85875pt x 548.0475pt>
+ [122]
+<LinearV1/boct.jpg, id=431, 1032.85875pt x 548.0475pt>
 File: LinearV1/boct.jpg Graphic file (type jpg)
  <use LinearV1/boct.jpg>
 Package pdftex.def Info: LinearV1/boct.jpg used on input line 167.
 (pdftex.def)             Requested size: 390.0pt x 206.93893pt.
 
-[122 <./LinearV1/concneurons.jpg>] [123 <./LinearV1/boct.jpg>]
-<LinearV1/hwpksf2.jpg, id=435, 608.2725pt x 385.44pt>
+[123 <./LinearV1/concneurons.jpg>] [124 <./LinearV1/boct.jpg>]
+<LinearV1/hwpksf2.jpg, id=438, 608.2725pt x 385.44pt>
 File: LinearV1/hwpksf2.jpg Graphic file (type jpg)
 
 <use LinearV1/hwpksf2.jpg>
 Package pdftex.def Info: LinearV1/hwpksf2.jpg used on input line 180.
 (pdftex.def)             Requested size: 390.0pt x 247.13362pt.
- [124] [125 <./LinearV1/hwpksf2.jpg>] [126] [127]
-[128] [129]
-Overfull \hbox (3.81258pt too wide) in paragraph at lines 231--232
-[]\OT1/cmr/m/n/12 What does the rel-a-tive band-wdth and spa-tial fre-quency re
--la-tion-ship mean? 
- []
+ [125] [126 <./LinearV1/hwpksf2.jpg>] [127] [128]
+[129] [130] [131]) (main4.bbl [132]
 
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-LaTeX Warning: Reference `fig:fig1' on page 130 undefined on input line 233.
+) [133
 
-[130]) (main4.bbl [131]
-Underfull \hbox (badness 3701) in paragraph at lines 14--39
-\OT1/cmr/m/n/12 anal-y-sis of orientation-selective ac-tiv-ity in the pri-mary 
-vi-sual
- []
-
-
-Underfull \hbox (badness 1412) in paragraph at lines 14--39
-\OT1/cmr/m/n/12 cor-tex.  \OT1/cmr/m/it/12 The Jour-nal of neu-ro-science : the
- of-fi-cial jour-nal of
- []
-
-
-Underfull \hbox (badness 2221) in paragraph at lines 14--39
-\OT1/cmr/m/it/12 the So-ci-ety for Neu-ro-science\OT1/cmr/m/n/12 , \OT1/cmr/m/i
-t/12 30\OT1/cmr/m/n/12 (1), 325--30.  Re-trieved from
- []
-
-
-Overfull \hbox (256.875pt too wide) in paragraph at lines 14--39
-\OT1/cmtt/m/n/12 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2823
-298&tool=pmcentrez&rendertype=abstract
- []
-
-) [132
-
-] (main4.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+] (main4.aux) ) 
 Here is how much of TeX's memory you used:
- 1883 strings out of 493698
- 26929 string characters out of 3146415
+ 1875 strings out of 493698
+ 26831 string characters out of 3146415
  81898 words of memory out of 3000000
- 5169 multiletter control sequences out of 15000+200000
- 9930 words of font info for 35 fonts, out of 3000000 for 9000
+ 5163 multiletter control sequences out of 15000+200000
+ 9414 words of font info for 33 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  27i,6n,19p,2238b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program
- Files/LaTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/LaTex/
-fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/LaTex/fonts/type1/p
-ublic/amsfonts/cm/cmmi8.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts
-/cm/cmr12.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-<C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Fil
-es/LaTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/LaTex/font
-s/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/LaTex/fonts/type1/publi
-c/amsfonts/cm/cmtt12.pfb>
-Output written on main4.pdf (133 pages, 11637441 bytes).
+<C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b><C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program
+ Files/LaTex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/LaTex/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/LaTex/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts/
+cm/cmr17.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
+:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main4.pdf (134 pages, 11618033 bytes).
 PDF statistics:
- 503 PDF objects out of 1000 (max. 8388607)
+ 498 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  171 words of extra memory for PDF output out of 10000 (max. 10000000)
 

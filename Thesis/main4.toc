@@ -72,39 +72,40 @@
 \contentsline {chapter}{\numberline {5}Relationship between orientation tuning and spatial frequency tuning in the tree shrew V1}{94}
 \contentsline {section}{\numberline {5.1}Summary}{95}
 \contentsline {section}{\numberline {5.2}Introduction}{96}
-\contentsline {section}{\numberline {5.3}Methods}{96}
-\contentsline {subsection}{\numberline {5.3.1}Surgery and Anaesthesia}{96}
-\contentsline {subsubsection}{Electrophysiology}{97}
-\contentsline {subsubsection}{Stimuli}{97}
-\contentsline {paragraph}{Bar Stimuli}{98}
-\contentsline {paragraph}{Grating Stimuli}{98}
-\contentsline {subsubsection}{Data Analysis}{99}
-\contentsline {paragraph}{Orientation Selectivity of bars}{99}
-\contentsline {subsubsection}{Histology and Track Reconstruction}{100}
-\contentsline {section}{\numberline {5.4}Results}{100}
-\contentsline {subsubsection}{Laminar Position of neurons}{100}
-\contentsline {section}{\numberline {5.5}Discussion}{100}
-\contentsline {section}{\numberline {5.6}Conclusion}{100}
-\contentsline {chapter}{\numberline {6}Is the tree shrew primary visual cortex a linear filter?}{101}
-\contentsline {section}{\numberline {6.1}Summary}{102}
-\contentsline {section}{\numberline {6.2}Introduction}{103}
-\contentsline {section}{\numberline {6.3}Methods}{109}
-\contentsline {subsection}{\numberline {6.3.1}Surgery and Anaesthesia}{109}
-\contentsline {subsection}{\numberline {6.3.2}Electrophysiology}{109}
-\contentsline {subsection}{\numberline {6.3.3}Stimuli}{110}
-\contentsline {subsubsection}{Bar Stimuli}{111}
-\contentsline {subsubsection}{Grating Stimuli}{111}
-\contentsline {subsection}{\numberline {6.3.4}Data Analysis}{112}
-\contentsline {subsubsection}{Analysis of Bar Stimuli Responses}{112}
-\contentsline {paragraph}{Calculating Segregation Index (SI)}{112}
-\contentsline {subsubsection}{Analysis if Grating Stimuli Responses}{113}
-\contentsline {subsubsection}{Bandwidth of Spatial Frequency Tuning}{114}
-\contentsline {subsection}{\numberline {6.3.5}Histology}{115}
-\contentsline {section}{\numberline {6.4}Results}{116}
-\contentsline {paragraph}{Segregation Index}{116}
-\contentsline {paragraph}{Bimodality Index}{117}
-\contentsline {paragraph}{Modulation Index}{118}
-\contentsline {paragraph}{Distribution of bandwidth in octaves}{122}
-\contentsline {paragraph}{Relationship between bandwidth and spatial frequency}{123}
-\contentsline {section}{\numberline {6.5}Discussion}{126}
-\contentsline {chapter}{References}{132}
+\contentsline {section}{\numberline {5.3}Methods}{97}
+\contentsline {subsection}{\numberline {5.3.1}Surgery and Anaesthesia}{97}
+\contentsline {subsubsection}{Electrophysiology}{98}
+\contentsline {subsubsection}{Stimuli}{99}
+\contentsline {paragraph}{Bar Stimuli}{99}
+\contentsline {paragraph}{Grating Stimuli}{100}
+\contentsline {subsubsection}{Data Analysis}{100}
+\contentsline {paragraph}{Orientation Selectivity of bars}{100}
+\contentsline {subsubsection}{Histology and Track Reconstruction}{101}
+\contentsline {section}{\numberline {5.4}Results}{101}
+\contentsline {subsubsection}{Laminar Position of neurons}{101}
+\contentsline {section}{\numberline {5.5}Discussion}{101}
+\contentsline {section}{\numberline {5.6}Conclusion}{101}
+\contentsline {chapter}{\numberline {6}Is the tree shrew primary visual cortex a linear filter?}{102}
+\contentsline {section}{\numberline {6.1}Summary}{103}
+\contentsline {section}{\numberline {6.2}Introduction}{104}
+\contentsline {section}{\numberline {6.3}Methods}{110}
+\contentsline {subsection}{\numberline {6.3.1}Surgery and Anaesthesia}{110}
+\contentsline {subsection}{\numberline {6.3.2}Electrophysiology}{110}
+\contentsline {subsection}{\numberline {6.3.3}Stimuli}{111}
+\contentsline {subsubsection}{Bar Stimuli}{112}
+\contentsline {subsubsection}{Grating Stimuli}{112}
+\contentsline {subsection}{\numberline {6.3.4}Data Analysis}{113}
+\contentsline {subsubsection}{Analysis of Bar Stimuli Responses}{113}
+\contentsline {paragraph}{Calculating Segregation Index (SI)}{113}
+\contentsline {subsubsection}{Analysis if Grating Stimuli Responses}{114}
+\contentsline {subsubsection}{Bandwidth of Spatial Frequency Tuning}{115}
+\contentsline {subsection}{\numberline {6.3.5}Histology}{116}
+\contentsline {section}{\numberline {6.4}Results}{117}
+\contentsline {paragraph}{Segregation Index}{117}
+\contentsline {paragraph}{Bimodality Index}{118}
+\contentsline {paragraph}{Modulation Index}{119}
+\contentsline {paragraph}{Distribution of bandwidth in octaves}{123}
+\contentsline {paragraph}{Relationship between bandwidth and spatial frequency}{124}
+\contentsline {section}{\numberline {6.5}Discussion}{127}
+\contentsline {section}{\numberline {6.6}Conclusion}{132}
+\contentsline {chapter}{References}{133}
