@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  7 MAR 2018 15:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  12 MAR 2018 15:47
 entering extended mode
 **main4.tex
 (main4.tex
@@ -6,8 +6,8 @@ LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 68 languages loaded.
 ("C:\Program Files\LaTex\tex\latex\base\report.cls"
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\LaTex\tex\latex\base\size12.clo"
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Program Files\LaTex\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -66,427 +66,455 @@ Package: apacite 2013/07/21 v6.03 APA citation
 \bibitemsep=\skip46
 \biblabelsep=\skip47
 )
-("C:\Program Files\LaTex\tex\latex\ltxmisc\here.sty") (main4.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+("C:\Program Files\LaTex\tex\latex\ltxmisc\here.sty")
+("C:\Program Files\LaTex\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files\LaTex\tex\context\base\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count90
-\scratchdimen=\dimen105
-\scratchbox=\box26
-\nofMPsegments=\count91
-\nofMParguments=\count92
-\everyMPshowfont=\toks15
-\MPscratchCnt=\count93
-\MPscratchDim=\dimen106
-\MPnumerator=\count94
-\makeMPintoPDFobject=\count95
-\everyMPtoPDFconversion=\toks16
+("C:\Program Files\LaTex\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-\c@maskedRefs=\count96
+("C:\Program Files\LaTex\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\LaTex\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+
+("C:\Program Files\LaTex\tex\latex\geometry\geometry.cfg")) (main4.aux
+
+LaTeX Warning: Label `fig:lp' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+ ("C:\Program Files\LaTex\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen114
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks17
+)
+\c@maskedRefs=\count99
  ("C:\Program Files\LaTex\tex\latex\apacite\english.apc"
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(81.94394pt, 433.62pt, 81.94394pt)
+* v-part:(T,H,B)=(77.84674pt, 650.43pt, 116.77011pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=433.62pt
+* \textheight=650.43pt
+* \oddsidemargin=9.67395pt
+* \evensidemargin=9.67395pt
+* \topmargin=-31.42325pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 15.
+(Font)              <12> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
- [1
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+[1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (main4.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 4.
+(Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 4.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 4.
+(Font)              <5> on input line 4.
  [1
 
-]
-Overfull \hbox (5.88994pt too wide) in paragraph at lines 72--72
- [] []\OT1/cmr/bx/n/12 Relationship be-tween ori-en-ta-tion tun-ing and spa-tia
-l fre-quency 
- []
-
-[2])
+])
 \tf@toc=\write3
- (int/introduction.tex [3]
+
+(int/introduction.tex [2]
 Chapter 1.
+) (Methods/methods.tex [3
+
+]
+Chapter 2.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
 [4
 
-]) (Methods/methods.tex [5]
-Chapter 2.
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-[6
-
-] [7] [8]
-Missing character: There is no Œ in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no Œ in font cmr12!
-Missing character: There is no º in font cmr12!
- [9]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
- [10] [11]
-Missing character: There is no œ in font cmr12!
-Missing character: There is no É in font cmr12!
- [12]
-<methods/SDF_movingbar.jpg, id=47, 708.6475pt x 548.0475pt>
+] [5]
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [6]
+Missing character: There is no œ in font cmr10!
+Missing character: There is no É in font cmr10!
+ [7] <methods/SDF_movingbar.jpg, id=33, 708.6475pt x 548.0475pt>
 File: methods/SDF_movingbar.jpg Graphic file (type jpg)
 
 <use methods/SDF_movingbar.jpg>
 Package pdftex.def Info: methods/SDF_movingbar.jpg used on input line 43.
-(pdftex.def)             Requested size: 390.0pt x 301.61938pt.
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
- [13 <./methods/SDF_movingbar.jpg>]
-<methods/Fourier.jpg, id=51, 1927.2pt x 919.435pt>
+(pdftex.def)             Requested size: 433.62pt x 335.3538pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [8 <./methods/SDF_movingbar.jpg>]
+<methods/Fourier.jpg, id=37, 1927.2pt x 919.435pt>
 File: methods/Fourier.jpg Graphic file (type jpg)
  <use methods/Fourier.jpg>
 Package pdftex.def Info: methods/Fourier.jpg used on input line 51.
-(pdftex.def)             Requested size: 390.0pt x 186.0583pt.
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
+(pdftex.def)             Requested size: 433.62pt x 206.86394pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
 
-[14]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
- [15 <./methods/Fourier.jpg>] [16] [17]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
- [18]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
- [19] [20]
-Missing character: There is no Œ in font cmr12!
-Missing character: There is no º in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
- [21]
-<methods/OI_timecourse2.jpg, id=77, 705.63625pt x 567.11874pt>
+[9 <./methods/Fourier.jpg>] [10]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [11]
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+ [12]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+<methods/OI_timecourse2.jpg, id=51, 705.63625pt x 567.11874pt>
 File: methods/OI_timecourse2.jpg Graphic file (type jpg)
 
 <use methods/OI_timecourse2.jpg>
 Package pdftex.def Info: methods/OI_timecourse2.jpg used on input line 106.
-(pdftex.def)             Requested size: 390.0pt x 313.43929pt.
- [22] [23 <./methods/OI_timecourse2.jpg>]
-<methods/filters.jpg, id=84, 1421.31pt x 1048.91875pt>
+(pdftex.def)             Requested size: 433.62pt x 348.50337pt.
+ [13]
+<methods/filters.jpg, id=55, 1421.31pt x 1048.91875pt>
 File: methods/filters.jpg Graphic file (type jpg)
 
 <use methods/filters.jpg>
 Package pdftex.def Info: methods/filters.jpg used on input line 117.
-(pdftex.def)             Requested size: 390.0pt x 287.82133pt.
-) (rb/RadialBias.tex [24 <./methods/filters.jpg>]
+(pdftex.def)             Requested size: 433.62pt x 320.00778pt.
+ [14 <./methods/OI_timecourse2.jpg>])
+(rb/RadialBias.tex [15 <./methods/filters.jpg>]
 Chapter 3.
-[25
+[16
 
-] [26] [27] [28] [29]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-
-Overfull \hbox (16.85966pt too wide) in paragraph at lines 28--29
-\OT1/cmr/m/n/12 mals were anaes-thetised us-ing a Ke-tamine/Xylazine mix-ture (
-Ke-tamil, 15mg/kg,
- []
-
-[30]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ¬ in font cmr12!
-Missing character: There is no Æ in font cmr12!
- [31] [32] [33] [34] [35]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no î in font cmr12!
- [36]
-<rb/FinalFigures/ROI.jpg, id=127, 2133.9725pt x 2019.545pt>
+] [17] [18] [19]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [20]
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+ [21] [22]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+ [23]
+<rb/FinalFigures/ROI.jpg, id=87, 2133.9725pt x 2019.545pt>
 File: rb/FinalFigures/ROI.jpg Graphic file (type jpg)
 
 <use rb/FinalFigures/ROI.jpg>
 Package pdftex.def Info: rb/FinalFigures/ROI.jpg used on input line 71.
-(pdftex.def)             Requested size: 390.0pt x 369.08006pt.
- [37]
-Overfull \vbox (48.89072pt too high) has occurred while \output is active []
-
-
-[38 <./rb/FinalFigures/ROI.jpg>] [39]
-<rb/scms.jpg, id=138, 2779.38374pt x 1341.01pt>
+(pdftex.def)             Requested size: 433.62pt x 410.37315pt.
+ [24] [25 <./rb/FinalFigures/ROI.jpg>] [26]
+<rb/scms.jpg, id=99, 2779.38374pt x 1341.01pt>
 File: rb/scms.jpg Graphic file (type jpg)
  <use rb/scms.jpg>
 Package pdftex.def Info: rb/scms.jpg used on input line 93.
-(pdftex.def)             Requested size: 390.0pt x 188.14935pt.
- [40] [41 <./rb/scms.jpg>] <rb/figure1.jpg, id=145, 519.3804pt x 348.8232pt>
+(pdftex.def)             Requested size: 433.62pt x 209.2049pt.
+ [27] [28 <./rb/scms.jpg>] <rb/figure1.jpg, id=106, 519.3804pt x 348.8232pt>
 File: rb/figure1.jpg Graphic file (type jpg)
 
 <use rb/figure1.jpg>
 Package pdftex.def Info: rb/figure1.jpg used on input line 103.
-(pdftex.def)             Requested size: 390.0pt x 261.93079pt.
- [42] <rb/figure2.jpg, id=150, 798.8244pt x 352.1958pt>
+(pdftex.def)             Requested size: 433.62pt x 291.22641pt.
+ <rb/figure2.jpg, id=107, 798.8244pt x 352.1958pt>
 File: rb/figure2.jpg Graphic file (type jpg)
 
 <use rb/figure2.jpg>
 Package pdftex.def Info: rb/figure2.jpg used on input line 111.
-(pdftex.def)             Requested size: 390.0pt x 171.94868pt.
- [43 <./rb/figure1.jpg>]
-<rb/FinalFigures/ROIhist.jpg, id=154, 2549.525pt x 1130.2225pt>
+(pdftex.def)             Requested size: 433.62pt x 191.17711pt.
+ [29 <./rb/figure1.jpg>]
+<rb/FinalFigures/ROIhist.jpg, id=111, 2549.525pt x 1130.2225pt>
 File: rb/FinalFigures/ROIhist.jpg Graphic file (type jpg)
 
 <use rb/FinalFigures/ROIhist.jpg>
 Package pdftex.def Info: rb/FinalFigures/ROIhist.jpg used on input line 121.
-(pdftex.def)             Requested size: 390.0pt x 172.88899pt.
- [44 <./rb/figure2.jpg>] [45 <./rb/FinalFigures/ROIhist.jpg>] [46]
-<rb/FinalFigures/s3.jpg, id=165, 994.71625pt x 1016.79875pt>
+(pdftex.def)             Requested size: 433.62pt x 192.22151pt.
+ [30 <./rb/figure2.jpg>] [31 <./rb/FinalFigures/ROIhist.jpg>] <rb/FinalFigures/
+s3.jpg, id=120, 994.71625pt x 1016.79875pt>
 File: rb/FinalFigures/s3.jpg Graphic file (type jpg)
 
 <use rb/FinalFigures/s3.jpg>
 Package pdftex.def Info: rb/FinalFigures/s3.jpg used on input line 133.
-(pdftex.def)             Requested size: 390.0pt x 398.65997pt.
-Missing character: There is no œ in font cmr12!
-Missing character: There is no á in font cmr12!
-Missing character: There is no œ in font cmr12!
-Missing character: There is no á in font cmr12!
- [47]
-Overfull \vbox (6.47818pt too high) has occurred while \output is active []
-
-
-[48 <./rb/FinalFigures/s3.jpg>]
-<rb/FinalFigures/s4.jpg, id=173, 1032.85875pt x 1016.79875pt>
+(pdftex.def)             Requested size: 433.62pt x 443.2503pt.
+Missing character: There is no œ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no á in font cmr10!
+ [32]
+<rb/FinalFigures/s4.jpg, id=124, 1032.85875pt x 1016.79875pt>
 File: rb/FinalFigures/s4.jpg Graphic file (type jpg)
 
 <use rb/FinalFigures/s4.jpg>
 Package pdftex.def Info: rb/FinalFigures/s4.jpg used on input line 140.
-(pdftex.def)             Requested size: 390.0pt x 383.93616pt.
- [49 <./rb/FinalFigures/s4.jpg>]
-<rb/FinalFigures/mua.jpg, id=177, 2030.58624pt x 798.985pt>
+(pdftex.def)             Requested size: 433.62pt x 426.8819pt.
+ [33 <./rb/FinalFigures/s3.jpg>] [34 <./rb/FinalFigures/s4.jpg>] <rb/FinalFigur
+es/mua.jpg, id=131, 2030.58624pt x 798.985pt>
 File: rb/FinalFigures/mua.jpg Graphic file (type jpg)
 
 <use rb/FinalFigures/mua.jpg>
 Package pdftex.def Info: rb/FinalFigures/mua.jpg used on input line 148.
-(pdftex.def)             Requested size: 390.0pt x 153.45457pt.
- [50 <./rb/FinalFigures/mua.jpg>] [51]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
- [52]
-[53] [54] [55] [56]) (superiorcolliculus/sc.tex [57]
+(pdftex.def)             Requested size: 433.62pt x 170.60803pt.
+ [35 <./rb/FinalFigures/mua.jpg>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [36] [37]
+[38] [39]) (superiorcolliculus/sc.tex [40]
 Chapter 4.
-[58
+[41
 
-] [59] [60] [61] [62] [63]
-Missing character: There is no Œ in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no Œ in font cmr12!
-Missing character: There is no º in font cmr12!
- [64] [65] [66]
-Missing character: There is no œ in font cmr12!
-Missing character: There is no É in font cmr12!
-Missing character: There is no Œ in font cmr12!
-Missing character: There is no ∏ in font cmr12!
- [67]
-Overfull \hbox (1.69316pt too wide) in paragraph at lines 64--65
-[]\OT1/cmr/m/n/12 Conventions are as de-scribed for the cal-cu-la-tion of cir-c
-u-lar vari-ance (Equa-
- []
+] [42] [43] [44]
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+ [45]
+Missing character: There is no œ in font cmr10!
+Missing character: There is no É in font cmr10!
+ [46]
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ∏ in font cmr10!
+ [47]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
 
-
-Overfull \hbox (9.9635pt too wide) in paragraph at lines 68--69
- \OT1/cmr/bx/n/12 Anal-y-sis of Grat-ing Stim-uli Re-sponses[] \OT1/cmr/m/n/12 
-For grat-ings, the Dis-crete Fourier
- []
-
-[68]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
- [69] <superiorcolliculus/SCOptOrth.jpg, id=241, 920.43875pt x 457.71pt>
+<superiorcolliculus/SCOptOrth.jpg, id=173, 920.43875pt x 457.71pt>
 File: superiorcolliculus/SCOptOrth.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/SCOptOrth.jpg>
 Package pdftex.def Info: superiorcolliculus/SCOptOrth.jpg used on input line 80
 .
-(pdftex.def)             Requested size: 390.0pt x 193.94101pt.
- [70] [71 <./superiorcolliculus/SCOptOrth.jpg>] [72]
+(pdftex.def)             Requested size: 433.62pt x 215.63358pt.
+ [48] [49 <./superiorcolliculus/SCOptOrth.jpg>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 100.
 
-<superiorcolliculus/anatpos.jpg, id=252, 1132.23pt x 623.32875pt>
+<superiorcolliculus/anatpos.jpg, id=181, 1132.23pt x 623.32875pt>
 File: superiorcolliculus/anatpos.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/anatpos.jpg>
 Package pdftex.def Info: superiorcolliculus/anatpos.jpg used on input line 102.
 
-(pdftex.def)             Requested size: 390.0pt x 214.70624pt.
-Missing character: There is no ¬ in font cmr12!
-Missing character: There is no ± in font cmr12!
+(pdftex.def)             Requested size: 433.62pt x 238.72208pt.
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ± in font cmr10!
 
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 114.
 
-<superiorcolliculus/orituning_fig.jpg, id=253, 1686.3pt x 889.3225pt>
+<superiorcolliculus/orituning_fig.jpg, id=182, 1686.3pt x 889.3225pt>
 File: superiorcolliculus/orituning_fig.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/orituning_fig.jpg>
 Package pdftex.def Info: superiorcolliculus/orituning_fig.jpg used on input lin
 e 116.
-(pdftex.def)             Requested size: 390.0pt x 205.67973pt.
+(pdftex.def)             Requested size: 433.62pt x 228.6808pt.
 
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 122.
 
-<superiorcolliculus/rangeoritun.jpg, id=254, 2234.3475pt x 738.76pt>
+<superiorcolliculus/rangeoritun.jpg, id=183, 2234.3475pt x 738.76pt>
 File: superiorcolliculus/rangeoritun.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/rangeoritun.jpg>
 Package pdftex.def Info: superiorcolliculus/rangeoritun.jpg used on input line 
 123.
-(pdftex.def)             Requested size: 390.0pt x 128.94675pt.
+(pdftex.def)             Requested size: 433.62pt x 143.36435pt.
 
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 129.
 
-<superiorcolliculus/orituningcurve.jpg, id=255, 1410.26875pt x 1033.8625pt>
+<superiorcolliculus/orituningcurve.jpg, id=184, 1410.26875pt x 1033.8625pt>
 File: superiorcolliculus/orituningcurve.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/orituningcurve.jpg>
 Package pdftex.def Info: superiorcolliculus/orituningcurve.jpg used on input li
 ne 130.
-(pdftex.def)             Requested size: 390.0pt x 285.8985pt.
- [73] [74 <./superiorcolliculus/anatpos.jpg>] [75 <./superiorcolliculus/orituni
-ng_fig.jpg> <./superiorcolliculus/rangeoritun.jpg>] [76 <./superiorcolliculus/o
-rituningcurve.jpg>]
-Overfull \hbox (1.36261pt too wide) in paragraph at lines 138--139
-[]\OT1/cmr/m/n/12 An ad-di-tional mea-sure of ori-en-ta-tion se-lec-tiv-ity, th
-e ori-en-ta-tion bias (Bias;
- []
-
-<superiorcolliculus/cvvlampos.jpg, id=268, 780.9175pt x 559.08875pt>
+(pdftex.def)             Requested size: 433.62pt x 317.87534pt.
+ [50] [51 <./superiorcolliculus/anatpos.jpg> <./superiorcolliculus/orituning_fi
+g.jpg>] [52 <./superiorcolliculus/rangeoritun.jpg> <./superiorcolliculus/oritun
+ingcurve.jpg>]
+<superiorcolliculus/cvvlampos.jpg, id=194, 780.9175pt x 559.08875pt>
 File: superiorcolliculus/cvvlampos.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/cvvlampos.jpg>
 Package pdftex.def Info: superiorcolliculus/cvvlampos.jpg used on input line 14
 3.
-(pdftex.def)             Requested size: 390.0pt x 279.21097pt.
- [77] [78 <./superiorcolliculus/cvvlampos.jpg>]
-<superiorcolliculus/directionselectivity_fig.jpg, id=276, 1178.4025pt x 522.953
+(pdftex.def)             Requested size: 433.62pt x 310.44295pt.
+ [53 <./superiorcolliculus/cvvlampos.jpg>]
+<superiorcolliculus/directionselectivity_fig.jpg, id=198, 1178.4025pt x 522.953
 75pt>
 File: superiorcolliculus/directionselectivity_fig.jpg Graphic file (type jpg)
  <use superiorcolliculus/directionselectivity_fig.jpg>
 Package pdftex.def Info: superiorcolliculus/directionselectivity_fig.jpg used o
 n input line 152.
-(pdftex.def)             Requested size: 390.0pt x 173.07799pt.
+(pdftex.def)             Requested size: 433.62pt x 192.43654pt.
 
-<superiorcolliculus/Directionselectivity.jpg, id=277, 996.72375pt x 615.29875pt
+<superiorcolliculus/Directionselectivity.jpg, id=199, 996.72375pt x 615.29875pt
 >
 File: superiorcolliculus/Directionselectivity.jpg Graphic file (type jpg)
  <use superiorcolliculus/Directionselectivity.jpg>
 Package pdftex.def Info: superiorcolliculus/Directionselectivity.jpg used on in
 put line 158.
-(pdftex.def)             Requested size: 390.0pt x 240.7542pt.
- [79 <./superiorcolliculus/directionselectivity_fig.jpg>]
+(pdftex.def)             Requested size: 433.62pt x 267.68095pt.
+ [54 <./superiorcolliculus/directionselectivity_fig.jpg>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 167.
 
-<superiorcolliculus/cumsum_sf_SC_LGN.jpg, id=281, 1870.99pt x 694.595pt>
+<superiorcolliculus/cumsum_sf_SC_LGN.jpg, id=204, 1870.99pt x 694.595pt>
 File: superiorcolliculus/cumsum_sf_SC_LGN.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/cumsum_sf_SC_LGN.jpg>
 Package pdftex.def Info: superiorcolliculus/cumsum_sf_SC_LGN.jpg used on input 
 line 168.
-(pdftex.def)             Requested size: 390.0pt x 144.77759pt.
- [80 <./superiorcolliculus/Directionselectivity.jpg>] [81 <./superiorcolliculus
-/cumsum_sf_SC_LGN.jpg>]
+(pdftex.def)             Requested size: 433.62pt x 160.97234pt.
+ [55 <./superiorcolliculus/Directionselectivity.jpg>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 179.
 
 
-<superiorcolliculus/orientation_bias_SG_geniculostriate_2.jpg, id=288, 724.7075
+<superiorcolliculus/orientation_bias_SG_geniculostriate_2.jpg, id=208, 724.7075
 pt x 515.9275pt>
 File: superiorcolliculus/orientation_bias_SG_geniculostriate_2.jpg Graphic file
  (type jpg)
@@ -494,187 +522,268 @@ File: superiorcolliculus/orientation_bias_SG_geniculostriate_2.jpg Graphic file
 <use superiorcolliculus/orientation_bias_SG_geniculostriate_2.jpg>
 Package pdftex.def Info: superiorcolliculus/orientation_bias_SG_geniculostriate
 _2.jpg used on input line 180.
-(pdftex.def)             Requested size: 390.0pt x 277.65201pt.
- [82 <./superiorcolliculus/orientation_bias_SG_geniculostriate_2.jpg>]
+(pdftex.def)             Requested size: 433.62pt x 308.70079pt.
+
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 187.
 
-<superiorcolliculus/CVvsOSI.jpg, id=292, 708.6475pt x 542.025pt>
+<superiorcolliculus/CVvsOSI.jpg, id=209, 708.6475pt x 542.025pt>
 File: superiorcolliculus/CVvsOSI.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/CVvsOSI.jpg>
 Package pdftex.def Info: superiorcolliculus/CVvsOSI.jpg used on input line 188.
 
-(pdftex.def)             Requested size: 390.0pt x 298.30489pt.
- [83 <./superiorcolliculus/CVvsOSI.jpg>]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-
-[84] <superiorcolliculus/sf_bandwidth.jpg, id=300, 708.6475pt x 542.025pt>
+(pdftex.def)             Requested size: 433.62pt x 331.6686pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [56 <./superiorcolliculus/cumsum_sf_SC_LGN.jpg>] [57 <./superiorcolliculus/ori
+entation_bias_SG_geniculostriate_2.jpg>]
+[58 <./superiorcolliculus/CVvsOSI.jpg>]
+<superiorcolliculus/sf_bandwidth.jpg, id=219, 708.6475pt x 542.025pt>
 File: superiorcolliculus/sf_bandwidth.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/sf_bandwidth.jpg>
 Package pdftex.def Info: superiorcolliculus/sf_bandwidth.jpg used on input line
  199.
-(pdftex.def)             Requested size: 390.0pt x 298.30489pt.
- [85] [86 <./superiorcolliculus/sf_bandwidth.jpg>]
-<superiorcolliculus/modulation_index.jpg, id=307, 562.1pt x 421.575pt>
+(pdftex.def)             Requested size: 433.62pt x 331.6686pt.
+ [59]
+<superiorcolliculus/modulation_index.jpg, id=223, 562.1pt x 421.575pt>
 File: superiorcolliculus/modulation_index.jpg Graphic file (type jpg)
 
 <use superiorcolliculus/modulation_index.jpg>
 Package pdftex.def Info: superiorcolliculus/modulation_index.jpg used on input 
 line 209.
-(pdftex.def)             Requested size: 390.0pt x 292.50166pt.
- [87] [88 <./superiorcolliculus/modulation_index.jpg>] [89] [90] [91]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-Missing character: There is no Œ in font cmr12!
-Missing character: There is no º in font cmr12!
-Missing character: There is no Œ in font cmr12!
-Missing character: There is no º in font cmr12!
- [92]) (ShrewV1/ShrewV1.tex [93]
+(pdftex.def)             Requested size: 433.62pt x 325.21199pt.
+ [60 <./superiorcolliculus/sf_bandwidth.jpg>] [61 <./superiorcolliculus/modulat
+ion_index.jpg>] [62]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+ [63])
+(ShrewV1/ShrewV1.tex [64]
 Chapter 5.
-[94
+[65
 
-] [95]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
- [96] [97]
-Missing character: There is no Œ in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no Œ in font cmr12!
-Missing character: There is no º in font cmr12!
- [98] [99] [100]) (LinearV1/linv1.tex [101]
+] [66]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+ [67]
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+ [68]
+<ShrewV1/LaminarPosition.jpg, id=253, 2094.82625pt x 1133.23375pt>
+File: ShrewV1/LaminarPosition.jpg Graphic file (type jpg)
+
+<use ShrewV1/LaminarPosition.jpg>
+Package pdftex.def Info: ShrewV1/LaminarPosition.jpg used on input line 54.
+(pdftex.def)             Requested size: 433.62pt x 234.56235pt.
+ [69]
+<ShrewV1/cv_lamina_2_bw.jpg, id=257, 1303.87125pt x 675.52374pt>
+File: ShrewV1/cv_lamina_2_bw.jpg Graphic file (type jpg)
+
+<use ShrewV1/cv_lamina_2_bw.jpg>
+Package pdftex.def Info: ShrewV1/cv_lamina_2_bw.jpg used on input line 63.
+(pdftex.def)             Requested size: 433.62pt x 224.65521pt.
+ [70 <./ShrewV1/LaminarPosition.jpg>]
+<ShrewV1/cmdiff.jpg, id=261, 671.50874pt x 444.66125pt>
+File: ShrewV1/cmdiff.jpg Graphic file (type jpg)
+
+<use ShrewV1/cmdiff.jpg>
+Package pdftex.def Info: ShrewV1/cmdiff.jpg used on input line 72.
+(pdftex.def)             Requested size: 433.62pt x 287.13338pt.
+ [71 <./ShrewV1/cv_lamina_2_bw.jpg>]
+<ShrewV1/cmlayer.jpg, id=265, 1303.87125pt x 675.52374pt>
+File: ShrewV1/cmlayer.jpg Graphic file (type jpg)
+
+<use ShrewV1/cmlayer.jpg>
+Package pdftex.def Info: ShrewV1/cmlayer.jpg used on input line 79.
+(pdftex.def)             Requested size: 433.62pt x 224.65521pt.
+ [72 <./ShrewV1/cmdiff.jpg>]
+<ShrewV1/simulation.jpg, id=270, 1759.57375pt x 1366.10374pt>
+File: ShrewV1/simulation.jpg Graphic file (type jpg)
+
+<use ShrewV1/simulation.jpg>
+Package pdftex.def Info: ShrewV1/simulation.jpg used on input line 86.
+(pdftex.def)             Requested size: 433.62pt x 336.64735pt.
+ [73 <./ShrewV1/cmlayer.jpg>]
+<ShrewV1/sftuning_neurons.jpg, id=274, 1225.57875pt x 444.66125pt>
+File: ShrewV1/sftuning_neurons.jpg Graphic file (type jpg)
+
+<use ShrewV1/sftuning_neurons.jpg>
+Package pdftex.def Info: ShrewV1/sftuning_neurons.jpg used on input line 93.
+(pdftex.def)             Requested size: 433.62pt x 157.32323pt.
+ [74 <./ShrewV1/simulation.jpg>])
+(LinearV1/linv1.tex [75 <./ShrewV1/sftuning_neurons.jpg>]
 Chapter 6.
-[102
+[76
 
-] [103] [104] [105] [106]
+] [77]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 20.
 
-<LinearV1/scheme.jpg, id=371, 810.77907pt x 581.92406pt>
+<LinearV1/scheme.jpg, id=287, 810.77907pt x 581.92406pt>
 File: LinearV1/scheme.jpg Graphic file (type jpg)
 
 <use LinearV1/scheme.jpg>
 Package pdftex.def Info: LinearV1/scheme.jpg used on input line 22.
-(pdftex.def)             Requested size: 390.0pt x 279.92418pt.
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
- [107] [108 <./LinearV1/scheme.jpg>] [109]
-Missing character: There is no Œ in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no Œ in font cmr12!
-Missing character: There is no º in font cmr12!
- [110]
-[111]
-Missing character: There is no œ in font cmr12!
-Missing character: There is no É in font cmr12!
- [112] [113] [114] [115] [116]
-<LinearV1/simplecomplex.jpg, id=406, 460.8417pt x 166.4619pt>
+(pdftex.def)             Requested size: 433.62pt x 311.23306pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+ [78] [79 <./LinearV1/scheme.jpg>] [80]
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+ [81]
+Missing character: There is no œ in font cmr10!
+Missing character: There is no É in font cmr10!
+ [82]
+[83]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 110.
+
+<LinearV1/simplecomplex.jpg, id=309, 460.8417pt x 166.4619pt>
 File: LinearV1/simplecomplex.jpg Graphic file (type jpg)
 
 <use LinearV1/simplecomplex.jpg>
-Package pdftex.def Info: LinearV1/simplecomplex.jpg used on input line 107.
-(pdftex.def)             Requested size: 390.0pt x 140.88112pt.
- [117 <./LinearV1/simplecomplex.jpg>]
-<LinearV1/segregationindex_colouradj.jpg, id=410, 936.49875pt x 624.3325pt>
+Package pdftex.def Info: LinearV1/simplecomplex.jpg used on input line 112.
+(pdftex.def)             Requested size: 433.62pt x 156.63675pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 119.
+
+<LinearV1/segregationindex_colouradj.jpg, id=310, 820.06375pt x 533.995pt>
 File: LinearV1/segregationindex_colouradj.jpg Graphic file (type jpg)
 
 <use LinearV1/segregationindex_colouradj.jpg>
 Package pdftex.def Info: LinearV1/segregationindex_colouradj.jpg used on input 
-line 115.
-(pdftex.def)             Requested size: 390.0pt x 259.99818pt.
+line 121.
+(pdftex.def)             Requested size: 433.62pt x 282.36415pt.
+ [84]
 
-<LinearV1/Biindex.jpg, id=411, 858.20625pt x 548.0475pt>
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 130.
+
+<LinearV1/Biindex.jpg, id=315, 820.06375pt x 533.995pt>
 File: LinearV1/Biindex.jpg Graphic file (type jpg)
 
 <use LinearV1/Biindex.jpg>
-Package pdftex.def Info: LinearV1/Biindex.jpg used on input line 126.
-(pdftex.def)             Requested size: 390.0pt x 249.05258pt.
- [118 <./LinearV1/segregationindex_colouradj.jpg>]
-<LinearV1/modind_layer_colour.jpg, id=415, 744.7825pt x 494.84875pt>
+Package pdftex.def Info: LinearV1/Biindex.jpg used on input line 132.
+(pdftex.def)             Requested size: 433.62pt x 282.36415pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 140.
+
+<LinearV1/modind_layer_colour.jpg, id=316, 820.06375pt x 533.995pt>
 File: LinearV1/modind_layer_colour.jpg Graphic file (type jpg)
 
 <use LinearV1/modind_layer_colour.jpg>
-Package pdftex.def Info: LinearV1/modind_layer_colour.jpg used on input line 13
-6.
-(pdftex.def)             Requested size: 390.0pt x 259.12747pt.
- [119 <./LinearV1/Biindex.jpg>]
-<LinearV1/Segindvsmodind.jpg, id=419, 702.625pt x 488.82625pt>
+Package pdftex.def Info: LinearV1/modind_layer_colour.jpg used on input line 14
+2.
+(pdftex.def)             Requested size: 433.62pt x 282.36415pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 151.
+
+<LinearV1/Segindvsmodind.jpg, id=317, 702.625pt x 488.82625pt>
 File: LinearV1/Segindvsmodind.jpg Graphic file (type jpg)
 
 <use LinearV1/Segindvsmodind.jpg>
-Package pdftex.def Info: LinearV1/Segindvsmodind.jpg used on input line 145.
-(pdftex.def)             Requested size: 390.0pt x 271.33907pt.
- [120 <./LinearV1/modind_layer_colour.jpg>]
-[121 <./LinearV1/Segindvsmodind.jpg>]
-<LinearV1/concneurons.jpg, id=427, 1983.41pt x 1413.28pt>
+Package pdftex.def Info: LinearV1/Segindvsmodind.jpg used on input line 153.
+(pdftex.def)             Requested size: 433.62pt x 301.68178pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 162.
+
+<LinearV1/concneurons.jpg, id=318, 1983.41pt x 1413.28pt>
 File: LinearV1/concneurons.jpg Graphic file (type jpg)
 
 <use LinearV1/concneurons.jpg>
-Package pdftex.def Info: LinearV1/concneurons.jpg used on input line 156.
-(pdftex.def)             Requested size: 390.0pt x 277.88515pt.
- [122]
-<LinearV1/boct.jpg, id=431, 1032.85875pt x 548.0475pt>
+Package pdftex.def Info: LinearV1/concneurons.jpg used on input line 164.
+(pdftex.def)             Requested size: 433.62pt x 308.96016pt.
+ [85 <./LinearV1/simplecomplex.jpg>] [86 <./LinearV1/segregationindex_colouradj
+.jpg> <./LinearV1/Biindex.jpg>]
+<LinearV1/boct.jpg, id=325, 1302.8675pt x 539.01375pt>
 File: LinearV1/boct.jpg Graphic file (type jpg)
  <use LinearV1/boct.jpg>
-Package pdftex.def Info: LinearV1/boct.jpg used on input line 167.
-(pdftex.def)             Requested size: 390.0pt x 206.93893pt.
+Package pdftex.def Info: LinearV1/boct.jpg used on input line 175.
+(pdftex.def)             Requested size: 433.62pt x 179.39664pt.
 
-[123 <./LinearV1/concneurons.jpg>] [124 <./LinearV1/boct.jpg>]
-<LinearV1/hwpksf2.jpg, id=438, 608.2725pt x 385.44pt>
+[87 <./LinearV1/modind_layer_colour.jpg>] [88 <./LinearV1/Segindvsmodind.jpg>]
+[89 <./LinearV1/concneurons.jpg>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 186.
+
+<LinearV1/hwpksf2.jpg, id=335, 608.2725pt x 385.44pt>
 File: LinearV1/hwpksf2.jpg Graphic file (type jpg)
 
 <use LinearV1/hwpksf2.jpg>
-Package pdftex.def Info: LinearV1/hwpksf2.jpg used on input line 180.
-(pdftex.def)             Requested size: 390.0pt x 247.13362pt.
- [125] [126 <./LinearV1/hwpksf2.jpg>] [127] [128]
-[129] [130] [131]) (main4.bbl [132]
+Package pdftex.def Info: LinearV1/hwpksf2.jpg used on input line 188.
+(pdftex.def)             Requested size: 433.62pt x 274.77588pt.
+ [90 <./LinearV1/boct.jpg>] [91 <./LinearV1/hwpksf2.jpg>] [92] [93]) (main4.bbl
+ [94]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [133
+) [95
 
-] (main4.aux) ) 
+] (main4.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 1875 strings out of 493698
- 26831 string characters out of 3146415
- 81898 words of memory out of 3000000
- 5163 multiletter control sequences out of 15000+200000
- 9414 words of font info for 33 fonts, out of 3000000 for 9000
+ 2405 strings out of 493698
+ 34952 string characters out of 3146415
+ 98194 words of memory out of 3000000
+ 5670 multiletter control sequences out of 15000+200000
+ 9107 words of font info for 32 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,6n,19p,2238b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmbx12.pf
-b><C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program
- Files/LaTex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/LaTex/
-fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/LaTex/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts/
-cm/cmr17.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
-:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main4.pdf (134 pages, 11618033 bytes).
+ 27i,6n,31p,2238b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program
+ Files/LaTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/LaTex/
+fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/LaTex/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfont
+s/cm/cmmi7.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
+iles/LaTex/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/LaTex/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/LaTex/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb>
+Output written on main4.pdf (96 pages, 15464756 bytes).
 PDF statistics:
- 498 PDF objects out of 1000 (max. 8388607)
+ 390 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,143 @@
+\documentclass[a4paper, 12 pt, twoside]{report}  % Comment this line out if you need a4paper
+% % % % % % % % % % % Formatting preamble % % % % % % % % % % % % %
+
+% Setting same margins on left and right pages
+\usepackage[top=1.25in, bottom=1.25in,
+left=1.5in, right=1.25in, twoside]{geometry}
+\setlength{\oddsidemargin}{36pt}
+\setlength{\evensidemargin}{36pt}
+
+% Setting chapter heading style
+%\usepackage[Bjarne]{fncychap}
+%\ChTitleAsIs     
+%\ChNameVar{\raggedleft\Large\rm}
+%\ChNumVar{\raggedleft \bfseries\Large}
+%\ChTitleVar{\raggedright \Huge\rm}
+
+\usepackage{fancyhdr}
+\usepackage{ifthen}
+
+
+\renewcommand{\chaptermark}[1]{\markboth{\rm\chaptername\ \thechapter.\ #1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+\fancyhf{}
+
+\fancyhead[LE]{\rightmark}
+\fancyhead[RO]{\leftmark}
+
+
+\fancyfoot[RE,RO]{\textbf{\thepage}}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0.5pt}
+
+
+% change plain style (eg. used on chapter pages)
+\fancypagestyle{plain}{%
+	\fancyhf{}
+	\renewcommand{\headrulewidth}{0pt} 
+	\renewcommand{\footrulewidth}{0pt} 
+	\fancyfoot[CE,CO]{\textbf{\thepage}}
+}
+
+\fancypagestyle{mychapter}
+{
+	\fancyhf{}
+	\renewcommand{\headrulewidth}{0pt} 
+	\renewcommand{\footrulewidth}{0pt} 
+	%\fancyfoot[CE,CO]{\textbf{\thepage}}
+}
+
+% Used for making first letter bigger
+\usepackage{type1cm}
+\usepackage{lettrine}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{lipsum}
+
+% Hyperlinks in TOC
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=RoyalBlue,
+	citecolor=RoyalBlue,
+	urlcolor=RoyalBlue,
+	linktoc=page
+}
+
+% Chaning title of TOC
+\renewcommand*\contentsname{\centering\huge\textbf{Contents}}
+
+% Generating lists of figures and tables
+
+\usepackage{graphicx}
+\graphicspath{ {figures/} }
+\graphicspath{ {tables/} }
+\usepackage{array}
+ 
+\renewcommand{\listfigurename}{\huge\textbf{List of Figures}}
+
+\renewcommand{\listtablename}{\huge\textbf{List of Tables}}
+
+% % % % % % % % % % % % % % % % % % % % % % % % %
+\usepackage{amsmath}
+\usepackage{SIunits}
+\usepackage{graphicx}
+\usepackage{breqn}
+\usepackage{floatrow}
+\floatsetup[table]{capposition=top}
+%\usepackage[table]{xcolor}
+\usepackage{tabularx}
+\usepackage{sidecap}
+\usepackage{wrapfig}
+\usepackage[toc,page]{appendix}
+\usepackage[toc]{glossaries}
+\usepackage{setspace}
+\usepackage{pdfpages}
+\usepackage{subfigure}
+\usepackage{placeins}
+\usepackage{soul}
+\usepackage{SIunits}
+\usepackage{amsmath,graphicx}
+\usepackage{breqn}
+\usepackage{multicol}
+\usepackage{rotating}
+\usepackage{booktabs,bm}
+\usepackage{rotating}
+\usepackage{verbatim, placeins}
+\usepackage{stackengine,bm,accents}
+\def\delequal{\mathrel{\ensurestackMath{\stackon[1pt]{=}{\scriptstyle\Delta}}}}
+\newcommand{\overbar}[1]{\mkern 5mu\overline{\mkern-5mu#1\mkern-5mu}\mkern 5mu}
+%\renewcommand{\thesection}{\arabic{section}}
+
+
+\begin{document}
+% % % % % % % % % % % front matter % % % % % % % % % % %
+%\input{./chapters/cover/cover.tex}
+%
+% % % % % % % % % % % main matter % % % % % % % % % % % % 
+\pagestyle{fancy}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+	\input{int/introduction}
+%	\input{litrev/litrev}
+\input{Methods/methods}
+
+\input{rb/RadialBias}
+\input{superiorcolliculus/sc}
+\input{ShrewV1/ShrewV1}
+
+%	\input{summarych}
+%	\input{roleofin}
+\input{LinearV1/linv1}
+%\input{./chapters/01_Introduction/introduction.tex}
+%\input{./chapters/02_Theory/Theory.tex}
+%\input{./chapters/03_DWI/DWI.tex}
+%\input{./chapters/04_Sodium/Sodium.tex}
+%\input{./chapters/05_EchoAveraging/EchoAveraging.tex}
+%\input{./chapters/06_Conclusion/Conclusion.tex}
+
+%\bibliographystyle{ieeetr}
+%\bibliography{./biblio/refs_theory,./biblio/refs_GOLD,./biblio/refs_MLOFI,./biblio/refs_sodium}
+
+\end{document}

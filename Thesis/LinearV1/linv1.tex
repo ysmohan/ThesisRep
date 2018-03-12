@@ -1,8 +1,8 @@
-\chapter{Is the tree shrew primary visual cortex a linear filter?}
-\pagebreak
+\chapter[Is V1 a linear filter?]{Is the tree shrew primary visual cortex a linear filter?}
+
 	\section{Summary}
 	It has been contentious whether simple cells in the primary visual cortex (V1) perform patch by patch Fourier Analysis on the visual scene. It has been suggested that if V1 neurons perform patch-by-patch Fourier Analysis, then the receptive field sizes will remain constant. If this is the case, then to obtain the range of peak spatial frequencies reported for the same visual field, the neurons will have different number of sub-regions. Alternately, different peak spatial frequencies can also be obtained by keeping the number of sub-regions the same and changing the receptive field sizes. In this chapter, we will examine which of the above models best explain the receptive field properties of tree shrews. We measured the spatial frequency tuning curv es of the neurons and calculated absolute and relative bandwidths. We found that the relative bandwidth was negatively correlated with the peak spatial frequency, suggesting that the shrew V1 neurons, while not ideal, are far better Fourier Analysers than the macaque V1.
-	\pagebreak
+
 	\section{Introduction}
 	
 	Neurons in the visual cortex analyse the visual scene into its components. Early studies suggested that this occurs in the spatial domain, i.e., that neurons function as edge detectors. Another line of evidence however suggested that the neurons analyse the visual scene by segregating them into their individual spatial frequency components. The receptive field properties of simple cells in the primary visual cortex, as described by Hubel and Wiesel (1962, 1968), made them the ideal neural candidates that could perform such analysis. However, the receptive field properties of the simple cells studied in cats and macaques indicated that the analysis of the visual scene needed to undertake in both the spatial and the spatial frequency domains. Here we examine if the same applies to simple cells in the tree shrew V1.
@@ -20,7 +20,12 @@
 	\begin{figure}[]
 		
 		\includegraphics[width=\linewidth]{LinearV1/scheme.jpg}
-		\caption{Distribution of segregation indices of neurons.}
+		\caption{An explanation of the patch- by-patch fourier analysis model and comparison with an alternate model where the number of receptive field subregions
+			and not the size of the receptive field are kept constant. (a-c) show the two-dimensional profiles of the receptive fields. (d-f) show the spatial		frequency tuning of the cells on a linear scale. The tuning bandwidth thus obtained is the absolute bandwidth. (g-i) shows the same data in (d-f)
+			on a logarithmic scale. The bandwidth thus obtained is similar to the relative bandwdth. The top two rows indicate a patch by patch fourier analysis
+			system. The relationship of the absolute and relative bandwidths of the neurons in this system are shown in j). The bottom two rows suggest an alternate
+			scheme where the neurons have a constant number of sub-regions. The relationship between the absolute and relative bandwidths of the cells in
+			this system are shown in (k).}
 		\label{fig:summary}
 	\end{figure}
 
@@ -102,7 +107,7 @@
 	\paragraph {Segregation Index}	
 	In 49 of the 64 neurons, we recorded the response of the neuron to dark and light bars. Simple cells have segregated receptive fields which appear as separate peaks in the PSTHs (Fig 1a) and complex cells have overlapping subregions which appear as overlapping peaks in the PSTH (Fig 1b). Accordingly, the segregation index is higher for simple cells compared to complex cells.
 	
-		\begin{figure}[H]
+		\begin{figure}[]
 		
 		\includegraphics[width=\linewidth]{LinearV1/simplecomplex.jpg}
 		\caption{Response of a simple (a) and complex cell (b) to the dark and light bar stimuli. The spatially segregated RF of the simple cells is translated into the temporally segregated response of the neuron. Whereas, in the complex cell, the overlapping sub-regions are reflected in the temporally overlapping response of the neuron. Accordingly, the simple cell has a high SI (0.92) and the complex cell has a lower SI (0.39).}
@@ -110,7 +115,8 @@
 	\end{figure}
 	
 	The distribution of segregation index for 47 neurons is presented below. Of the 49 neurons, 19 were from layer 2/3, 12 were from layer 3c and 18 were from layer 4. There was no significant difference in SI between the layers (Kruskal-Wallis test, p=0.34).
-	\begin{figure}[H]
+
+	\begin{figure}[]
 		
 		\includegraphics[width=\linewidth]{LinearV1/segregationindex_colouradj.jpg}
 		\caption{Distribution of segregation indices of neurons.}
@@ -121,7 +127,7 @@
 	
 	The distribution of the bimodality index for the neurons in each of the layers are shown below. As with the segregation index, there was no significant difference in the distribution of the bimodality index between the three layers (Kruskal-Wallis test, p=0.49).
 	
-	\begin{figure}[H]
+	\begin{figure}[]
 		
 		\includegraphics[width=\linewidth]{LinearV1/Biindex.jpg}
 		\caption{Distribution of bimodality indices of neurons.}
@@ -131,16 +137,18 @@
 	\paragraph{Modulation Index}
 	The modulation indices of all the 69 neurons [Layer 2/3= 27; Layer 4= 27; Layer 3c= 15] are shown in figure 3. There was no significant difference in the modulation index between the layers (Kruskal-Wallis test, p= 0.74).
 	
-		\begin{figure}[H]
+		\begin{figure}[]
 		
 		\includegraphics[width=\linewidth]{LinearV1/modind_layer_colour.jpg}
 		\caption{Distribution of modulation indices of neurons.}
 		\label{fig:fig4}
 	\end{figure}
+
+
 	In neurons where both the segregation index and modulation index were recorded, they were plotted against each other. There was no significant correlation between the two indices (rho=0.02, p=0.89). 
 	
 	
-	\begin{figure}[H]
+	\begin{figure}[]
 		
 		\includegraphics[width=\linewidth]{LinearV1/Segindvsmodind.jpg}
 		\caption{Relationship between the modulation and segregation indices. The horizontal line is the threshold for the SI, where neurons above the threshold are classified as simple. The vertical line is the threshold between the simple and complex cells using the Modulation Index. If the segregation index and modulation index both classified the same neurons as simple and complex, we will only expect neurons to fall into the bottom left and the top right quadrants, unlike the distribution seen here.}
@@ -151,7 +159,7 @@
 	
 	The neurons in the bottom right corner will be classified as simple using the modulation index but not using the segregation index (11 neurons). The majority of these neurons were from layer 4(7/11) and most neurons had a negative bimodality index, indicating that they were off dominated neurons (8/11). These neurons also tended to have receptive fields dominated by one polarity as shown in fig\ref{fig:conc}.
 	
-		\begin{figure}[H]
+		\begin{figure}[]
 		
 		\includegraphics[width=\linewidth]{LinearV1/concneurons.jpg}
 		\caption{A neuron that responds preferably to a dark bar. This neuron has a segregation index less than 0.5 but still shows modulated responses to stimuli, potentially due to the imbalance in the two sub-regions. The dashed line shows the spontaneous activity of the neuron.}
@@ -175,7 +183,7 @@
 	
 	Neurons were classified as simple cells using the modulation index (MI$>$1), the segregation index (SI$>$0.5), both the modulation and segregation index together (MI $>$ 1 and SI $>$0.5). The relationship between the absolute bandwidth and the peak spatial frequency for simple cells classifies as described as above as well as for all the neurons in the sample are shown in figure \ref{fig:hwpksf}(a,c\&e). Statistically significant relationships are indicated using $*$. There was a significant correlation between the when all neurons were used for the analysis. The relationship between relative bandwidth and the peak spatial frequency are shown in the right hand panel. In all cases except for the one in (f) the results were statistically significant.
 	
-		\begin{figure}[H]
+		\begin{figure}[]
 		
 		\includegraphics[width=\linewidth]{LinearV1/hwpksf2.jpg}
 		\caption{This figure shows the relationship between bandwidth and spatial frequency in simple cells when using the modulation index to classify units (a,b), when using the segregation index (c,d); using both the modulation and segregation index (e,f). The plots on the left hand side show the relationship between absolute bandwidth and the peak spatial frequency while the plots on the right hand side show the relationship between the relative bandwidth and peak spatial frequency. Number of units used for generating each plot is specified in the right hand corner and statistically significant results are shown by *. *= p$<$0.05. **=p$<$0.005.}
@@ -198,11 +206,10 @@
 	
 	The distribution of SI and MI in our results show that neither of these values differ significantly across layers. The SI seems to be distributed almost uniformly across the whole range of possible values (between 0 and 1). However, it is interesting to note that no neurons showed complete and equally overlapping subregions (SI $<$ 0.2; see fig.\ref{fig:fig3}). These results are also consistent with those published by Van Hooser et al., 2013 (see fig 3c). This could mean that most neurons in the shrew V1 receive unbalanced on and off inputs. (Check Bimodality Index). Previous studies have suggested that the tree shrew V1 has a preponderance of off dominated neurons. It has also been suggested that this off dominance could be the origin of orientation selectivity in the V1 of tree shrews. Another reason for the difference could also be the way SI is calculated. The SI is calculated from the temporal profile of the neuronal response to light and dark bars. While this gives an accurate enough measure, it may not be sensitive enough to detect small differences in sensitivities between the off and on regions. A different measure of segregation index can also be calculated using ---- (Veit et al., 2014). This method uses stationery flashing stimuli to estimate the degree of segregation of the receptive fields. Using this measure, only 7\% of cortical neurons were classified as simple when compared to the 50\% using the segregation index.
 	
-	While the distribution of MI was not significantly different between the layers, there are a few important trends that may be of note. First, while the layer 2/3 and layer 3/c distribution look identical, a majority of Layer 4 neurons seem to have a modulation index greater than 1 (see fig.\ref{fig:fig4}). This is consistent with reports in literature where the simple cells are present predominantly layer 4 with some complex cells also found in this layer. As reported in Van Hooser et al (2013), a significant proportion of layer 2/3 neurons (layer 2/3 + Layer 3c) neurons were complex like (MI<1).
+	While the distribution of MI was not significantly different between the layers, there are a few important trends that may be of note. First, while the layer 2/3 and layer 3/c distribution look identical, a majority of Layer 4 neurons seem to have a modulation index greater than 1 (see fig.\ref{fig:fig4}). This is consistent with reports in literature where the simple cells are present predominantly layer 4 with some complex cells also found in this layer. As reported in Van Hooser et al (2013), a significant proportion of layer 2/3 neurons (layer 2/3 + Layer 3c) neurons were complex like (MI$<$1).
 	
 	Our results on the simple and complex cell dichotomy are similar to those reported by Van Hooser et al., 2013. They also classified an equivalent proportion of neurons into simple and complex using both the modulation index and segregation index. The relationship between the two measures wasn't reported. There are however, few results that were different, especially in regards to neurons in layer 2/3. First, Van Hooser and colleagues reported that most layer 2/3 neurons in their sample showed stronger on responses (56\%) whereas, in our sample, a larger proportion of layer 2/3 neurons showed stronger off responses (~65\%). They also found that an equivalent percentage of neurons were classified as simple using modulation index but found that a smaller proportion of neurons were classified as simple using the segregation index. They suggest that this might be due to an imbalance in the on and off sub-regions. The neurons in our sample that would have been classified as simple using the Modulation index but not so using the segregation index are shown in the bottom right quadrant in figure \ref{fig:conc}. A majority of these neurons were however located in layer 4, where such an imbalance of input is expected due to the layered segregation of on and off neurons layer 4.
 	
-	\pagebreak
 	
 	\section{Conclusion}
 	
