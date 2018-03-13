@@ -1,4 +1,4 @@
-\chapter [Chapter 5]{Relationship between orientation tuning and spatial frequency tuning in the tree shrew V1}
+\chapter {Relationship between orientation tuning and spatial frequency tuning in the tree shrew V1}
 \pagebreak
 \section{Summary}
 \pagebreak
@@ -33,16 +33,35 @@ For all neurons, once optimum orientation was determined, spatial frequency tuni
 
 The orientation selectivity of all the cortical neurons we encountered were measured using thin bars. The circular mean and circular variance of this response was calculated using the following formulas to measure the optimum orientation and sharpness of the tuning.
 
-Circular mean=
+\[CV=1-|\frac{mean(r*e^{(i*2\theta)})}{mean(r)}|\]
 
-Circular Variance=
+where $\theta$ is the orientation of the bar and r is the response of the bar to each orientation.
+
+\[CM=atan(\frac{1}{n}.\sum_{j=1}^{n}r*sin\theta, \frac{1}{n}.\sum_{j=1}^{n}r*cos\theta)\]
+
 
 One of the key predictions of our model was that the optimum orientation of the neuronal response does not vary along a penetration perpendicular to the cortical surface. In order to check this, we calculated the absolute difference in preferred orientation between the first neurons we encounter in layer 2/3 in each track and all the neurons that are present in the same track.
 
-While making electrode tracks, due to the angle of the skull and the brain, it is possible that in some of our penetrations, the electrode angle was not always exactly perpendicular to the skull. In order to make sure that any differences we observed were not due to the angle of the track, we also undertook a simulation. We obtained an orientation tuning map in the tree shrews (Bosking et al., 1997) and 
+While making electrode tracks, due to the angle of the skull and the brain, it is possible that in some of our penetrations, the electrode angle was not always exactly perpendicular to the skull. In order to make sure that any differences we observed were not due to the angle of the track, we also undertook a simulation experiment. We obtained an orientation tuning map of the tree shrew V1 (Bosking et al., 1997) and converted the RGB map into hsv co-ordinates. We then converted the hue values into angles and used this map for further analysis. A point was placed on the orientation map and a the orientation of a thousand pixels randomly placed at a particular distance were subtracted from the orientation of the original pixel. This procedure was repeated a 1000 times and for 6 distances (50, 100, 150, 200, 250, 300 mm). A probability histogram was calculated to determine the probability of obtaining various absolute differences.
+
+\paragraph{Spatial Frequency Tuning}
+
+For each layer 2/3 and layer 4 neuron, the spatial frequency tuning curve was obtained from the response of the neuron to drifting gratings of the optimum orientation and increasing spatial frequencies. The response of the neuron was analysed using Fourier Analysis and the modulation index was calculated using the following formula.
+
+\[Modulation Index (MI)= 2*\frac{F_1}{F_1+F_0}\]
+
+If the MI was greater than 1, the neuron was classified as simple and the F1 component was used as the response and if the MI was lesser than 1, the neuron was classified as complex and the DC component was used as response. The upper and lower cutoff frequencies were calculated as the frequencies above and below the optimum spatial frequency where the response first drops below half the maximum response.  The bandwidth of the neurons in octaves was calculated as follows.
+
+\[b_{oct}= log2(\frac{upper cutoff}{lower cutoff})\]
+
+For layer 4 neurons, the spatial frequency tuning of the neuron at the orthogonal orientation was also recorded. The orientation selectivity index (OSI) was calculated at each of the spatial frequencies as follows.
+
+\[OSI= 1-\frac{R_{orthogonal}}{R_{optimum}}\]
+
+where R$_{orthogonal}$ is the response at the orthogonal orientation and R$_{optimum}$ is the response at the optimum orientation. Higher values of OSI mean that the neuron shows sharper orientation tuning. The spatial frequency at which the neuron showed maximum orientation selectivity was obtained.
 \subsubsection{Histology and Track Reconstruction}
 
-
+At the end of each track an electrolytic lesion (6$\mu$a for 6s) was made. After the experiment was completed, the brain was removed following perfusion using 0.1M Phosphate Buffer and 4\% Paraformaldehyde and was stained for Nissl substance using Cresyl Violet Acetate (ph=3.4-3.6). The tracks were later reconstructed and the laminar position of each neuron was determined.
 \section{Results}
 
 \subsubsection{Laminar Position of neurons}
