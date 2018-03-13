@@ -1,113 +1,114 @@
-\contentsline {chapter}{\numberline {1}Introduction}{3}
-\contentsline {subsubsection}{Chapter 6}{3}
-\contentsline {chapter}{\numberline {2}Methods}{4}
-\contentsline {section}{\numberline {2.1}Experimental Animals}{4}
-\contentsline {section}{\numberline {2.2}Surgery and Anaesthesia}{4}
-\contentsline {section}{\numberline {2.3}Electrophysiological Recordings}{6}
-\contentsline {subsection}{\numberline {2.3.1}Single Electrode Recordings}{6}
-\contentsline {subsection}{\numberline {2.3.2}Multielectrode Recordings}{6}
-\contentsline {section}{\numberline {2.4}Stimuli}{7}
-\contentsline {section}{\numberline {2.5}Data Analysis}{7}
-\contentsline {section}{\numberline {2.6}Histology}{10}
-\contentsline {subsection}{\numberline {2.6.1}Cresyl violet staining}{10}
-\contentsline {subsection}{\numberline {2.6.2}Track Reconstruction}{10}
-\contentsline {section}{\numberline {2.7}Optical Imaging of Intrinsic Signals}{11}
-\contentsline {subsection}{\numberline {2.7.1}The apparatus}{11}
-\contentsline {subsubsection}{Macroscope and camera}{11}
-\contentsline {subsubsection}{The Chamber}{11}
-\contentsline {subsubsection}{The Illumination System}{12}
-\contentsline {subsection}{\numberline {2.7.2}Image acquisition}{12}
-\contentsline {subsubsection}{Stimulus presentation}{12}
-\contentsline {subsubsection}{Image acquisition system}{12}
-\contentsline {subsection}{\numberline {2.7.3}Analysis of Intrinsic Signals}{13}
-\contentsline {subsubsection}{Pre-processing of the data}{13}
-\contentsline {subsubsection}{Obtaining single condition and orientation maps}{14}
-\contentsline {chapter}{\numberline {3}Radial Bias in large spatial scale optical imaging signal in the macaque Primary Visual Cortex}{16}
-\contentsline {section}{\numberline {3.1}Summary}{17}
-\contentsline {section}{\numberline {3.2}Introduction}{18}
-\contentsline {section}{\numberline {3.3}Methods}{20}
-\contentsline {subsubsection}{Surgery and anaesthesia}{20}
-\contentsline {subsubsection}{Optical Imaging of Intrinsic Signals}{20}
-\contentsline {paragraph}{Setup}{20}
-\contentsline {paragraph}{Stimulus and data collection}{21}
-\contentsline {paragraph}{Image Analysis}{21}
-\contentsline {subsubsection}{Topographical recordings}{22}
-\contentsline {subsubsection}{Multi-electrode array recordings}{22}
-\contentsline {subsubsection}{Stimulus for electrode recordings}{22}
-\contentsline {subsubsection}{Data Analysis}{23}
-\contentsline {paragraph}{Analysis of electrophysiological recording}{23}
-\contentsline {paragraph}{Determing radial orientation- receptive field locations}{23}
-\contentsline {paragraph}{Defining a region of interest}{24}
-\contentsline {paragraph}{Single Pixel Analysis}{25}
-\contentsline {paragraph}{Adjusting for sample size in single pixel analysis}{26}
-\contentsline {section}{\numberline {3.4}Results}{27}
-\contentsline {subsubsection}{Single Condition Maps}{27}
-\contentsline {subsubsection}{Orientation Tuning Maps}{28}
-\contentsline {subsubsection}{Comparing the radial orientation and optimum orientation of ROIs}{30}
-\contentsline {subsubsection}{Comparing the radial orientation and optimum orientation of single pixels}{31}
-\contentsline {subsubsection}{Orientation biases of the local field potentials}{34}
-\contentsline {section}{\numberline {3.5}Discussion}{36}
-\contentsline {section}{\numberline {3.6}Conclusion}{40}
-\contentsline {chapter}{\numberline {4}Orientation tuning in the Tree Shrew superior colliculus}{41}
-\contentsline {section}{\numberline {4.1}Summary}{42}
-\contentsline {section}{\numberline {4.2}Introduction}{43}
-\contentsline {section}{\numberline {4.3}Methods}{45}
-\contentsline {subsubsection}{Surgery and anaesthesia}{45}
-\contentsline {subsubsection}{Electrophysiology}{45}
-\contentsline {subsubsection}{Stimuli}{46}
-\contentsline {subsubsection}{Data Analysis}{47}
-\contentsline {paragraph}{Analysis of Bar Stimuli Responses}{47}
-\contentsline {paragraph}{Analysis of Grating Stimuli Responses}{48}
-\contentsline {subsubsection}{Histology}{49}
-\contentsline {section}{\numberline {4.4}Results}{50}
-\contentsline {subsubsection}{Anatomical location of units}{50}
-\contentsline {subsubsection}{Orientation Selectivity using bars}{50}
-\contentsline {subsubsection}{Direction selectivity of neurons}{53}
-\contentsline {subsubsection}{Spatial Frequency Tuning}{55}
-\contentsline {subsubsection}{Orientation tuning using gratings}{56}
-\contentsline {subsubsection}{Relationship between spatial frequency and orientation tuning.}{56}
-\contentsline {subsubsection}{Modulation Index of the neurons.}{60}
-\contentsline {section}{\numberline {4.5}Discussion}{62}
-\contentsline {section}{\numberline {4.6}Conclusion}{64}
-\contentsline {chapter}{\numberline {5}Chapter 5}{65}
-\contentsline {section}{\numberline {5.1}Summary}{66}
-\contentsline {section}{\numberline {5.2}Introduction}{67}
-\contentsline {section}{\numberline {5.3}Methods}{67}
-\contentsline {subsection}{\numberline {5.3.1}Surgery and Anaesthesia}{67}
-\contentsline {subsubsection}{Electrophysiology}{68}
-\contentsline {subsubsection}{Stimuli}{68}
-\contentsline {paragraph}{Bar Stimuli}{69}
-\contentsline {paragraph}{Grating Stimuli}{69}
-\contentsline {subsubsection}{Data Analysis}{69}
-\contentsline {paragraph}{Orientation Selectivity of bars}{69}
-\contentsline {subsubsection}{Histology and Track Reconstruction}{70}
-\contentsline {section}{\numberline {5.4}Results}{70}
-\contentsline {subsubsection}{Laminar Position of neurons}{70}
-\contentsline {subsubsection}{Distribution of the circular variance}{71}
-\contentsline {subsubsection}{Circular mean of neurons}{72}
-\contentsline {section}{\numberline {5.5}Discussion}{75}
-\contentsline {section}{\numberline {5.6}Conclusion}{75}
-\contentsline {chapter}{\numberline {6}Is V1 a linear filter?}{76}
-\contentsline {section}{\numberline {6.1}Summary}{76}
-\contentsline {section}{\numberline {6.2}Introduction}{76}
-\contentsline {section}{\numberline {6.3}Methods}{80}
-\contentsline {subsection}{\numberline {6.3.1}Surgery and Anaesthesia}{80}
-\contentsline {subsection}{\numberline {6.3.2}Electrophysiology}{81}
-\contentsline {subsection}{\numberline {6.3.3}Stimuli}{81}
-\contentsline {subsubsection}{Bar Stimuli}{81}
-\contentsline {subsubsection}{Grating Stimuli}{82}
-\contentsline {subsection}{\numberline {6.3.4}Data Analysis}{82}
-\contentsline {subsubsection}{Analysis of Bar Stimuli Responses}{82}
-\contentsline {paragraph}{Calculating Segregation Index (SI)}{82}
-\contentsline {subsubsection}{Analysis if Grating Stimuli Responses}{83}
-\contentsline {subsubsection}{Bandwidth of Spatial Frequency Tuning}{83}
-\contentsline {subsection}{\numberline {6.3.5}Histology}{84}
-\contentsline {section}{\numberline {6.4}Results}{84}
-\contentsline {paragraph}{Segregation Index}{84}
-\contentsline {paragraph}{Bimodality Index}{85}
-\contentsline {paragraph}{Modulation Index}{85}
-\contentsline {paragraph}{Distribution of bandwidth in octaves}{87}
-\contentsline {paragraph}{Relationship between bandwidth and spatial frequency}{90}
-\contentsline {section}{\numberline {6.5}Discussion}{90}
-\contentsline {section}{\numberline {6.6}Conclusion}{94}
-\contentsline {chapter}{References}{95}
+\contentsline {chapter}{\numberline {1}Introduction}{4}
+\contentsline {subsubsection}{Chapter 6}{4}
+\contentsline {chapter}{\numberline {2}Methods}{6}
+\contentsline {section}{\numberline {2.1}Experimental Animals}{6}
+\contentsline {section}{\numberline {2.2}Surgery and Anaesthesia}{7}
+\contentsline {section}{\numberline {2.3}Electrophysiological Recordings}{8}
+\contentsline {subsection}{\numberline {2.3.1}Single Electrode Recordings}{8}
+\contentsline {subsection}{\numberline {2.3.2}Multielectrode Recordings}{9}
+\contentsline {section}{\numberline {2.4}Stimuli}{9}
+\contentsline {section}{\numberline {2.5}Data Analysis}{10}
+\contentsline {section}{\numberline {2.6}Histology}{13}
+\contentsline {subsection}{\numberline {2.6.1}Cresyl violet staining}{13}
+\contentsline {subsection}{\numberline {2.6.2}Track Reconstruction}{14}
+\contentsline {section}{\numberline {2.7}Optical Imaging of Intrinsic Signals}{14}
+\contentsline {subsection}{\numberline {2.7.1}The apparatus}{14}
+\contentsline {subsubsection}{Macroscope and camera}{15}
+\contentsline {subsubsection}{The Chamber}{15}
+\contentsline {subsubsection}{The Illumination System}{15}
+\contentsline {subsection}{\numberline {2.7.2}Image acquisition}{16}
+\contentsline {subsubsection}{Stimulus presentation}{16}
+\contentsline {subsubsection}{Image acquisition system}{16}
+\contentsline {subsection}{\numberline {2.7.3}Analysis of Intrinsic Signals}{17}
+\contentsline {subsubsection}{Pre-processing of the data}{17}
+\contentsline {subsubsection}{Obtaining single condition and orientation maps}{18}
+\contentsline {chapter}{\numberline {3}Radial Bias in large spatial scale optical imaging signal in the macaque Primary Visual Cortex}{20}
+\contentsline {section}{\numberline {3.1}Summary}{21}
+\contentsline {section}{\numberline {3.2}Introduction}{22}
+\contentsline {section}{\numberline {3.3}Methods}{24}
+\contentsline {subsubsection}{Surgery and anaesthesia}{24}
+\contentsline {subsubsection}{Optical Imaging of Intrinsic Signals}{24}
+\contentsline {paragraph}{Setup}{24}
+\contentsline {paragraph}{Stimulus and data collection}{25}
+\contentsline {paragraph}{Image Analysis}{25}
+\contentsline {subsubsection}{Topographical recordings}{26}
+\contentsline {subsubsection}{Multi-electrode array recordings}{26}
+\contentsline {subsubsection}{Stimulus for electrode recordings}{27}
+\contentsline {subsubsection}{Data Analysis}{27}
+\contentsline {paragraph}{Analysis of electrophysiological recording}{27}
+\contentsline {paragraph}{Determing radial orientation- receptive field locations}{28}
+\contentsline {paragraph}{Defining a region of interest}{29}
+\contentsline {paragraph}{Single Pixel Analysis}{31}
+\contentsline {paragraph}{Adjusting for sample size in single pixel analysis}{31}
+\contentsline {section}{\numberline {3.4}Results}{32}
+\contentsline {subsubsection}{Single Condition Maps}{32}
+\contentsline {subsubsection}{Orientation Tuning Maps}{33}
+\contentsline {subsubsection}{Comparing the radial orientation and optimum orientation of ROIs}{35}
+\contentsline {subsubsection}{Comparing the radial orientation and optimum orientation of single pixels}{36}
+\contentsline {subsubsection}{Orientation biases of the local field potentials}{39}
+\contentsline {section}{\numberline {3.5}Discussion}{41}
+\contentsline {section}{\numberline {3.6}Conclusion}{45}
+\contentsline {chapter}{\numberline {4}Orientation tuning in the Tree Shrew superior colliculus}{46}
+\contentsline {section}{\numberline {4.1}Summary}{47}
+\contentsline {section}{\numberline {4.2}Introduction}{48}
+\contentsline {section}{\numberline {4.3}Methods}{50}
+\contentsline {subsubsection}{Surgery and anaesthesia}{50}
+\contentsline {subsubsection}{Electrophysiology}{51}
+\contentsline {subsubsection}{Stimuli}{51}
+\contentsline {subsubsection}{Data Analysis}{52}
+\contentsline {paragraph}{Analysis of Bar Stimuli Responses}{53}
+\contentsline {paragraph}{Analysis of Grating Stimuli Responses}{54}
+\contentsline {subsubsection}{Histology}{56}
+\contentsline {section}{\numberline {4.4}Results}{56}
+\contentsline {subsubsection}{Anatomical location of units}{56}
+\contentsline {subsubsection}{Orientation Selectivity using bars}{56}
+\contentsline {subsubsection}{Direction selectivity of neurons}{60}
+\contentsline {subsubsection}{Spatial Frequency Tuning}{62}
+\contentsline {subsubsection}{Orientation tuning using gratings}{63}
+\contentsline {subsubsection}{Relationship between spatial frequency and orientation tuning.}{66}
+\contentsline {subsubsection}{Modulation Index of the neurons.}{67}
+\contentsline {section}{\numberline {4.5}Discussion}{69}
+\contentsline {section}{\numberline {4.6}Conclusion}{71}
+\contentsline {chapter}{\numberline {5}Chapter 5}{73}
+\contentsline {section}{\numberline {5.1}Summary}{74}
+\contentsline {section}{\numberline {5.2}Introduction}{75}
+\contentsline {section}{\numberline {5.3}Methods}{76}
+\contentsline {subsection}{\numberline {5.3.1}Surgery and Anaesthesia}{76}
+\contentsline {subsubsection}{Electrophysiology}{76}
+\contentsline {subsubsection}{Stimuli}{77}
+\contentsline {paragraph}{Bar Stimuli}{77}
+\contentsline {paragraph}{Grating Stimuli}{77}
+\contentsline {subsubsection}{Data Analysis}{78}
+\contentsline {paragraph}{Orientation Selectivity of bars}{78}
+\contentsline {subsubsection}{Histology and Track Reconstruction}{78}
+\contentsline {section}{\numberline {5.4}Results}{78}
+\contentsline {subsubsection}{Laminar Position of neurons}{78}
+\contentsline {subsubsection}{Distribution of the circular variance}{79}
+\contentsline {subsubsection}{Circular mean of neurons}{80}
+\contentsline {subsubsection}{Spatial Frequency Tuning of neurons}{83}
+\contentsline {section}{\numberline {5.5}Discussion}{85}
+\contentsline {section}{\numberline {5.6}Conclusion}{85}
+\contentsline {chapter}{\numberline {6}Is V1 a linear filter?}{86}
+\contentsline {section}{\numberline {6.1}Summary}{86}
+\contentsline {section}{\numberline {6.2}Introduction}{87}
+\contentsline {section}{\numberline {6.3}Methods}{91}
+\contentsline {subsection}{\numberline {6.3.1}Surgery and Anaesthesia}{91}
+\contentsline {subsection}{\numberline {6.3.2}Electrophysiology}{91}
+\contentsline {subsection}{\numberline {6.3.3}Stimuli}{92}
+\contentsline {subsubsection}{Bar Stimuli}{92}
+\contentsline {subsubsection}{Grating Stimuli}{93}
+\contentsline {subsection}{\numberline {6.3.4}Data Analysis}{93}
+\contentsline {subsubsection}{Analysis of Bar Stimuli Responses}{93}
+\contentsline {paragraph}{Calculating Segregation Index (SI)}{93}
+\contentsline {subsubsection}{Analysis if Grating Stimuli Responses}{94}
+\contentsline {subsubsection}{Bandwidth of Spatial Frequency Tuning}{95}
+\contentsline {subsection}{\numberline {6.3.5}Histology}{96}
+\contentsline {section}{\numberline {6.4}Results}{96}
+\contentsline {paragraph}{Segregation Index}{96}
+\contentsline {paragraph}{Bimodality Index}{97}
+\contentsline {paragraph}{Modulation Index}{97}
+\contentsline {paragraph}{Distribution of bandwidth in octaves}{101}
+\contentsline {paragraph}{Relationship between bandwidth and spatial frequency}{101}
+\contentsline {section}{\numberline {6.5}Discussion}{103}
+\contentsline {section}{\numberline {6.6}Conclusion}{106}
+\contentsline {chapter}{References}{107}

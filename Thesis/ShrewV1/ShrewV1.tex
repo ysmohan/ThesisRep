@@ -47,7 +47,7 @@ While making electrode tracks, due to the angle of the skull and the brain, it i
 
 \subsubsection{Laminar Position of neurons}
 
-The laminar position of all units were determined using track reconstructions  
+The laminar position of all units were determined using track reconstructions based on lesions made during recording (yellow arrows in fig\ref{fig:lp}a. In the tree shrew, the primary visual cortex shows prominent striation corresponding to layer 4. Layer 3c appears as a less dense striated area just above layer 4. Neurons recorded above layer 3c were classified as belonging to layer 4. Using this classification scheme, we concluded that we recorded from a similar number of neurons from layers 2/3 and layer 4. We also recorded from a significant number of neurons from layer 3c (Fig \ref{fig:lp}b).
 
 	\begin{figure}[H]
 	
@@ -58,6 +58,7 @@ The laminar position of all units were determined using track reconstructions
 
 \subsubsection{Distribution of the circular variance}
 
+The distribution of circular variances for neurons in the three layers, calculated from their responses to thin moving bars are shown in fig \ref{fig:cv}. The median CV of layer 2/3 neurons was 0.59 (n=28; 95\% CI= [0.32, 0.68]) ; that of layer 3c was  0.87 (n= 16; 95\% CI=[0.68, 0.91]) and that of layer 4 was 0.88 (n=29; 95\% CI=[0.84, 0.90 ]). The three distributions were significantly different from each other (p$<$0.001, Kruskal-Wallis test). Post-hoc tests revealed that there was a statistically significant distribution between the distribution of CVs of neurons in layer 2/3 and layer 3c (Mann-Whitney U test, z=2.37; p$<$0.01) and between layer 2/3 and layer 4 (Mann-Whitney U test, z= 3.58, p$<$0.001). The difference between the distributions of CV of layer 3c neurons and layer 4 neurons was not statistically significant (Mann-Whitney U test, z= 0.67; p=0.25). 
 	\begin{figure}[H]
 	
 	\includegraphics[width=\linewidth]{ShrewV1/cv_lamina_2_bw.jpg}
@@ -67,6 +68,7 @@ The laminar position of all units were determined using track reconstructions
 
 \subsubsection{Circular mean of neurons}
 
+According to our scheme of orientation selectivity in the tree shrews, layer 2/3 neurons inherit their orientation selectivity from layer 4 neurons which are biased for orientation. Here we test this hypothesis. Further, neurons in the tree shrew Layer 4 were thought to be untuned to orientation. However, recent studies, along with our own results in fig \ref{fig:cv} show that these neurons show orientation biases. Hence, we also wanted to determine if the orientation columns reported in the shrew Layer 2/3 extended to layer 4. As a result, we took the absolute difference between the circular means of each layer 2/3 neurons and subsequent neurons recorded from layers 3c and 4. These are shown in fig \ref{fig:cmdiff}.
 	\begin{figure}[H]
 	
 	\includegraphics[width=\linewidth]{ShrewV1/cmdiff.jpg}
@@ -74,25 +76,43 @@ The laminar position of all units were determined using track reconstructions
 	\label{fig:cmdiff}
 	\end{figure}
 
+Instead of the expected unimodal distribution where most neurons in a track were tuned to the same orientation, our results showed a bimodal distribution with approximately half the neurons tuned to the same orientation as the layer 2/3 neuron while the other half was tuned to an orientation that was 65$^o$ away.
+
+We then split the distribution in two groups: pairs of neurons that were tuned to orientations less that 45$^o$ (group 1) apart and pairs tuned to orientation greater than 45$^o$ apart (Group 2). We then looked at whether the difference of was between the layer 2/3 neuron and layer 3c neurons or between layer 2/3 neuron and layer 4 neurons. These results are shown in fig \ref{fig:cmlayer}. We found that in group 1, the majority of the difference pairs were between layer 2/3 and layer 4 neurons (N=15; Binomial Distribution, p=0.04). In group 2, majority of the difference pairs were between layer 2/3 and layer 3c neurons (N=22; Binomial Distribution, p=0.04)
+
 	\begin{figure}[H]
 		
 		\includegraphics[width=\linewidth]{ShrewV1/cmlayer.jpg}
 		\caption{The proportion of neurons from layers 3c and layer 4 with absolute differences greater and lesser than 45$^o$.}
 		\label{fig:cmlayer}
 	\end{figure}
-	
+
+In order to ensure that the second peak we observed in fig \ref{fig:cmdiff} wasn't due to track angles, we undertook a simulation experiment (see Methods, Random Simulation). We found that for the shortest distance between the layer 2/3 and layer 4 neurons in our sample (50 mm), there was a high probability of getting an absolute difference of 0 but this probability decreased steadily. For the greatest distance in our sample (300 mm), the probability of obtaining the same orientation diminished significantly. While there was a general trend towards getting neurons that were tuned 90$^o$ apart but there was no specific bias for a difference of 65$^o$. The highest probability of obtaining a peak at 65$^o$ was when distance was set at 250 mm (p=0.045).
 		\begin{figure}[H]
 		
 		\includegraphics[width=\linewidth]{ShrewV1/simulation.jpg}
 		\caption{Results of a simulation experiment: The orientation tuning map (inset) was taken from Bosking et al., 1997. On this map, points were randomly placed and the orientation of 1000 pixels randomly selected at one of the distances in the legend was subtracted from the original data point. For each distance, the distribution of absolute differences for the 1000 pixels are shown by the lines in the graph. Black line is 1mm.}
 		\label{fig:sim}
 	\end{figure}
-	
+
+\subsubsection{Spatial Frequency Tuning of neurons}
+
+The distribution of the low cut-off, preferred and high cut-off spatial frequencies of the neurons in layer 2/3 and layer 4are shown in fig \ref{fig:sftuning}. Results from only these two layers are shown as we propose that the orientation selectivity of layer 2/3 neurons arise predominantly from layer 4 neurons. We found no significant differences between the spatial frequency tuning between the two layers, although layer 2/3 neurons show high spatial frequency attenuation. When the bandwidth of spatial frequency tuning in octaves was calculated, we found that the layer 2/3 neurons showed slightly sharper tuning (Median layer 2/3 b$_{oct}$= 2.2; n=16; Median layer 4 b$_{oct}$=2.3; n=9). This difference was however not statistically significant (Mann-Whitney U test; z=-1.18; p=0.24).
+
 		\begin{figure}[H]
 		
-		\includegraphics[width=\linewidth]{ShrewV1/sftuning_neurons.jpg}
+		\includegraphics[width=\linewidth]{ShrewV1/sftuning_neurons_2.jpg}
 		\caption{The cumulative distribution of the spatial frequency tuning of neurons in layers 2/3, 3c and 4 of the Shrew V1.}
 		\label{fig:sftuning}
 	\end{figure}
+
+In 18 individual tracks, we compared the spatial frequency and orientation tuning of the layer 2/3 neuron to that of the first layer 4 neuron we encountered. The results of this analysis is shown in fig \ref{fig:sfsum}. The result from an example neuron is shown in parts a and b. Fig \ref{fig:sfsum}a shows that spatial frequency tuning curve of layer 2/3 neuron and that of the layer 4 neuron to optimum and orthogonal orientation. We expected that the optimum spatial frequency of the layer 2/3 neuron and the spatial frequency at which the layer 4 neurons was most tuned for orientation would be similar. We found that this relation held true only in 3 of our 18 tracks. In most of the tracks the maximum OSI of the layer 4 neuron occured at much higher spatial frequencies when compared to the optimum spatial frequency of the layer 2/3 neuron as demonstrated by the data points skewed closer to the y-axis.
+	\begin{figure}[H]
+	
+		\includegraphics[width=\linewidth]{ShrewV1/sfsummary.jpg}
+		\caption{The cumulative distribution of the spatial frequency tuning of neurons in layers 2/3, 3c and 4 of the Shrew V1.}
+		\label{fig:sfsum}
+	\end{figure}
+
 \section{Discussion}
 \section{Conclusion}
