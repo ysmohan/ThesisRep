@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  14 MAR 2018 12:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  16 MAR 2018 00:58
 entering extended mode
 **main4.tex
 (main4.tex
@@ -641,17 +641,17 @@ File: ShrewV1/sfsummary.jpg Graphic file (type jpg)
 <use ShrewV1/sfsummary.jpg>
 Package pdftex.def Info: ShrewV1/sfsummary.jpg used on input line 147.
 (pdftex.def)             Requested size: 397.48499pt x 165.97382pt.
- [88 <./ShrewV1/sftuning_neurons_2.jpg>])
-(LinearV1/linv1.tex [89 <./ShrewV1/sfsummary.jpg>]
+ [88 <./ShrewV1/sftuning_neurons_2.jpg>] [89 <./ShrewV1/sfsummary.jpg>] [90] [9
+1] [92]) (LinearV1/linv1.tex [93]
 Chapter 6.
-[90
+[94
 
-] [91] [92]
+] [95] [96]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 20.
 
-<LinearV1/scheme.jpg, id=339, 810.77907pt x 581.92406pt>
+<LinearV1/scheme.jpg, id=352, 810.77907pt x 581.92406pt>
 File: LinearV1/scheme.jpg Graphic file (type jpg)
 
 <use LinearV1/scheme.jpg>
@@ -663,7 +663,7 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [93] [94 <./LinearV1/scheme.jpg>]
+ [97] [98 <./LinearV1/scheme.jpg>]
 Missing character: There is no Œ in font cmr10!
 Missing character: There is no © in font cmr10!
 Missing character: There is no ‚ in font cmr10!
@@ -674,27 +674,27 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no Œ in font cmr10!
 Missing character: There is no º in font cmr10!
- [95] [96]
+ [99] [100]
 Missing character: There is no œ in font cmr10!
 Missing character: There is no É in font cmr10!
- [97]
-[98] [99]
+ [101]
+[102] [103]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 110.
 
-<LinearV1/simplecomplex.jpg, id=362, 460.8417pt x 166.4619pt>
+<LinearV1/simplecomplex.jpg, id=375, 460.8417pt x 166.4619pt>
 File: LinearV1/simplecomplex.jpg Graphic file (type jpg)
 
 <use LinearV1/simplecomplex.jpg>
 Package pdftex.def Info: LinearV1/simplecomplex.jpg used on input line 112.
 (pdftex.def)             Requested size: 397.48499pt x 143.58368pt.
- [100 <./LinearV1/simplecomplex.jpg>]
+ [104 <./LinearV1/simplecomplex.jpg>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 119.
 
-<LinearV1/segregationindex_colouradj.jpg, id=366, 742.775pt x 464.73625pt>
+<LinearV1/segregationindex_colouradj.jpg, id=379, 742.775pt x 464.73625pt>
 File: LinearV1/segregationindex_colouradj.jpg Graphic file (type jpg)
 
 <use LinearV1/segregationindex_colouradj.jpg>
@@ -706,7 +706,7 @@ line 121.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 130.
 
-<LinearV1/Biindex.jpg, id=367, 742.775pt x 464.73625pt>
+<LinearV1/Biindex.jpg, id=380, 742.775pt x 464.73625pt>
 File: LinearV1/Biindex.jpg Graphic file (type jpg)
 
 <use LinearV1/Biindex.jpg>
@@ -717,7 +717,7 @@ Package pdftex.def Info: LinearV1/Biindex.jpg used on input line 132.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 140.
 
-<LinearV1/modind_layer_colour.jpg, id=368, 742.775pt x 464.73625pt>
+<LinearV1/modind_layer_colour.jpg, id=381, 742.775pt x 464.73625pt>
 File: LinearV1/modind_layer_colour.jpg Graphic file (type jpg)
 
 <use LinearV1/modind_layer_colour.jpg>
@@ -729,27 +729,27 @@ Package pdftex.def Info: LinearV1/modind_layer_colour.jpg used on input line 14
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 151.
 
-<LinearV1/Segindvsmodind.jpg, id=369, 702.625pt x 488.82625pt>
+<LinearV1/Segindvsmodind.jpg, id=382, 702.625pt x 488.82625pt>
 File: LinearV1/Segindvsmodind.jpg Graphic file (type jpg)
 
 <use LinearV1/Segindvsmodind.jpg>
 Package pdftex.def Info: LinearV1/Segindvsmodind.jpg used on input line 153.
 (pdftex.def)             Requested size: 397.48499pt x 276.54536pt.
- [101 <./LinearV1/segregationindex_colouradj.jpg>] [102 <./LinearV1/Biindex.jpg
+ [105 <./LinearV1/segregationindex_colouradj.jpg>] [106 <./LinearV1/Biindex.jpg
 > <./LinearV1/modind_layer_colour.jpg>]
-[103 <./LinearV1/Segindvsmodind.jpg>]
+[107 <./LinearV1/Segindvsmodind.jpg>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 162.
 
-<LinearV1/concneurons.jpg, id=380, 1983.41pt x 1413.28pt>
+<LinearV1/concneurons.jpg, id=392, 1983.41pt x 1413.28pt>
 File: LinearV1/concneurons.jpg Graphic file (type jpg)
 
 <use LinearV1/concneurons.jpg>
 Package pdftex.def Info: LinearV1/concneurons.jpg used on input line 164.
 (pdftex.def)             Requested size: 397.48499pt x 283.21169pt.
- [104 <./LinearV1/concneurons.jpg>]
-<LinearV1/boct.jpg, id=384, 1302.8675pt x 539.01375pt>
+ [108 <./LinearV1/concneurons.jpg>]
+<LinearV1/boct.jpg, id=397, 1302.8675pt x 539.01375pt>
 File: LinearV1/boct.jpg Graphic file (type jpg)
  <use LinearV1/boct.jpg>
 Package pdftex.def Info: LinearV1/boct.jpg used on input line 175.
@@ -759,20 +759,20 @@ Package pdftex.def Info: LinearV1/boct.jpg used on input line 175.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 186.
 
-<LinearV1/hwpksf2.jpg, id=385, 608.2725pt x 385.44pt>
+<LinearV1/hwpksf2.jpg, id=398, 608.2725pt x 385.44pt>
 File: LinearV1/hwpksf2.jpg Graphic file (type jpg)
 
 <use LinearV1/hwpksf2.jpg>
 Package pdftex.def Info: LinearV1/hwpksf2.jpg used on input line 188.
 (pdftex.def)             Requested size: 397.48499pt x 251.87985pt.
- [105 <./LinearV1/boct.jpg>] [106 <./LinearV1/hwpksf2.jpg>] [107] [108] [109]) 
-(main4.bbl [110]
+ [109 <./LinearV1/boct.jpg>] [110 <./LinearV1/hwpksf2.jpg>] [111] [112] [113]) 
+(main4.bbl [114]
 Overfull \hbox (152.51047pt too wide) in paragraph at lines 14--39
 \OT1/cmtt/m/n/10 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2823
 298&tool=pmcentrez&rendertype=abstract
  []
 
-) [111
+) [115
 
 ] (main4.aux)
 
@@ -798,9 +798,9 @@ ts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/LaTex/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/
 cmsy7.pfb><C:/Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:
 /Program Files/LaTex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main4.pdf (112 pages, 16449074 bytes).
+Output written on main4.pdf (116 pages, 16458733 bytes).
 PDF statistics:
- 455 PDF objects out of 1000 (max. 8388607)
+ 468 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  206 words of extra memory for PDF output out of 10000 (max. 10000000)
 

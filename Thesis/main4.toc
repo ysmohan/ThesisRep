@@ -88,28 +88,31 @@
 \contentsline {subsubsection}{Circular mean of neurons}{84}
 \contentsline {subsubsection}{Spatial Frequency Tuning of neurons}{87}
 \contentsline {section}{\numberline {5.5}Discussion}{89}
-\contentsline {section}{\numberline {5.6}Conclusion}{89}
-\contentsline {chapter}{\numberline {6}Is V1 a linear filter?}{90}
-\contentsline {section}{\numberline {6.1}Summary}{90}
-\contentsline {section}{\numberline {6.2}Introduction}{91}
-\contentsline {section}{\numberline {6.3}Methods}{95}
-\contentsline {subsection}{\numberline {6.3.1}Surgery and Anaesthesia}{95}
-\contentsline {subsection}{\numberline {6.3.2}Electrophysiology}{95}
-\contentsline {subsection}{\numberline {6.3.3}Stimuli}{96}
-\contentsline {subsubsection}{Bar Stimuli}{96}
-\contentsline {subsubsection}{Grating Stimuli}{97}
-\contentsline {subsection}{\numberline {6.3.4}Data Analysis}{97}
-\contentsline {subsubsection}{Analysis of Bar Stimuli Responses}{97}
-\contentsline {paragraph}{Calculating Segregation Index (SI)}{97}
-\contentsline {subsubsection}{Analysis if Grating Stimuli Responses}{98}
-\contentsline {subsubsection}{Bandwidth of Spatial Frequency Tuning}{99}
-\contentsline {subsection}{\numberline {6.3.5}Histology}{100}
-\contentsline {section}{\numberline {6.4}Results}{100}
-\contentsline {paragraph}{Segregation Index}{100}
-\contentsline {paragraph}{Bimodality Index}{101}
-\contentsline {paragraph}{Modulation Index}{101}
-\contentsline {paragraph}{Distribution of bandwidth in octaves}{105}
-\contentsline {paragraph}{Relationship between bandwidth and spatial frequency}{105}
-\contentsline {section}{\numberline {6.5}Discussion}{107}
-\contentsline {section}{\numberline {6.6}Conclusion}{110}
-\contentsline {chapter}{References}{111}
+\contentsline {paragraph}{Distribution of orientation selectivity}{89}
+\contentsline {paragraph}{Orientation selectivity of layer 3c neurons}{90}
+\contentsline {paragraph}{Spatial Frequency Dependence of Orientation Tuning in layer 4 neurons}{91}
+\contentsline {paragraph}{Distribution of Spatial Frequency}{91}
+\contentsline {chapter}{\numberline {6}Is V1 a linear filter?}{94}
+\contentsline {section}{\numberline {6.1}Summary}{94}
+\contentsline {section}{\numberline {6.2}Introduction}{95}
+\contentsline {section}{\numberline {6.3}Methods}{99}
+\contentsline {subsection}{\numberline {6.3.1}Surgery and Anaesthesia}{99}
+\contentsline {subsection}{\numberline {6.3.2}Electrophysiology}{99}
+\contentsline {subsection}{\numberline {6.3.3}Stimuli}{100}
+\contentsline {subsubsection}{Bar Stimuli}{100}
+\contentsline {subsubsection}{Grating Stimuli}{101}
+\contentsline {subsection}{\numberline {6.3.4}Data Analysis}{101}
+\contentsline {subsubsection}{Analysis of Bar Stimuli Responses}{101}
+\contentsline {paragraph}{Calculating Segregation Index (SI)}{101}
+\contentsline {subsubsection}{Analysis if Grating Stimuli Responses}{102}
+\contentsline {subsubsection}{Bandwidth of Spatial Frequency Tuning}{103}
+\contentsline {subsection}{\numberline {6.3.5}Histology}{104}
+\contentsline {section}{\numberline {6.4}Results}{104}
+\contentsline {paragraph}{Segregation Index}{104}
+\contentsline {paragraph}{Bimodality Index}{105}
+\contentsline {paragraph}{Modulation Index}{105}
+\contentsline {paragraph}{Distribution of bandwidth in octaves}{109}
+\contentsline {paragraph}{Relationship between bandwidth and spatial frequency}{109}
+\contentsline {section}{\numberline {6.5}Discussion}{111}
+\contentsline {section}{\numberline {6.6}Conclusion}{114}
+\contentsline {chapter}{References}{115}
