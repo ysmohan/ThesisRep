@@ -1195,9 +1195,44 @@ Kisv{\'{a}}rday, Z\BPBI F.%
 
 \bibitem [\protect \citeauthoryear {%
 Kremkow%
-\ \protect \BOthers {.}}{%
+, Jin%
+, Wang%
+\BCBL {}\ \BBA {} Alonso%
+}{%
 Kremkow%
-\ \protect \BOthers {.}}{%
+, Jin%
+\BCBL {}\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Kremkow2016a}
+\APACinsertmetastar {%
+Kremkow2016a}%
+\begin{APACrefauthors}%
+Kremkow, J.%
+, Jin, J.%
+, Wang, Y.%
+\BCBL {}\ \BBA {} Alonso, J\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Principles underlying sensory map topography in primary
+  visual cortex}} {{Principles underlying sensory map topography in primary
+  visual cortex}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature}{533}{7601}{52--57}.
+\newblock
+\begin{APACrefDOI} \doi{10.1038/nature17936} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kremkow%
+, Perrinet%
+\BCBL {}\ \protect \BOthers {.}}{%
+Kremkow%
+, Perrinet%
+\BCBL {}\ \protect \BOthers {.}}{%
 {\protect \APACyear {2016}}%
 }]{%
 Kremkow2016}
@@ -2144,6 +2179,32 @@ Sato, T\BPBI K.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Schiller%
+}{%
+Schiller%
+}{%
+{\protect \APACyear {1992}}%
+}]{%
+Schiller1992}
+\APACinsertmetastar {%
+Schiller1992}%
+\begin{APACrefauthors}%
+Schiller, P\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Functions of the ON and OFF channels of the visual
+  system. TL - 322}} {{Functions of the ON and OFF channels of the visual
+  system. TL - 322}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Trends in Neurosciences}{15}{3}{86--92}.
+\newblock
+\begin{APACrefDOI} \doi{10.1038/322824a0} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Sclar%
 \ \BBA {} Freeman%
 }{%
@@ -2918,6 +2979,33 @@ Vidyasagar, T.%
   mechanisms to the orientation sensitivity of cat dLGN Neurones}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Exp Brain Res}{55}{1}{192--195}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+T.~Vidyasagar%
+}{%
+T.~Vidyasagar%
+}{%
+{\protect \APACyear {1987}}%
+}]{%
+Vidyasagar1987}
+\APACinsertmetastar {%
+Vidyasagar1987}%
+\begin{APACrefauthors}%
+Vidyasagar, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1987}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{A model of striate response properties based on
+  geniculate anisotropies}} {{A model of striate response properties based on
+  geniculate anisotropies}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Biological cybernetics}{23}{}{11--23}.
+\newblock
+\begin{APACrefURL} \url{http://link.springer.com/article/10.1007/BF00318712}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
