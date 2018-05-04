@@ -236,6 +236,38 @@ Brown, P\BPBI K.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Campbell%
+, Cooper%
+\BCBL {}\ \BBA {} Enroth-Cugell%
+}{%
+Campbell%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1969}}%
+}]{%
+Campbell1969a}
+\APACinsertmetastar {%
+Campbell1969a}%
+\begin{APACrefauthors}%
+Campbell, F\BPBI W.%
+, Cooper, G\BPBI F.%
+\BCBL {}\ \BBA {} Enroth-Cugell, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1969}{jul}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The spatial selectivity of the visual cells of the
+  cat}} {{The spatial selectivity of the visual cells of the cat}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of Physiology}{203}{1}{223--235}.
+\newblock
+\begin{APACrefURL} \url{http://doi.wiley.com/10.1113/jphysiol.1969.sp008861}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1113/jphysiol.1969.sp008861} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Celebrini%
 , Thorpe%
 , Trotter%
@@ -469,37 +501,6 @@ Crook, J\BPBI M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Cynader%
-, Berman%
-\BCBL {}\ \BBA {} Hein%
-}{%
-Cynader%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {1975}}%
-}]{%
-Cynader1975}
-\APACinsertmetastar {%
-Cynader1975}%
-\begin{APACrefauthors}%
-Cynader, M.%
-, Berman, N.%
-\BCBL {}\ \BBA {} Hein, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1975}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Cats raised in a one-directional world: Effects on
-  receptive fields in visual cortex and superior colliculus}} {{Cats raised in
-  a one-directional world: Effects on receptive fields in visual cortex and
-  superior colliculus}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Experimental Brain Research}{22}{3}{267--280}.
-\newblock
-\begin{APACrefDOI} \doi{10.1007/BF00234769} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 {De Valois}%
 , {William Yund}%
 \BCBL {}\ \BBA {} Hepler%
@@ -527,6 +528,61 @@ DeValois1982}%
 \APACjournalVolNumPages{Vision Research}{22}{5}{531--544}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/0042-6989(82)90112-2} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+DeValois%
+, Albright%
+\BCBL {}\ \BBA {} Thorell%
+}{%
+DeValois%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1982}}%
+}]{%
+DeValois1982a}
+\APACinsertmetastar {%
+DeValois1982a}%
+\begin{APACrefauthors}%
+DeValois, R\BPBI L.%
+, Albright, D\BPBI G.%
+\BCBL {}\ \BBA {} Thorell, L\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1982}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Spatial Frequency Selectivity of Cells in Macaque
+  Visual Cortex}} {{Spatial Frequency Selectivity of Cells in Macaque Visual
+  Cortex}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Vision research}{22}{}{545--559}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+DeValois%
+\ \BBA {} DeValois%
+}{%
+DeValois%
+\ \BBA {} DeValois%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+DeValois1990a}
+\APACinsertmetastar {%
+DeValois1990a}%
+\begin{APACrefauthors}%
+DeValois, R\BPBI L.%
+\BCBT {}\ \BBA {} DeValois, K\BPBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1990}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Striate Cortex}} {{Striate Cortex}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Spatial Vision} {Spatial vision}\ (\BPGS\ 94--146).
+\newblock
+\APACaddressPublisher{}{Oxford University Press, USA-OSO}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -762,35 +818,6 @@ Freeman, T\BPBI C.%
 \APACjournalVolNumPages{Neuron}{35}{4}{759--771}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/S0896-6273(02)00819-X} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Fr{\'{e}}gnac%
-\ \BBA {} Imbert%
-}{%
-Fr{\'{e}}gnac%
-\ \BBA {} Imbert%
-}{%
-{\protect \APACyear {1978}}%
-}]{%
-Fregnac1978}
-\APACinsertmetastar {%
-Fregnac1978}%
-\begin{APACrefauthors}%
-Fr{\'{e}}gnac, Y.%
-\BCBT {}\ \BBA {} Imbert, M.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1978}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Early development of visual cortical cells in normal
-  and dark-reared kittens: relationship between orientation selectivity and
-  ocular dominance}} {{Early development of visual cortical cells in normal and
-  dark-reared kittens: relationship between orientation selectivity and ocular
-  dominance}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Physiology}{278}{}{27--44}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1492,6 +1519,32 @@ Li, G.%
 \APACjournalVolNumPages{Neuroscience}{155}{3}{914--922}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.neuroscience.2008.06.032} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Maffei%
+\ \BBA {} Fiorentini%
+}{%
+Maffei%
+\ \BBA {} Fiorentini%
+}{%
+{\protect \APACyear {1973}}%
+}]{%
+Maffei1973a}
+\APACinsertmetastar {%
+Maffei1973a}%
+\begin{APACrefauthors}%
+Maffei, L.%
+\BCBT {}\ \BBA {} Fiorentini, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1973}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The Visual Cortex As a Spatial Analyser Frequency}}
+  {{The Visual Cortex As a Spatial Analyser Frequency}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Vision Research}{13}{}{1255--1267}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2205,6 +2258,35 @@ Schiller, P\BPBI H.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Schiller%
+, Finlay%
+\BCBL {}\ \BBA {} Volman%
+}{%
+Schiller%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1976}}%
+}]{%
+Schiller1976a}
+\APACinsertmetastar {%
+Schiller1976a}%
+\begin{APACrefauthors}%
+Schiller, P\BPBI H.%
+, Finlay, B\BPBI L.%
+\BCBL {}\ \BBA {} Volman, S\BPBI F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1976}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Quantitative studies of single-cell properties in
+  monkey striate cortex . I . Spatiotemporal organization of receptive fields}}
+  {{Quantitative studies of single-cell properties in monkey striate cortex . I
+  . Spatiotemporal organization of receptive fields}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of neurophysiology}{39}{6}{1288--1319}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Sclar%
 \ \BBA {} Freeman%
 }{%
@@ -2262,33 +2344,6 @@ Shapley, R.%
 \APACjournalVolNumPages{Neuron}{38}{5}{689--699}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/S0896-6273(03)00332-5} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Sherk%
-\ \BBA {} Stryker%
-}{%
-Sherk%
-\ \BBA {} Stryker%
-}{%
-{\protect \APACyear {1976}}%
-}]{%
-Sherk1975}
-\APACinsertmetastar {%
-Sherk1975}%
-\begin{APACrefauthors}%
-Sherk, H.%
-\BCBT {}\ \BBA {} Stryker, M\BPBI P.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1976}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Quantitative Study of Cortical Orientation Selectivity
-  in Visually Inexperienced Kitten}} {{Quantitative Study of Cortical
-  Orientation Selectivity in Visually Inexperienced Kitten}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of neurophysiology}{39}{1}{63--70}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2436,6 +2491,39 @@ Sillito, A\BPBI M.%
   simple cell orientation selectivity}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Brain Research}{194}{}{517--520}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Silverman%
+, Grosof%
+, {De Valois}%
+\BCBL {}\ \BBA {} Elfar%
+}{%
+Silverman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1989}}%
+}]{%
+Silverman1989}
+\APACinsertmetastar {%
+Silverman1989}%
+\begin{APACrefauthors}%
+Silverman, M\BPBI S.%
+, Grosof, D\BPBI H.%
+, {De Valois}, R\BPBI L.%
+\BCBL {}\ \BBA {} Elfar, S\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1989}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Spatial-frequency organization in primate striate
+  cortex.}} {{Spatial-frequency organization in primate striate
+  cortex.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the National Academy of Sciences of the
+  United States of America}{86}{January}{711--715}.
+\newblock
+\begin{APACrefDOI} \doi{10.1073/pnas.86.2.711} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2856,6 +2944,33 @@ Thibos, L\BPBI N.%
   brisk and sluggish ganglion cells of the cat's retina}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Exp Brain Res}{51}{1}{16--22}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tootell%
+, Silverman%
+\BCBL {}\ \BBA {} {De Valois}%
+}{%
+Tootell%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1981}}%
+}]{%
+Tootell1981}
+\APACinsertmetastar {%
+Tootell1981}%
+\begin{APACrefauthors}%
+Tootell, R\BPBI B\BPBI H.%
+, Silverman, M\BPBI S.%
+\BCBL {}\ \BBA {} {De Valois}, R\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1981}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Spatial frequency columns in primary visual cortex}}
+  {{Spatial frequency columns in primary visual cortex}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science (New York, NY)}{214}{4522}{813--815}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
