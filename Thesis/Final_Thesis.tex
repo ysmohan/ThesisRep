@@ -1,0 +1,108 @@
+\documentclass [11pt, a4paper] {book}
+
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{apacite}
+\usepackage{here}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+\usepackage{amsmath}
+\usepackage{chapterbib}
+
+
+\doublespacing
+
+
+\begin{document}
+	
+	\renewcommand{\chapterbib}{}
+	\renewcommand{\chapterfigures}{}
+	
+	
+	\begin{titlepage} %Make title
+		\centering
+
+		
+	\vspace*{0.5\baselineskip} % Make space at the top (optional)
+	\hrulefill\\ %Draws line
+	
+		\centering \huge {\scshape Origins of feature selectivity in the visual system of two mammalian species}\\ %The Title
+		
+	\hrulefill\\
+		
+% Makes name
+	\vspace*{1\baselineskip}	
+	{\Large Yamni Mohan,}
+	{\Large Student Number: 299887} \\
+	\vspace*{2pt}
+
+	\normalsize
+	Ph.D Science (351AA) \\
+	June 2018\\
+	\vspace*{4\baselineskip}
+	Department of Optometry and Vision Science,\\
+	Melbourne School of Medicine Dentistry and Vision Sciences \\
+	\vspace*{0.25\baselineskip}
+	{\large \scshape The University of Melbourne} \\
+	\vspace*{3\baselineskip}
+	Submitted in total fulfilment of the degree of \\
+	\vspace*{0.25\baselineskip}
+	{\large \itshape Doctor of Philosophy} \\
+	\end{titlepage}
+
+%% Making all the frontmatter
+\frontmatter
+\thispagestyle{empty}
+
+% Abstract
+
+\input{Abstract}
+
+% Declarations
+	\cleardoublepage
+	\addcontentsline{toc}{chapter}{Declaration}
+	\input{int/Declaration}
+
+% Preface
+\cleardoublepage
+\addcontentsline{toc}{chapter}{Preface}
+\input{Preface}
+
+% Acknowledgements
+
+\input{acknowledgements}
+
+	% Make Table of Contents
+	\cleardoublepage
+	\addcontentsline{toc}{chapter}{Table of Contents}
+	\tableofcontents
+
+	% Make list of figures
+	\cleardoublepage
+	\addcontentsline{toc}{chapter}{\listfigurename}
+	\listoffigures
+
+	% Make list of tables
+	\cleardoublepage
+	\addcontentsline{toc}{chapter}{\listtablename}
+	\listoftables
+
+% Start of the actual thesis now.		
+\mainmatter
+	\input{int/int}
+	\input{litrev/litreview}
+	\input{Methods/methods}
+	\input{rb/RadialBias}
+	\input{ShrewV1/orisf}
+	\input{superiorcolliculus/sc}
+	\input{LinearV1/linv1}
+	\input{generaldiscussion/GD}
+	
+% Back matter for the References and Appendices	
+\backmatter
+\bibliography{References/library}
+\bibliographystyle{apacite}
+
+
+
+\end{document}
+

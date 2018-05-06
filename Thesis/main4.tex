@@ -1,4 +1,4 @@
-\documentclass [12pt] {report}
+\documentclass [11pt] {book}
 
 \usepackage{graphicx}
 \usepackage{setspace}
@@ -6,16 +6,23 @@
 \usepackage{here}
 \usepackage[a4paper, total={6in, 8in}]{geometry}
 \usepackage{amsmath}
-
 \doublespacing
+
 
 \title{Origins of feature selectivity in the visual system of two mammalian species}%How asymmetries in the feedforward signals are exploited by target neurons to elaborate feature selectivity}
 \author{Yamni Mohan}
 \date{}
 
 \begin{document}
+	
   	\maketitle
 	\tableofcontents
+	\cleardoublepage
+	\addcontentsline{toc}{chapter}{\listfigurename}
+	\listoffigures
+	\cleardoublepage
+	\addcontentsline{toc}{chapter}{\listtablename}
+		\listoftables
 	\input{int/int}
 	\input{litrev/litreview}
 	\input{Methods/methods}

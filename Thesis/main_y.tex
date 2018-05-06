@@ -1,0 +1,243 @@
+\documentclass[11pt,a4paper]{book}
+%\documentclass[a4paper,twoside]{ociamthesis}
+\usepackage{graphicx}
+\usepackage{ifpdf}
+\ifpdf
+	% put here packages only for the PDF:
+	\DeclareGraphicsExtensions{.pdf,.png,.jpg,.mps}
+\else
+	% put here packages only for the DVI:
+\fi
+% put all the other packages here:
+\usepackage{mystyle}
+
+\begin{document}
+	\renewcommand{\chapterbib}{}
+	\renewcommand{\chapterfigures}{}
+	\newcommand{\main}{.}
+
+	% TITLE
+	\begin{titlepage}
+    \centering
+    
+    \vspace*{3\baselineskip}
+    %\colorbox{GRAY}{\parbox{1.4\textwidth}{\centering \color{White} \huge \scshape Sodium MRI Techniques at High Field}} \\
+    
+    \color{Gray} \hrulefill \\
+    \centering \color{Black} \huge \scshape Sodium MRI Techniques at High Field
+    
+    \color{Gray} \LARGE An Investigation of Signal Acquisition, Reconstruction and Analysis \\ \hrulefill
+    
+    
+    %\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt}
+    %\rule{\textwidth}{0.4pt}\\[\baselineskip]
+    %{\LARGE \scshape Sodium MRI Techniques at High Field: } \\
+	%	\vspace*{0.5\baselineskip}
+	%	 { \large An Investigation of Signal Acquisition, Reconstruction and Analysis} \\[0.2\baselineskip]
+    %\rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt}
+    %\rule{\textwidth}{1.6pt}\\[\baselineskip]
+		\vspace*{6\baselineskip}
+		\color{black}
+    {\Large Yasmin Blunck} \\
+		\vspace*{0.75\baselineskip}
+		\normalsize
+    ORCID: 0000-0003-3600-9958 \\
+		Ph.D Engineering (351AA) \\
+		April, 2018 \\
+		\vspace*{6\baselineskip}
+		Department of Biomedical Engineering,
+		Melbourne School of Engineering \\
+		\vspace*{0.25\baselineskip}
+		{\large \scshape The University of Melbourne} \\
+		\vspace*{3\baselineskip}
+		Submitted in total fulfilment of the degree of \\
+		\vspace*{0.25\baselineskip}
+		{\large \itshape Doctor of Philosophy} \\
+  \end{titlepage}
+
+
+
+	\thispagestyle{empty}
+
+
+	\chapter*{Declaration}
+	This is to certify that
+	\begin{enumerate}[label=(\roman*)]
+			\item the thesis comprises only their original work towards the Ph.D except where indicated in the preface;
+			\item due acknowledgement has been made in the text to all other material used; and
+		 \item the thesis is fewer than 100,000 words in length, exclusive of
+	tables, maps, bibliographies and appendices.
+	\end{enumerate}
+	\vspace*{4cm}
+	\begin{flushright}
+	 \rule{0.4\textwidth}{0.4pt} \\
+	 \vspace*{2mm}
+	 Yasmin Blunck\\
+	 \vspace*{2cm}
+	 \rule{0.4\textwidth}{0.4pt} \\
+	 \vspace*{2mm}
+	Date
+	\end{flushright}
+	\thispagestyle{empty}
+	\blankpage
+	\thispagestyle{empty}
+
+	
+	
+	\addcontentsline{toc}{chapter}{Abstract}
+	\chapter*{Abstract} \renewcommand{\thepage}{\roman{page}}
+	% 300-500 words
+	\blindtext
+	 \blankpage
+	
+	\pagestyle{myStylePageNumberless}
+	\vspace{-0.5cm}
+	
+	%\addcontentsline{toc}{chapter}{Acknowledgement}
+	\chapter*{Acknowledgments} \chaptermark{Acknowledgment} 
+	\blindtext
+	\blankpage
+	
+	
+	\customFormat
+	\addcontentsline{toc}{chapter}{List of Publications} %\mtcaddchapter
+	%\addtocontents{toc}{\protect\setlength{\parskip}{0pt}\protect\OnehalfSpacing}
+	\chapter*{List of Publications} \chaptermark{List of Publications}
+	\vspace{-1cm}
+	The work presented in this thesis has produced the following publications and conference presentations.
+	\subsection*{Journal papers}
+	\begin{itemize}
+		\item \textbf{Blunck, Y.}, Josan, S., Taqdees, S.W., Moffat, B.A., Ordidge, R.J., Cleary, J.O. and Johnston, L.A. ``3D-Multi-Echo Radial Imaging of 23Na (3D-MERINA) for Time-Efficient Multi-Parameter Tissue Compartment Mapping'', \emph{Magnetic Resonance in Medicine}, 2017, doi:
+		
+		\item \textbf{Blunck, Y.}, Moffat, B.A., Ordidge, R.J., Kolbe, S.C., Cleary, J.O. and Johnston, L.A. ``Zero-Gradient-Exciation Ramped Hybrid Encoding Sodium MRI'', \emph{Magnetic Resonance in Medicine} \textit{(under review)}
+	\end{itemize}
+	\subsection*{Conference abstracts}
+	\begin{itemize}
+		\item \textbf{Blunck, Y.}, Moffat, B.A., Kolbe, S.C., Ordidge, R.J., Cleary, J.O. and Johnston, L.A. ``Improved Encoding Efficiency in Sodium MRI with Zero-Gradient-Excitation Ramped Hybrid Encoding (zGRF-RHE)'', \emph{Proceedings of the 26th Annual Meeting of ISMRM}, Paris, France, 2018.
+		
+		\item \textbf{Blunck, Y.}, Moffat, B.A., Kolbe, S.C., Ordidge, R.O., Cleary, J.O., Johnston, L.A. ``Zero-Gradient-Excitation Ramped Hybrid Encoding (zGRF-RHE) Sodium MRI'', \emph{The 11th Australian and New Zealand Magnetic Resonance Society Conference}, Kingscliff, Australia, 2017.
+		
+		\item \textbf{Blunck, Y.}, Josan, S., Moffat, B.A., Ordidge, R.J., Cleary, J.O. and Johnston, L.A. ``3D-Multi-Echo Radial Imaging of 23Na (3D-MERINA) for Time-Efficient Multi-Parameter Tissue Compartment Mapping'', \emph{Proceedings of the 25th Annual Meeting of ISMRM}, Honolulu, USA, 2017.
+		
+		\item \textbf{Blunck, Y.}, Josan, S., Moffat, B. A., Farquharson, S., Ordidge, R. J., Johnston, L. A. (05/2016). ``Estimation and Correction of Systematic Bias Inherent in Sparsely Undersampled Sodium Imaging of the Human Brain at High-Field. \emph{Proceedings of the 24th Annual Meeting of ISMRM}, Singapore, 2016.
+	\end{itemize}
+	
+	\section*{\color{GRAY2} \hspace{3cm} \LARGE Further Scientific Contributions}
+	
+	\subsection*{Conference Abstracts}
+	\begin{itemize}
+		
+		\item Syeda, W.T., \textbf{Blunck, Y.}, Ng, A.C.L, Cleary, J.O. and Johnston, L.A. ``A Continuum of Components: Robust Parameter Mapping in Sodium MRI'', \emph{Proceedings of the 26th Annual Meeting of ISMRM}, Paris, France, 2018.
+
+		\item Kolbe, S.C., \textbf{Blunck, Y.}, Glarin, R.K., Taqdees, S.W., Moffat, B.A., Ordidge, R.J, Johnston, L.A. and Cleary, J.O.``Interpreting short and long 23 Na relaxation components in human brain: comparisons with tissue microstructure at 7 Tesla.'', \emph{Proceedings of the 26th Annual Meeting of ISMRM}, Paris, France, 2018.
+		
+		\item Korte, J.C., Tahayori, B., Farrell, P.M., \textbf{Blunck, Y.} and Johnston, L.A. ``Efficient imaging of Rabi modulated trajectories using balanced Steady-State Driven Trajectory (bSSDT) imaging'', \emph{Proceedings of the 26th Annual Meeting of ISMRM}, Paris, France, 2018.
+		
+		\item Cleary, J. O., Ng, A., Shanahan, C., \textbf{Blunck, Y.}, Strik, M., Moffat, B. A., Kilpratick, T. J., Ordidge, R. J. and	Kolbe, S. C. ``Ultra High Field Regional Quantitative Susceptibility Mapping in Patients with Relapsing-Remitting Multiple Sclerosis: A Pilot Study.'', \emph{Proceedings of the 25th Annual Meeting of ISMRM}, Honolulu, USA, 2017.
+		
+		\item \textbf{Blunck, Y.}, Cleary, J.O., Josan, S., Moffat, B.A., Ordidge, R.O., Johnston, L.A. ``Twisted ZeroEcho Time (zTE) Imaging in 23Na-MRI'', \emph{IEEE International Symposium in Biomedical Imaging}, Melbourne, Australia, 2017.
+		
+	\end{itemize}
+	\subsection*{Invited Talks} 
+	\begin{itemize}
+		\item Siemens MR R\&D User Group Meeting 2017 -- Victorian Chapter. ``Using Yarra to facilitate 23Na Imaging with
+		seamless image reconstruction'', Melbourne, Australia, Oct 2017 (presented by Dr. Jon Cleary).
+		
+		\item ANZMAG 2017 -- MRI Workshop. ``Multi-parameter mapping in Sodium MRI'', Kingscliff, Australia, Dec 2017.
+	\end{itemize}
+
+	\subsection*{Magazines and Newsletter}
+	\begin{itemize}
+		\item {Topics in Victorian Biomedical Imaging: VBIC Newsletter Aug 2017. ``Project in the Spotlight: \emph{Sodium MRI}''}.
+		\item {ANZMAGazine. ``Publication Highlights: '\emph{Salt in the wound: tackling the challenges of Sodium MRI}'}, 5(2), Dec 2017.
+	\end{itemize}
+	
+	\blankpage \blankpage
+	%\dominitoc % Initialization for chapter tocs
+	\tableofcontents \chaptermark{Contents}
+	\blankpage \blankpage
+		%\addcontentsline{toc}{chapter}{List of figures}
+		
+	\listoffigures  \chaptermark{List of Figures} \clearpage
+	%\addcontentsline{toc}{chapter}{List of tables}
+	
+	\listoftables \chaptermark{List of Tables} %\blankpage \blankpage
+
+	%% Template chapter / style guide
+	%\subfile{\main/chapters/template/template.tex}
+	%\subfile{\main/chapters/template-cross/template-cross.tex}
+	%
+	% NOTES:
+	% ** Global Style:
+	% 		all package includes and style changes to be made in global file:
+	%		 ./mystyle.sty
+	% 		this style file needs to be symlinked in each chapter folder
+	% ** Thesis/Chapter sub compilation
+	% 		to make the whole document (open this file) and 'pdfLaTex, bibTex, pdfLaTex, pdfLaTex'
+        %		to make a single chapter (open the chapter tex file) and 'pdfLaTex, bibTex, pdfLaTex, pdfLaTex'
+	% ** Citation/Referencing
+	%		citation information stored in bibtex file ./LibraryMRI.bib
+	%		when building whole document there is a single bibliography at end
+	%		when builing a chapter there is a bibliography at the end for citation in that chapter only
+	% ** Complex figures & tables
+	%		put complex figures and tables in a seperate .tex file and use the \include statement
+	%		to keep main tex file easy to edit (an example of this is provided in './chapters/template/template.tex'
+	
+	
+	\subfile{\main/chapters/00_outline_introduction/outline_introduction.tex}
+	%\addcontentsline{toc}{chapter}{Introduction and Outline}
+	
+	\clearpage
+	
+	%\part[the title for the toc]
+	%{The title for the document\\[\bigskipamount] 
+	%	\large with a small subtitle}
+	
+	%\part[\bfseries{\large \textsc{THEORIY AND BACKGROUND}} \\  \hspace*{14pt} \small \textcolor{gray}{Motivation and Principles of Sodium MRI}]{\textsc{Theory and Background}  \vskip 20pt  \LARGE \textcolor{gray}{Motivation and Principles of Sodium MRI}}
+	\part*{\color{GRAY2} \textsc{Theory and Background}  \vskip 20pt  \LARGE \textcolor{gray}{Motivation and Principles of Sodium MRI}}
+	\addcontentsline{toc}{part}{\bfseries{\large \textsc{THEORY AND BACKGROUND}} \\   \small \textcolor{gray}{Motivation and Principles of Sodium MRI}}
+	\renewcommand{\thepage}{\arabic{page}}
+	\setcounter{page}{1}
+	\pagestyle{myStylePage}
+	
+	%% Introduction
+	\subfile{\main/chapters/01_PysicalRoleSodium/PysicalRoleSodium.tex}
+
+	%% Theory
+	\subfile{\main/chapters/02_NMR/NMR.tex}
+
+	%% Methods
+	\subfile{\main/chapters/03_MRI/MRI.tex}
+	
+	%\part[\bfseries{\Large \textsc{TECHNIQUES OF SODIUM MRI AT HIGH FIELD}} \\ \hspace*{20pt} \small \textcolor{gray}{An Investigation of Signal Acquisistion, Reconstruction and Analysis}]{\textsc{Techniques of Sodium MRI at High Field} \vskip 20pt \LARGE \textcolor{gray}{An Investigation of Signal Acquisistion, Reconstruction and Analysis}}
+	\part*{\color{GRAY2} \textsc{SODIUM MRI TECHNIQUES AT HIGH FIELD}  \vskip 20pt  \LARGE \textcolor{gray}{An Investigation of Signal Acquisition, Reconstruction and Analysis}}
+	\addcontentsline{toc}{part}{\bfseries{\large \textsc{SODIUM MRI TECHNIQUES AT HIGH FIELD}} \\   \small \textcolor{gray}{An Investigation of Signal Acquisition, Reconstruction and Analysis}}
+	
+	%\cftaddtitleline{toc}{part}{\bfseries{ \large \textsc{SODIUM MRI TECHNIQUES AT HIGH FIELD}} \\   \small \textcolor{gray}{An Investigation of Signal Acquisistion, Reconstruction and Analysis}}{}
+
+	%% Rabi CW Spectroscopy
+	\subfile{\main/chapters/04_zGRF-RHE/zGRF-RHE.tex}
+	
+	%% Ring Lock Excitation
+	\subfile{\main/chapters/05_CS/CS.tex}
+
+	%% Rabi CW Imaging
+	\subfile{\main/chapters/06_MERINA/MERINA.tex} 
+
+	
+
+	%% Discussion
+	%\subfile{\main/chapters/07_discussion/discussion.tex}
+
+	%% Conclusion
+	\subfile{\main/chapters/08_conclusion/conclusion.tex}
+
+	%% Thesis Outline
+	%\subfile{\main/chapters/thesis-outline/outline.tex}
+
+	\addcontentsline{toc}{chapter}{Bibliography}
+	\bibliography{\main/Library}
+	
+	
+
+\end{document}
