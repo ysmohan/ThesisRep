@@ -179,6 +179,35 @@ Bonds, A\BPBI B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Born%
+\ \BBA {} Tootell%
+}{%
+Born%
+\ \BBA {} Tootell%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+Born1991}
+\APACinsertmetastar {%
+Born1991}%
+\begin{APACrefauthors}%
+Born, R\BPBI T.%
+\BCBT {}\ \BBA {} Tootell, R\BPBI B\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1991}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Spatial frequency tuning and surrounding inhibition of
+  single cells in macaque supragranular striate cortex}} {{Spatial frequency
+  tuning and surrounding inhibition of single cells in macaque supragranular
+  striate cortex}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the National Academy of
+  Sciences}{88}{}{7066--7070}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Bosking%
 , Zhang%
 , Schofield%
