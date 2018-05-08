@@ -1,5 +1,7 @@
 \chapter{Literature Review}
 
+
+
 Hubel and Wiesel, in their seminal paper in 1962, described the receptive field (RF) properties and the functional organisation of neurons in the primary visual cortex (V1) of cats. They showed that most cortical neurons were sharply tuned to orientation, showed ocular dominance and could be classified as simple or complex. They proposed a hierarchical, feedforward model that gave rise to orientation selectivity, simple cells as well as complex cells. Further, they proposed that neurons in V1 were grouped into columns based on the optimum orientation of the neurons. Since their first report, the theories proposed by Hubel and Wiesel have been heavily interrogated with evidence presented both to support and oppose their proposals. Some of this literature is reviewed below.
 
 \section{The Visual Pathways}
@@ -277,40 +279,25 @@ This model explains the results of the APB studies as well. In the APB studies, 
 Finally, not only does the model explain the orientation selectivity, length tuning and contrast invariance of neurons, it also explains the spatial frequency selectivity of cortical neurons. The orientation selectivity of LGN neurons is dependent on the spatial frequency of the stimulus, with orientation selectivity being sharpest at higher spatial frequency. These higher spatial frequencies also correspond to the spatial frequencies where the layer 2/3 neurons respond. The orientation non-specific inhibition can then be applied in a low spatial frequency specific manner, attenuating such low spatial frequency responses of the cortical neurons such that the cortical neuron only fires at the spatial frequencies where the LGN neuron already shows an orientation tuned response.
 
 
+\subsection{Receptive field organisation, linearity of spatial summation and spatial frequency tuning of neurons}
+
+In this section, a review of the literature on receptive field organisation, linearity of spatial summation and spatial frequency tuning of neurons is undertaken. These three receptive field properties are reviewed together as they are intricately linked to each other and insights into the mechanism underlying any one of these properties inform the literature for the other two. For example, simple cells, which have segregated receptive field sub-regions also show linearity of spatial summation while complex cells that have overlapping sub-regions demonstrate considerable non-linearities \cite{DeValois1982, Skottun1987}. Similarly, the receptive field structure of simple cells can be derived by performing an inverse fast fourier transform of its spatial frequncy tuning curve \cite{Bishop1982, Kulikowski1986, DeValois1990}. Further, most of the work on spatial frequency tuning and receptive field organisation are conducted on linear systems (simple cells) so this research is reviewed here although non-linearities of spatial summation are dealt with towards the end of this section.
+
+Three measures are usually used to characterise the spatial frequency curves of neurons, namely: the peak spatial frequency, the low spatial frequency cut-off and high spatial frequency cut-off. The high spatial frequency cut-off is related to the size of the smallest sub-region of a neuron and is generally determined by the width of the LGN receptive field that provides input to the neuron \cite{Parker1988}. A further constraint on the high spatial frequency cut-off is the size of the cortical receptive field itself. Cortical receptive fields are bigger than the LGN receptive fields and as a result, most neurons demonstrate some high spatial frequency attenuation compared to their LGN inputs. The mechanisms that determine the peak spatial frequency and the low spatial frequency cut-off are a little more contentious and are discussed below.
+
+Low spatial frequency attenuation is one of the most significant changes that occurs in the primary visual cortex when compared to the LGN. Early studies that looked into the sharpening of spatial frequency tuning using masks showed that there was spatial frequency specific inhibition in the primary visual cortex. This spatial frequency specific inhibition was usually broadly tuned \cite{Morrone1982, DeAngelis1992} and could be low-pass, high-pass or band limiting \cite{Morrone1982, Bonds1989, Bauman1991, DeValois1983}. It was suggested that this spatial frequency specific inhibition was intracortical in origin and not only helped sharpen spatial frequency tuning but also sharpened orientation selectivity  \cite{Vidyasagar1987, Vidyasagar1996b,Bredfeldt002a}. In support of this claim, it was shown that when inhibition was abolished using Bicuculline in the primary visual cortex of cats, the spatial frequency tuning of the neurons broadened with an increased response at lower spatial frequencies \cite{Vidyasagar1994a}. It was also shown that the cross-orientation inhibition was tuned to lower spatial frequencies \cite{Meese2004}. Further, the strong correlation between spatial frequency tuning and orientation tuning in the cortex suggested that intracortical mechanisms underlie both orientation and spatial frequency tuning \cite{DeValois1982a, Webster1985, Xing2004}.
+
+Further evidence for the intracortical origin of low spatial frequency inhibition came from studies that examined the dynamics of receptive field properties. Ringach and colleagues showed that while initial spatial frequency tuning of cortical neurons reflected that of the LGN neurons (low-pass tuned), the spatial frequnecy selectivity of neurons sharpened, with significant attenuation of lower spatial frequencies and as a result, the peak spatial frequency of the neuron \cite{Bredfeldt2002a}. Such sharpening with time was also reported with orientation selectivity \cite{Shapley2003} and when the temporal dynamics of V1 receptive fields was studied, the receptive field size also reduced, congruent with the sharpening of spatial frequency \cite{Malone2007}. Based on these results, it was suggested that the mechanism throuugh which spatial frequency tuning was sharpened in the cortex had two components: a feedforward component where neurons received broadly tuned spatial frequency inputs from the LGN and an intracortical component, where inhibition tuned to lower spatial frequencies were attenuated by intracortical inhibition. Such a model is very similar to the ALD-R model discussed in relation to orientation selectivity in the previous section \cite{Vidyasagar1996b}.
+
+Given that the most prominent model of sharp spatial frequency tuning observed in V1 is similar to the ALD-R model, the relevance of other models of orientation selectivity in the sharpening spatial frequency tuning are evaluated below. First, the excitatory convergence model \cite{Hubel1962d} is studied. It was suggested that the excitatory convergence mechanism could explain the sharpening of spatial frequency tuning when non-linearities in the form of thresholding was introduced \cite{Priebe2012}. Later studies showed that the low spatial frequency attenuation in V1 could be explained by those observed in the LGN; namely, the differences in the latencies of the centre and surround mechanisms of the LGN receptive fields \cite{Allen2006, Nirody2014}. Allen and Freeman especially suggested that the cortical dynamics could be explained when there is a centre-surround latency in the LGN and neurons and the cortical neurons receive inputs from multiple neurons of different receptive field sizes \cite{Frazor2004, Allen2006}. However, they don't really specify the spatial separation of the multiple receptive fields. If the LGN neurons had overlapping receptive fields instead of spatially segregated receptive fields as suggested by Hubel and Wiesel, then the ALD-R model could also explain these results. Further, studies have also suggested that the latency differences between the LGN receptive centre and surround was caused by cortico-fugal feedback, further suggesting that the sharpening of orientation selectivity involved intracortical mechanisms.
 
 
-\subsection{Linearity of Spatial Summation}
-
-what does it mean?
-classification
-Differences
-
-\subsection{Receptive field organisation and Spatial Frequency Tuning of neurons}
-
-It is acknowledged that the spatial frequency tuning of neurons is an emergent property of the neuron's receptive field organisation- so both these properties are addressed together in this part.
-Three aspects of spatial frequency selectivity of the neurons- 1st is the peak spatial frequency of the neuron.
- 2) Peak spatial frequency and low spatial frequency cut-off.
- 
- - Coarse to fine tuning.
-  - Thought to be due to intracortical inhibition
-  - Inhibition tuned to higher spatial frequencies in most cells. Few are tuned to low spatial frequency. 
-  - Studies looking into the dynamics of spatial frequency tuning- Find that the peak spatial frequency gets higher and there is low spaital frequency attenuation- Can be related to receptive field sub-regions sharpening. 
-  - Source of such inhibition is intracortical nature- ringach suggested that a mechanism similar to that for orientation might be required.
-  
   - Models of receptive field organisation- 
   
  - Simple cells rfs. Double row projections- H\&W like spatial convergence alternate symmetric and anti-symmetric arrangement of receptive fields
  -Instead Daugman, Kulikowski, Sagar, DeValois- all think Gabor models fits better. 
  
  - More complex- 
- 3) High spatial frequency cut-off of the neuron.
-    - The high spatial frequency cut-off of a neuron is related to the size of the smallest receptive field sub-region - Contributed to by LGN neurons- Which means there is an absolute spatial frequency limit established in the retina? 
-    - Cortical simple cells have bigger receptive fields and this could also explain the high spatial frequency attenuation observed in certain neurons. 
-    
-    
-    
-
-\cite{DeValois1990a} pp123 Can go back and forth between receptive field profile and spatial frequency tuning curves using fourier transformation. The predicted sftuning and rf profile closely correspond with actual data. Side bands 
 
 
 What affects spatial frequency tuning?

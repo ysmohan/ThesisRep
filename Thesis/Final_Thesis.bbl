@@ -92,6 +92,35 @@ Alitto, H\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Allen%
+\ \BBA {} Freeman%
+}{%
+Allen%
+\ \BBA {} Freeman%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Allen2006}
+\APACinsertmetastar {%
+Allen2006}%
+\begin{APACrefauthors}%
+Allen, E\BPBI A.%
+\BCBT {}\ \BBA {} Freeman, R\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Dynamic Spatial Processing Originates in Early Visual
+  Pathways}} {{Dynamic Spatial Processing Originates in Early Visual
+  Pathways}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Neuroscience}{26}{45}{11763--11774}.
+\newblock
+\begin{APACrefDOI} \doi{10.1523/JNEUROSCI.3297-06.2006} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Anderson%
 , Carandini%
 \BCBL {}\ \BBA {} Ferster%
@@ -118,6 +147,36 @@ Anderson, J\BPBI S.%
   Cortex.}}{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of neurophysiology}{84}{}{909--926}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bauman%
+\ \BBA {} Bonds%
+}{%
+Bauman%
+\ \BBA {} Bonds%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+Bauman1991}
+\APACinsertmetastar {%
+Bauman1991}%
+\begin{APACrefauthors}%
+Bauman, L\BPBI A.%
+\BCBT {}\ \BBA {} Bonds, A\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1991}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Inhibitory refinement of spatial frequency selectivity
+  in single cells of the cat striate cortex.}} {{Inhibitory refinement of
+  spatial frequency selectivity in single cells of the cat striate
+  cortex.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Vision Research}{31}{6}{933--944}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/0042-6989(91)90201-F} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -236,6 +295,32 @@ Bosking, W.%
   striate cortex}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{The Journal of neuroscience}{17}{6}{2112--2127}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bredfeldt%
+\ \BBA {} Ringach%
+}{%
+Bredfeldt%
+\ \BBA {} Ringach%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+Bredfeldt2002a}
+\APACinsertmetastar {%
+Bredfeldt2002a}%
+\begin{APACrefauthors}%
+Bredfeldt, C\BPBI E.%
+\BCBT {}\ \BBA {} Ringach, D\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Dynamics of Spatial Frequency Tuning in Macaque V1}}
+  {{Dynamics of Spatial Frequency Tuning in Macaque V1}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{22}{5}{1976--1984}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -560,11 +645,69 @@ DeValois1982}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-DeValois%
+DeAngelis%
+, Robson%
+, Ohzawa%
+\BCBL {}\ \BBA {} Freeman%
+}{%
+DeAngelis%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1992}}%
+}]{%
+DeAngelis1992}
+\APACinsertmetastar {%
+DeAngelis1992}%
+\begin{APACrefauthors}%
+DeAngelis, G\BPBI C.%
+, Robson, J\BPBI G.%
+, Ohzawa, I.%
+\BCBL {}\ \BBA {} Freeman, R\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Organization of suppression in receptive fields of
+  neurons in cat visual cortex}} {{Organization of suppression in receptive
+  fields of neurons in cat visual cortex}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{J Neurophysiol}{68}{1}{144--163}.
+\newblock
+\begin{APACrefDOI} \doi{1517820} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+K\BPBI K.~DeValois%
+\ \BBA {} Tootell%
+}{%
+K\BPBI K.~DeValois%
+\ \BBA {} Tootell%
+}{%
+{\protect \APACyear {1983}}%
+}]{%
+DeValois1983}
+\APACinsertmetastar {%
+DeValois1983}%
+\begin{APACrefauthors}%
+DeValois, K\BPBI K.%
+\BCBT {}\ \BBA {} Tootell, R\BPBI B\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1983}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Spatial frequency inhibition in cat striate cortex}}
+  {{Spatial frequency inhibition in cat striate cortex}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Physiology}{336}{}{359--378}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+R\BPBI L.~DeValois%
 , Albright%
 \BCBL {}\ \BBA {} Thorell%
 }{%
-DeValois%
+R\BPBI L.~DeValois%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {1982}}%
 }]{%
@@ -588,14 +731,42 @@ DeValois, R\BPBI L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-DeValois%
+R\BPBI L.~DeValois%
 \ \BBA {} DeValois%
 }{%
-DeValois%
+R\BPBI L.~DeValois%
 \ \BBA {} DeValois%
 }{%
 {\protect \APACyear {1990}}%
-}]{%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+DeValois1990}
+\APACinsertmetastar {%
+DeValois1990}%
+\begin{APACrefauthors}%
+DeValois, R\BPBI L.%
+\BCBT {}\ \BBA {} DeValois, K\BPBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1990{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Retinogeniculate Anatomy and Physiology}}
+  {{Retinogeniculate Anatomy and Physiology}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Spatial Vision} {Spatial vision}\ (\BPGS\ 55--93).
+\newblock
+\APACaddressPublisher{}{Oxford University Press, USA-OSO}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+R\BPBI L.~DeValois%
+\ \BBA {} DeValois%
+}{%
+R\BPBI L.~DeValois%
+\ \BBA {} DeValois%
+}{%
+{\protect \APACyear {1990}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
 DeValois1990a}
 \APACinsertmetastar {%
 DeValois1990a}%
@@ -605,7 +776,7 @@ DeValois, R\BPBI L.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{1990}{}{}.
+\APACrefYearMonthDay{1990{\protect \BCnt {2}}}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {{Striate Cortex}} {{Striate Cortex}}.{\BBCQ}
 \newblock
@@ -1341,6 +1512,33 @@ Kuffler, S\BPBI W.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Kulikowski%
+\ \BBA {} Vidyasagar%
+}{%
+Kulikowski%
+\ \BBA {} Vidyasagar%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+Kulikowski1986}
+\APACinsertmetastar {%
+Kulikowski1986}%
+\begin{APACrefauthors}%
+Kulikowski, J.%
+\BCBT {}\ \BBA {} Vidyasagar, T\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1986}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Space and Spatial Frequency: Analysis and
+  Representation in the macaque Striate Cortex}} {{Space and Spatial Frequency:
+  Analysis and Representation in the macaque Striate Cortex}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Experiment Brain Research}{64}{}{5--18}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Lehmkuhle%
 , Kratz%
 , Mangel%
@@ -1577,6 +1775,36 @@ Maffei, L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Malone%
+, Kumar%
+\BCBL {}\ \BBA {} Ringach%
+}{%
+Malone%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+Malone2007}
+\APACinsertmetastar {%
+Malone2007}%
+\begin{APACrefauthors}%
+Malone, B\BPBI J.%
+, Kumar, V\BPBI R.%
+\BCBL {}\ \BBA {} Ringach, D\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Dynamics of Receptive Field Size in Primary Visual
+  Cortex}} {{Dynamics of Receptive Field Size in Primary Visual
+  Cortex}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{1563}{}{407--414}.
+\newblock
+\begin{APACrefDOI} \doi{10.1152/jn.00830.2006.} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Martinez%
 \ \protect \BOthers {.}}{%
 Martinez%
@@ -1606,6 +1834,36 @@ Martinez, L\BPBI M.%
 \APACjournalVolNumPages{Nature Neuroscience}{8}{3}{372--379}.
 \newblock
 \begin{APACrefDOI} \doi{10.1038/nn1404} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Meese%
+\ \BBA {} Hess%
+}{%
+Meese%
+\ \BBA {} Hess%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+Meese2004}
+\APACinsertmetastar {%
+Meese2004}%
+\begin{APACrefauthors}%
+Meese, T\BPBI S.%
+\BCBT {}\ \BBA {} Hess, R\BPBI F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Low spatial frequencies are suppressively masked across
+  spatial scale, orientation, field position, and eye of origin.}} {{Low
+  spatial frequencies are suppressively masked across spatial scale,
+  orientation, field position, and eye of origin.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of vision}{4}{10}{843--859}.
+\newblock
+\begin{APACrefDOI} \doi{10.1167/4.10.2} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1888,6 +2146,33 @@ Nelson, S\BPBI B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Nirody%
+}{%
+Nirody%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Nirody2014}
+\APACinsertmetastar {%
+Nirody2014}%
+\begin{APACrefauthors}%
+Nirody, J\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Development of spatial coarse-to-fine processing in the
+  visual pathway}} {{Development of spatial coarse-to-fine processing in the
+  visual pathway}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Computational
+  Neuroscience}{36}{3}{401--414}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10827-013-0480-6} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Palmer%
 \ \BBA {} Davis%
 }{%
@@ -1911,6 +2196,33 @@ Palmer, L\BPBI A.%
   {{Receptive-Field in Cat Striate Cortex}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of neurophysiology}{46}{2}{260--276}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Parker%
+\ \BBA {} Hawken%
+}{%
+Parker%
+\ \BBA {} Hawken%
+}{%
+{\protect \APACyear {1988}}%
+}]{%
+Parker1988}
+\APACinsertmetastar {%
+Parker1988}%
+\begin{APACrefauthors}%
+Parker, A\BPBI J.%
+\BCBT {}\ \BBA {} Hawken, M\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1988}{}{}.
+\newblock
+\APACrefbtitle {{Two-dimensional spatial structure of receptive fields in
+  monkey striate cortex.}} {{Two-dimensional spatial structure of receptive
+  fields in monkey striate cortex.}}\ (\BVOL~5)\ (\BNUM~4).
+\newblock
+\begin{APACrefDOI} \doi{10.1364/JOSAA.5.000598} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -3273,6 +3585,35 @@ Vidyasagar, T.%
 
 \bibitem [\protect \citeauthoryear {%
 T\BPBI R.~Vidyasagar%
+\ \BBA {} Mueller%
+}{%
+T\BPBI R.~Vidyasagar%
+\ \BBA {} Mueller%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+Vidyasagar1994a}
+\APACinsertmetastar {%
+Vidyasagar1994a}%
+\begin{APACrefauthors}%
+Vidyasagar, T\BPBI R.%
+\BCBT {}\ \BBA {} Mueller, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{jan}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Function of GABAA inhibition in specifying spatial
+  frequency and orientation selectivities in cat striate cortex.}} {{Function
+  of GABAA inhibition in specifying spatial frequency and orientation
+  selectivities in cat striate cortex.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Experimental brain research. Experimentelle
+  Hirnforschung. Exp{\'{e}}rimentation c{\'{e}}r{\'{e}}brale}{98}{1}{31--8}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+T\BPBI R.~Vidyasagar%
 , Pei%
 \BCBL {}\ \BBA {} Volgushev%
 }{%
@@ -3424,6 +3765,36 @@ Watkins, D\BPBI W.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Webster%
+\ \BBA {} {De Valois}%
+}{%
+Webster%
+\ \BBA {} {De Valois}%
+}{%
+{\protect \APACyear {1985}}%
+}]{%
+Webster1985}
+\APACinsertmetastar {%
+Webster1985}%
+\begin{APACrefauthors}%
+Webster, M\BPBI A.%
+\BCBT {}\ \BBA {} {De Valois}, R\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1985}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Relationship between spatial-frequency and orientation
+  tuning of striate-cortex cells}} {{Relationship between spatial-frequency and
+  orientation tuning of striate-cortex cells}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the Optical Society of America
+  A}{2}{7}{1124--1132}.
+\newblock
+\begin{APACrefDOI} \doi{10.1364/JOSAA.2.001124} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Wilson%
 \ \BBA {} Sherman%
 }{%
@@ -3476,6 +3847,38 @@ W{\"{o}}rg{\"{o}}tter, F.%
   contributions of orientation tuning in the cat's striate cortex.}}{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Society of Neuroscience Abstract}{326}{8}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xing%
+, Ringach%
+, Shapley%
+\BCBL {}\ \BBA {} Hawken%
+}{%
+Xing%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+Xing2004}
+\APACinsertmetastar {%
+Xing2004}%
+\begin{APACrefauthors}%
+Xing, D.%
+, Ringach, D\BPBI L.%
+, Shapley, R.%
+\BCBL {}\ \BBA {} Hawken, M\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Correlation of local and global orientation and spatial
+  frequency tuning in macaque V1}} {{Correlation of local and global
+  orientation and spatial frequency tuning in macaque V1}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Physiology}{557}{3}{923--933}.
+\newblock
+\begin{APACrefDOI} \doi{10.1113/jphysiol.2004.062026} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
